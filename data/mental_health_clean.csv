@@ -1,0 +1,2001 @@
+Person_ID,Age,Gender,Occupation,Daily_Screen_Time,Social_Media_Usage,Night_Usage,Sleep_Hours,Stress_Level,Work_Study_Hours,Physical_Activity,Social_Interaction_Score,Caffeine_Intake,Smoking,Alcohol,Depression,Anxiety,Burnout,Age_Group,Screen_Group,Sleep_Group
+1,54,Male,Student,10.2,7.5,0,6.5,8,5.8,Low,6,2,0,1,1,1,1,Senior,Very High,Ideal
+2,44,Male,Student,6.8,4.5,0,5.1,4,7.9,High,2,1,1,0,0,0,0,Mid Age,High,Low
+3,30,Male,Employed,5.5,6.9,0,3.5,10,9.4,Low,2,0,1,1,1,0,1,Adult,Moderate,Very Low
+4,58,Male,Employed,5.6,4.1,0,9.0,2,2.0,High,10,0,0,1,0,0,0,Senior,Moderate,High
+5,23,Female,Employed,10.1,6.0,1,3.8,4,4.6,Low,4,4,0,1,1,1,0,Young Adult,Very High,Very Low
+6,36,Female,Student,5.3,6.1,1,3.4,2,7.4,Low,8,2,1,0,1,0,0,Mid Age,Moderate,Very Low
+7,54,Female,Unemployed,4.1,2.2,0,8.3,3,7.3,Low,5,4,1,1,1,0,0,Senior,Moderate,High
+8,34,Male,Unemployed,2.8,3.5,1,4.8,4,8.4,Medium,9,0,1,0,0,0,1,Adult,Low,Very Low
+9,38,Male,Employed,6.7,5.5,0,6.9,4,5.0,Low,4,1,0,0,0,1,0,Mid Age,High,Ideal
+10,26,Male,Employed,6.8,1.5,0,5.0,10,7.4,Medium,3,3,1,0,1,1,1,Adult,High,Very Low
+11,26,Male,Unemployed,10.4,3.5,1,5.3,9,3.9,Medium,10,4,0,0,1,1,0,Adult,Very High,Low
+12,39,Male,Unemployed,4.2,4.7,1,4.6,10,3.9,Medium,8,0,1,0,0,1,1,Mid Age,Moderate,Very Low
+13,51,Female,Employed,5.8,8.0,0,5.1,6,7.8,High,1,3,1,0,1,0,1,Senior,Moderate,Low
+14,55,Female,Employed,10.1,4.3,0,5.5,9,8.9,Low,9,3,0,1,1,1,1,Senior,Very High,Low
+15,39,Male,Unemployed,10.2,6.7,1,7.3,4,3.2,High,4,0,0,1,1,0,1,Mid Age,Very High,High
+16,18,Male,Student,5.8,4.0,1,6.1,9,3.2,Medium,9,2,1,0,0,1,0,Teen,Moderate,Ideal
+17,37,Male,Employed,6.6,6.6,0,8.7,9,7.7,Low,8,0,0,0,1,1,0,Mid Age,High,High
+18,17,Male,Unemployed,5.0,5.2,0,3.3,6,4.7,High,3,1,0,1,1,0,0,Teen,Moderate,Very Low
+19,39,Female,Unemployed,11.3,7.2,0,6.0,5,5.9,Medium,3,3,1,1,1,1,1,Mid Age,Very High,Low
+20,59,Male,Unemployed,3.2,3.9,1,6.5,3,6.0,High,9,1,0,0,0,1,1,Senior,Low,Ideal
+21,45,Male,Unemployed,11.3,5.2,0,8.5,5,3.8,High,3,4,0,1,1,0,0,Mid Age,Very High,High
+22,53,Male,Student,8.8,5.4,1,3.3,3,2.0,Low,4,3,1,0,0,1,1,Senior,Very High,Very Low
+23,17,Male,Unemployed,7.3,3.9,0,6.4,5,10.5,Low,9,2,1,1,0,1,0,Teen,High,Ideal
+24,36,Female,Employed,2.3,2.0,1,8.1,5,9.2,High,4,0,0,1,0,0,1,Mid Age,Low,High
+25,48,Male,Student,6.8,1.7,1,4.5,2,8.9,Low,3,4,0,1,0,0,0,Mid Age,High,Very Low
+26,27,Male,Unemployed,6.1,1.1,1,8.3,9,7.5,Low,7,1,0,1,1,1,0,Adult,High,High
+27,37,Female,Student,3.6,7.1,1,3.1,7,9.0,High,6,4,1,1,0,1,1,Mid Age,Low,Very Low
+28,59,Female,Employed,8.6,2.7,0,7.4,6,11.4,Low,1,2,1,0,0,0,0,Senior,Very High,High
+29,40,Female,Unemployed,11.7,2.5,1,8.6,5,8.7,Low,10,0,0,0,0,1,0,Mid Age,Very High,High
+30,42,Male,Employed,7.6,6.2,1,6.9,4,4.7,Medium,8,4,0,1,1,0,0,Mid Age,High,Ideal
+31,57,Male,Unemployed,9.1,3.2,1,5.6,8,7.7,Low,1,1,0,0,1,1,1,Senior,Very High,Low
+32,43,Female,Unemployed,2.7,4.5,0,3.3,2,6.4,Medium,4,4,1,0,0,0,1,Mid Age,Low,Very Low
+33,31,Female,Unemployed,6.2,2.1,0,8.5,8,7.6,High,6,0,1,1,0,1,0,Adult,High,High
+34,30,Female,Unemployed,3.2,7.7,0,5.8,1,7.2,Medium,6,4,0,0,0,0,0,Adult,Low,Low
+35,59,Female,Unemployed,8.1,7.0,0,3.2,10,10.6,High,7,1,0,0,0,1,1,Senior,Very High,Very Low
+36,18,Female,Student,11.4,7.0,0,7.1,1,8.5,Low,5,0,0,1,0,0,0,Teen,Very High,High
+37,52,Female,Unemployed,8.6,3.8,0,5.9,3,3.9,Low,5,2,0,0,0,0,1,Senior,Very High,Low
+38,22,Male,Unemployed,2.8,6.3,1,3.7,5,2.6,Medium,4,2,1,1,1,1,0,Young Adult,Low,Very Low
+39,36,Male,Student,5.5,2.0,1,4.3,6,6.2,High,6,3,0,1,0,1,1,Mid Age,Moderate,Very Low
+40,24,Male,Student,7.5,1.1,1,3.4,4,2.2,Low,7,4,0,0,0,0,0,Young Adult,High,Very Low
+41,54,Female,Student,6.0,1.1,0,6.4,7,5.2,Medium,10,1,1,1,0,1,1,Senior,Moderate,Ideal
+42,33,Female,Student,10.3,5.1,1,6.7,7,5.7,Medium,10,4,0,0,1,1,1,Adult,Very High,Ideal
+43,19,Female,Student,10.1,4.2,1,6.0,2,5.8,Medium,1,0,0,0,0,1,0,Young Adult,Very High,Low
+44,40,Female,Student,8.1,4.6,0,7.9,2,11.8,Low,9,3,0,1,0,0,0,Mid Age,Very High,High
+45,29,Female,Unemployed,5.7,1.1,1,8.2,2,5.0,High,8,1,0,0,1,1,0,Adult,Moderate,High
+46,24,Female,Unemployed,4.6,4.0,0,6.7,2,4.7,Low,7,4,0,0,1,1,0,Young Adult,Moderate,Ideal
+47,41,Male,Employed,3.1,6.0,1,3.1,9,3.3,Low,9,1,0,0,0,0,1,Mid Age,Low,Very Low
+48,17,Male,Unemployed,5.5,4.1,0,7.2,5,7.1,High,3,0,1,0,1,0,1,Teen,Moderate,High
+49,35,Female,Unemployed,6.1,6.1,0,5.5,8,3.5,Medium,10,3,0,0,0,1,0,Adult,High,Low
+50,43,Male,Student,8.8,2.6,0,6.4,5,8.2,Low,4,1,1,0,1,0,1,Mid Age,Very High,Ideal
+51,22,Female,Student,8.6,6.7,1,6.9,5,3.6,Medium,7,0,1,0,1,1,0,Young Adult,Very High,Ideal
+52,59,Male,Unemployed,2.7,5.1,1,5.1,1,7.8,Medium,6,2,1,1,1,1,0,Senior,Low,Low
+53,23,Female,Employed,6.0,2.5,0,8.5,6,10.3,High,2,1,1,0,1,0,1,Young Adult,Moderate,High
+54,50,Female,Student,3.8,2.7,0,3.8,4,2.4,High,2,3,0,1,1,0,0,Mid Age,Low,Very Low
+55,29,Male,Unemployed,3.6,5.4,1,7.0,3,6.2,High,10,1,0,1,0,1,0,Adult,Low,Ideal
+56,32,Male,Unemployed,10.3,6.8,1,3.0,6,6.6,Medium,7,1,0,0,1,1,0,Adult,Very High,Very Low
+57,51,Female,Employed,2.4,3.9,0,8.5,2,9.9,Medium,9,0,0,1,0,0,0,Senior,Low,High
+58,55,Female,Employed,6.2,2.8,1,3.7,8,6.7,Low,9,4,1,1,0,0,0,Senior,High,Very Low
+59,19,Male,Student,3.7,7.1,1,3.6,1,7.7,Medium,7,4,1,1,0,0,0,Young Adult,Low,Very Low
+60,17,Male,Employed,10.8,5.7,1,5.0,9,9.9,High,8,1,1,0,1,1,1,Teen,Very High,Very Low
+61,21,Female,Unemployed,7.6,4.1,0,5.2,8,7.6,High,10,3,0,1,0,0,1,Young Adult,High,Low
+62,57,Male,Unemployed,4.3,4.4,0,4.3,1,5.6,High,3,3,1,1,1,1,1,Senior,Moderate,Very Low
+63,19,Female,Employed,7.0,2.4,1,6.5,10,2.9,High,1,0,0,1,1,1,1,Young Adult,High,Ideal
+64,44,Female,Employed,9.3,5.4,0,5.7,9,9.3,Medium,7,1,1,1,0,1,1,Mid Age,Very High,Low
+65,33,Female,Employed,11.6,3.5,1,3.2,2,10.7,High,8,1,0,1,1,0,0,Adult,Very High,Very Low
+66,41,Female,Employed,4.2,8.0,1,4.9,3,11.7,Low,2,4,1,1,0,1,1,Mid Age,Moderate,Very Low
+67,59,Male,Student,10.9,4.4,0,7.9,2,11.3,Medium,9,0,1,0,0,0,1,Senior,Very High,High
+68,49,Male,Employed,11.3,4.4,0,7.1,8,10.0,High,4,2,0,1,1,1,1,Mid Age,Very High,High
+69,25,Male,Student,11.2,5.0,0,7.3,2,8.4,Low,10,3,1,1,1,1,0,Young Adult,Very High,High
+70,51,Male,Unemployed,8.4,7.4,1,7.2,10,9.8,High,9,3,1,0,0,1,1,Senior,Very High,High
+71,29,Male,Employed,8.3,6.6,1,4.9,2,6.3,Medium,3,1,0,0,0,0,1,Adult,Very High,Very Low
+72,46,Male,Student,6.0,4.2,0,3.6,1,7.9,Medium,8,0,1,1,0,0,0,Mid Age,Moderate,Very Low
+73,30,Male,Employed,9.5,6.0,0,4.6,7,5.5,Low,2,2,1,1,1,1,0,Adult,Very High,Very Low
+74,23,Female,Unemployed,7.3,5.1,0,8.0,2,5.3,Medium,3,3,1,0,1,0,0,Young Adult,High,High
+75,29,Male,Unemployed,8.8,4.4,1,8.9,10,9.6,Low,1,0,1,1,1,1,1,Adult,Very High,High
+76,38,Male,Unemployed,6.3,2.3,1,6.0,5,6.5,High,5,2,0,1,1,1,1,Mid Age,High,Low
+77,55,Female,Employed,9.3,4.2,1,3.1,5,4.1,Medium,4,1,0,0,1,1,1,Senior,Very High,Very Low
+78,36,Male,Employed,10.2,2.7,0,3.8,3,4.0,High,1,4,1,1,1,0,0,Mid Age,Very High,Very Low
+79,31,Male,Student,3.5,7.4,0,4.9,3,10.6,High,10,3,0,0,1,1,0,Adult,Low,Very Low
+80,33,Female,Unemployed,10.3,3.3,1,6.5,3,8.8,Medium,9,3,1,1,0,1,1,Adult,Very High,Ideal
+81,39,Male,Employed,7.4,7.7,0,3.5,6,7.5,High,6,2,0,1,0,0,0,Mid Age,High,Very Low
+82,41,Male,Unemployed,10.4,4.7,0,8.7,4,6.0,Low,6,4,1,0,1,1,0,Mid Age,Very High,High
+83,40,Male,Unemployed,6.3,5.4,0,5.2,3,6.3,Low,2,0,1,0,0,0,0,Mid Age,High,Low
+84,56,Female,Student,5.8,4.8,0,8.5,2,2.6,Low,7,1,0,1,0,0,0,Senior,Moderate,High
+85,44,Male,Student,11.2,1.9,1,7.7,3,6.5,Medium,9,0,1,1,0,1,0,Mid Age,Very High,High
+86,30,Male,Student,4.5,3.6,0,7.5,4,10.0,High,6,2,1,1,0,0,0,Adult,Moderate,High
+87,16,Female,Student,10.4,1.7,1,6.6,6,5.9,High,8,3,1,0,1,0,1,Teen,Very High,Ideal
+88,40,Male,Unemployed,6.8,5.4,1,6.8,4,5.8,High,5,3,1,0,1,1,1,Mid Age,High,Ideal
+89,22,Female,Student,7.1,4.1,0,6.8,8,2.2,High,2,0,0,0,1,1,1,Young Adult,High,Ideal
+90,24,Female,Student,5.1,6.4,1,6.8,3,6.6,Low,4,1,0,0,1,0,1,Young Adult,Moderate,Ideal
+91,39,Male,Student,7.7,2.5,1,6.3,3,2.3,Medium,1,2,0,0,0,0,1,Mid Age,High,Ideal
+92,16,Female,Student,5.3,2.2,0,8.9,3,7.7,Low,1,1,0,0,0,1,0,Teen,Moderate,High
+93,59,Female,Unemployed,2.4,3.8,1,7.4,8,7.1,Low,6,2,1,1,1,1,1,Senior,Low,High
+94,23,Male,Student,4.7,7.5,1,7.7,4,10.4,Medium,2,1,1,0,0,0,1,Young Adult,Moderate,High
+95,39,Female,Unemployed,2.1,6.0,1,8.2,1,7.8,Medium,6,0,1,0,0,0,0,Mid Age,Low,High
+96,26,Female,Employed,11.8,3.9,1,4.3,2,5.2,Low,1,4,1,0,1,1,0,Adult,Very High,Very Low
+97,32,Male,Unemployed,11.7,4.6,1,3.5,10,7.2,High,10,2,0,0,0,0,1,Adult,Very High,Very Low
+98,23,Male,Unemployed,6.0,1.6,1,5.9,2,9.0,Medium,3,0,0,1,1,0,0,Young Adult,Moderate,Low
+99,50,Male,Student,9.3,7.9,1,6.1,3,2.9,Medium,9,3,0,0,0,0,0,Mid Age,Very High,Ideal
+100,50,Female,Employed,5.5,5.7,1,8.0,6,8.2,Low,2,3,1,1,1,0,1,Mid Age,Moderate,High
+101,48,Male,Employed,8.7,3.0,0,5.7,8,11.2,High,8,1,1,0,1,1,0,Mid Age,Very High,Low
+102,20,Female,Employed,10.1,5.1,0,6.4,1,5.0,Medium,6,3,1,1,0,0,0,Young Adult,Very High,Ideal
+103,57,Female,Employed,11.5,1.8,0,6.2,9,8.3,Low,6,4,1,0,0,1,1,Senior,Very High,Ideal
+104,54,Female,Unemployed,6.0,7.8,1,3.2,1,10.2,Medium,7,2,0,0,1,1,1,Senior,Moderate,Very Low
+105,56,Female,Employed,9.8,2.2,1,6.7,10,7.1,High,5,1,0,0,0,1,1,Senior,Very High,Ideal
+106,43,Female,Unemployed,4.7,5.5,1,8.0,2,9.2,Low,4,2,0,0,0,0,0,Mid Age,Moderate,High
+107,22,Female,Unemployed,11.9,2.7,0,3.9,3,5.1,Low,6,2,1,1,1,0,0,Young Adult,Very High,Very Low
+108,24,Female,Unemployed,2.3,6.0,0,6.6,7,5.1,High,8,0,0,1,0,0,1,Young Adult,Low,Ideal
+109,23,Male,Employed,8.0,6.4,0,6.6,9,8.7,Low,4,3,1,0,1,0,0,Young Adult,High,Ideal
+110,27,Male,Student,8.6,5.7,1,4.0,3,9.1,High,5,2,0,0,1,1,0,Adult,Very High,Very Low
+111,49,Female,Student,8.9,5.3,0,3.7,8,11.4,Low,7,4,0,1,0,0,1,Mid Age,Very High,Very Low
+112,48,Female,Employed,3.2,7.2,0,8.9,9,4.2,High,6,4,1,1,0,1,0,Mid Age,Low,High
+113,38,Male,Student,11.4,1.6,1,5.4,10,6.7,Medium,4,3,1,1,1,1,1,Mid Age,Very High,Low
+114,39,Female,Student,3.8,3.3,0,4.4,7,4.5,Medium,4,3,1,0,0,1,0,Mid Age,Low,Very Low
+115,52,Male,Unemployed,8.2,2.7,1,4.0,4,2.8,Medium,10,1,0,1,1,0,1,Senior,Very High,Very Low
+116,50,Male,Unemployed,4.2,7.9,0,7.0,4,6.0,Low,4,1,0,0,1,1,0,Mid Age,Moderate,Ideal
+117,59,Male,Employed,5.1,3.7,1,6.7,4,5.7,High,1,1,0,0,0,1,0,Senior,Moderate,Ideal
+118,55,Female,Employed,7.5,6.1,1,6.9,6,4.7,High,5,3,0,1,0,1,1,Senior,High,Ideal
+119,37,Female,Student,6.2,5.8,1,3.5,4,5.0,Medium,8,2,1,0,1,1,1,Mid Age,High,Very Low
+120,42,Male,Unemployed,3.6,2.5,1,8.4,5,5.6,Medium,7,0,0,0,0,0,1,Mid Age,Low,High
+121,50,Male,Employed,3.7,2.7,1,5.3,9,11.9,Medium,5,1,1,1,0,0,1,Mid Age,Low,Low
+122,16,Male,Employed,6.2,3.0,0,4.9,7,9.8,High,3,0,0,0,1,0,0,Teen,High,Very Low
+123,50,Male,Employed,9.6,3.9,1,5.8,8,2.7,Medium,1,4,1,1,1,1,1,Mid Age,Very High,Low
+124,52,Male,Employed,11.0,2.6,1,5.3,5,10.7,Low,7,3,1,1,0,0,1,Senior,Very High,Low
+125,29,Female,Employed,2.8,1.1,1,8.2,5,8.3,Medium,3,4,0,1,0,0,0,Adult,Low,High
+126,18,Male,Employed,5.9,7.2,1,8.6,7,10.9,Medium,4,1,0,0,0,0,1,Teen,Moderate,High
+127,16,Female,Student,3.0,7.8,0,4.8,8,5.4,High,5,2,1,1,0,1,0,Teen,Low,Very Low
+128,20,Male,Unemployed,2.2,3.4,1,8.2,9,6.6,Low,8,1,0,1,1,1,1,Young Adult,Low,High
+129,41,Female,Unemployed,8.6,3.4,0,7.7,2,11.0,High,7,0,1,0,0,0,1,Mid Age,Very High,High
+130,29,Female,Employed,8.0,1.0,1,8.6,3,4.7,Low,9,1,0,0,1,1,1,Adult,High,High
+131,54,Female,Unemployed,3.6,5.8,1,4.5,2,11.2,Low,3,2,0,1,0,0,0,Senior,Low,Very Low
+132,42,Female,Unemployed,4.3,6.8,0,6.5,10,10.3,Medium,10,2,0,0,1,0,1,Mid Age,Moderate,Ideal
+133,24,Female,Unemployed,2.2,2.0,0,4.6,7,11.8,Medium,1,3,0,0,0,0,1,Young Adult,Low,Very Low
+134,30,Female,Employed,10.3,2.1,0,7.9,2,5.2,High,1,3,0,0,0,1,0,Adult,Very High,High
+135,30,Male,Employed,11.7,6.5,1,3.0,2,4.4,High,10,2,1,0,1,1,0,Adult,Very High,Very Low
+136,41,Female,Unemployed,3.4,5.3,0,6.4,2,5.3,High,1,2,0,0,0,0,0,Mid Age,Low,Ideal
+137,57,Male,Unemployed,4.3,1.3,1,5.0,4,11.5,Low,2,0,1,1,1,1,0,Senior,Moderate,Very Low
+138,28,Female,Employed,10.7,5.4,0,4.9,1,5.3,High,2,1,1,1,1,1,1,Adult,Very High,Very Low
+139,47,Female,Student,11.3,3.2,0,6.9,2,7.7,Low,7,3,1,1,1,0,1,Mid Age,Very High,Ideal
+140,54,Male,Unemployed,6.2,3.6,1,8.1,3,6.0,Low,9,0,0,0,0,0,0,Senior,High,High
+141,47,Female,Student,2.5,6.4,0,6.7,7,6.0,Low,8,1,1,0,0,0,1,Mid Age,Low,Ideal
+142,19,Male,Unemployed,2.4,6.7,0,8.1,10,3.9,Low,4,3,1,1,1,0,0,Young Adult,Low,High
+143,45,Male,Student,7.7,3.8,1,4.6,1,7.4,Low,2,0,1,1,1,0,1,Mid Age,High,Very Low
+144,52,Male,Student,5.9,7.6,1,6.1,6,10.5,Medium,3,4,1,1,0,1,0,Senior,Moderate,Ideal
+145,38,Male,Student,2.3,3.8,1,5.7,3,2.5,Low,10,4,1,0,1,1,1,Mid Age,Low,Low
+146,54,Female,Employed,7.8,6.4,0,3.1,3,10.9,Low,5,3,1,1,0,1,0,Senior,High,Very Low
+147,30,Female,Student,2.1,4.4,0,6.3,4,8.7,Medium,9,0,0,0,0,1,1,Adult,Low,Ideal
+148,58,Male,Student,9.9,7.3,0,7.0,4,8.2,Medium,8,1,1,1,0,0,0,Senior,Very High,Ideal
+149,44,Female,Student,5.1,7.4,0,6.6,7,8.3,Medium,3,1,1,1,0,0,1,Mid Age,Moderate,Ideal
+150,51,Female,Unemployed,2.4,1.6,0,7.4,3,5.0,High,9,0,0,0,0,0,0,Senior,Low,High
+151,28,Male,Student,7.9,7.6,1,6.4,8,6.2,High,10,4,1,0,0,0,1,Adult,High,Ideal
+152,47,Female,Unemployed,6.0,6.8,0,3.4,8,10.0,Low,3,0,0,1,1,1,1,Mid Age,Moderate,Very Low
+153,22,Male,Student,11.7,6.5,1,3.7,7,5.1,Low,10,4,0,1,1,1,1,Young Adult,Very High,Very Low
+154,37,Male,Student,7.4,2.4,0,6.6,2,6.7,Low,8,4,1,1,1,1,0,Mid Age,High,Ideal
+155,43,Female,Employed,4.8,6.6,1,4.6,5,2.2,Low,1,1,1,0,0,1,1,Mid Age,Moderate,Very Low
+156,17,Female,Unemployed,9.1,7.0,0,3.5,6,9.3,Medium,4,3,0,0,0,0,0,Teen,Very High,Very Low
+157,57,Female,Student,4.7,3.0,0,5.6,10,6.2,High,4,2,0,1,1,1,1,Senior,Moderate,Low
+158,21,Male,Unemployed,11.0,7.7,1,6.3,4,7.3,Medium,6,0,0,1,0,0,0,Young Adult,Very High,Ideal
+159,43,Male,Unemployed,5.7,1.3,0,5.0,10,3.1,High,2,4,0,1,1,0,0,Mid Age,Moderate,Very Low
+160,43,Female,Employed,7.5,2.0,1,7.3,5,11.9,Medium,7,0,1,0,0,1,1,Mid Age,High,High
+161,59,Female,Employed,2.5,4.8,0,6.9,9,5.0,Low,5,3,0,1,1,0,1,Senior,Low,Ideal
+162,59,Female,Employed,6.3,5.0,0,5.0,7,8.3,High,10,3,0,1,0,1,1,Senior,High,Very Low
+163,35,Female,Employed,10.3,5.5,1,7.5,2,7.8,Low,6,2,0,0,0,0,1,Adult,Very High,High
+164,45,Male,Employed,10.1,1.1,0,6.9,1,9.9,High,6,2,1,1,1,0,1,Mid Age,Very High,Ideal
+165,26,Female,Employed,4.2,7.7,1,6.8,2,4.9,High,6,4,0,1,0,1,0,Adult,Moderate,Ideal
+166,43,Male,Employed,4.3,1.3,0,6.3,3,9.6,Low,10,2,0,0,1,1,0,Mid Age,Moderate,Ideal
+167,40,Male,Employed,10.2,2.0,0,3.1,2,5.8,Low,8,4,1,0,0,0,1,Mid Age,Very High,Very Low
+168,54,Female,Student,11.3,1.1,0,7.2,3,6.1,Low,10,1,1,1,0,0,0,Senior,Very High,High
+169,48,Female,Unemployed,3.0,5.0,0,5.3,10,8.7,Medium,4,4,0,0,1,1,1,Mid Age,Low,Low
+170,16,Female,Employed,6.5,7.5,0,8.7,9,9.8,High,10,2,0,0,1,0,1,Teen,High,High
+171,42,Male,Employed,5.4,5.7,0,7.9,4,8.7,High,8,0,0,0,0,0,1,Mid Age,Moderate,High
+172,28,Female,Unemployed,10.7,6.8,0,6.5,9,11.0,High,9,2,1,0,1,1,0,Adult,Very High,Ideal
+173,56,Female,Student,2.8,1.1,1,4.5,3,4.9,Low,4,3,1,0,0,0,0,Senior,Low,Very Low
+174,18,Male,Unemployed,4.1,4.8,0,4.2,1,11.0,High,1,2,0,0,0,0,1,Teen,Moderate,Very Low
+175,54,Female,Unemployed,9.5,4.2,0,5.0,5,3.3,High,3,1,0,0,0,0,1,Senior,Very High,Very Low
+176,21,Male,Employed,2.5,4.5,0,5.9,10,8.6,Low,1,4,0,1,1,1,1,Young Adult,Low,Low
+177,23,Female,Unemployed,6.9,1.5,1,4.8,10,7.5,Low,7,3,1,0,1,1,0,Young Adult,High,Very Low
+178,42,Male,Unemployed,6.4,5.8,1,6.1,2,6.9,High,1,4,0,0,0,0,1,Mid Age,High,Ideal
+179,24,Female,Employed,5.3,4.5,0,4.0,4,5.1,Medium,4,4,0,0,1,1,0,Young Adult,Moderate,Very Low
+180,52,Female,Employed,5.9,6.4,0,8.9,2,7.0,Low,1,2,1,0,1,0,0,Senior,Moderate,High
+181,48,Male,Employed,7.3,4.4,0,3.6,2,3.6,Medium,2,0,0,1,0,0,1,Mid Age,High,Very Low
+182,57,Male,Employed,3.6,2.0,1,8.6,3,5.7,Medium,1,3,1,1,0,1,0,Senior,Low,High
+183,59,Female,Unemployed,7.7,5.5,0,8.5,5,3.0,Medium,5,1,1,0,1,0,1,Senior,High,High
+184,39,Male,Unemployed,10.1,2.2,1,6.2,4,7.7,Medium,7,1,0,1,0,0,0,Mid Age,Very High,Ideal
+185,30,Male,Student,9.6,7.1,0,7.3,2,3.0,Low,3,0,1,1,1,1,0,Adult,Very High,High
+186,47,Male,Student,3.5,5.3,1,5.6,10,3.6,High,8,0,1,1,1,0,0,Mid Age,Low,Low
+187,47,Male,Unemployed,3.5,2.1,1,6.8,2,2.9,High,5,2,0,1,1,1,0,Mid Age,Low,Ideal
+188,39,Female,Student,4.7,7.7,0,5.0,6,5.8,Low,5,1,1,1,0,1,0,Mid Age,Moderate,Very Low
+189,56,Female,Unemployed,5.6,4.6,0,4.8,7,10.4,Low,5,3,1,0,0,1,1,Senior,Moderate,Very Low
+190,27,Male,Student,6.1,1.5,0,6.5,10,11.1,Medium,8,0,0,0,1,1,0,Adult,High,Ideal
+191,54,Male,Employed,8.8,5.4,0,6.0,6,2.7,Medium,2,0,0,0,1,0,1,Senior,Very High,Low
+192,17,Male,Student,2.6,2.8,0,6.5,7,8.3,Low,2,0,0,1,0,1,1,Teen,Low,Ideal
+193,18,Male,Employed,2.3,6.6,0,4.7,1,8.8,High,8,3,0,0,0,1,1,Teen,Low,Very Low
+194,52,Female,Employed,5.9,6.7,0,5.2,6,7.3,Medium,9,1,0,1,0,0,0,Senior,Moderate,Low
+195,32,Female,Employed,9.0,7.9,1,3.5,3,8.7,Low,10,3,1,0,0,0,0,Adult,Very High,Very Low
+196,17,Male,Employed,3.9,4.5,0,3.3,1,4.3,Low,10,3,1,0,0,0,0,Teen,Low,Very Low
+197,17,Male,Student,8.4,4.2,0,4.5,8,6.9,Low,2,2,1,0,1,1,0,Teen,Very High,Very Low
+198,43,Male,Unemployed,4.6,6.3,1,3.4,4,5.9,Medium,4,0,1,0,0,1,0,Mid Age,Moderate,Very Low
+199,38,Female,Employed,10.9,1.9,0,3.6,10,2.9,Low,8,1,1,1,1,0,0,Mid Age,Very High,Very Low
+200,52,Male,Student,11.0,4.8,0,7.9,8,8.3,High,2,2,0,0,1,1,0,Senior,Very High,High
+201,47,Female,Employed,5.0,4.8,0,3.2,10,7.0,Low,4,2,0,0,1,1,1,Mid Age,Moderate,Very Low
+202,48,Male,Student,4.3,1.6,0,7.0,4,4.8,Medium,10,4,0,1,1,0,1,Mid Age,Moderate,Ideal
+203,16,Female,Student,6.1,3.9,1,4.6,4,6.7,High,1,0,0,1,0,0,1,Teen,High,Very Low
+204,34,Male,Student,4.4,7.0,1,8.2,10,9.8,High,2,1,1,0,0,1,1,Adult,Moderate,High
+205,17,Female,Unemployed,8.7,7.0,0,5.9,4,10.0,Low,7,1,0,0,1,1,0,Teen,Very High,Low
+206,59,Male,Student,10.3,1.7,0,4.8,6,8.5,Low,1,1,0,1,1,0,0,Senior,Very High,Very Low
+207,41,Male,Student,8.7,1.6,1,6.1,9,6.7,High,1,0,1,1,0,1,0,Mid Age,Very High,Ideal
+208,47,Male,Unemployed,10.2,2.8,0,5.3,5,7.8,Low,2,1,1,0,1,0,1,Mid Age,Very High,Low
+209,21,Female,Unemployed,6.0,7.1,1,6.4,10,5.9,Medium,4,3,0,1,1,1,1,Young Adult,Moderate,Ideal
+210,47,Male,Student,3.6,1.9,1,3.7,8,3.3,High,7,3,1,1,1,0,1,Mid Age,Low,Very Low
+211,19,Female,Unemployed,9.4,6.0,1,9.0,8,5.9,Low,4,0,1,0,0,1,1,Young Adult,Very High,High
+212,26,Female,Employed,5.6,1.7,0,5.6,4,7.3,High,5,1,0,0,1,0,1,Adult,Moderate,Low
+213,32,Male,Employed,8.7,5.4,0,5.1,10,8.0,Low,4,4,1,0,1,1,0,Adult,Very High,Low
+214,53,Male,Unemployed,4.7,3.5,0,7.3,9,11.4,Low,4,4,0,1,0,1,1,Senior,Moderate,High
+215,39,Male,Unemployed,2.8,6.5,1,5.2,9,9.8,Medium,9,4,1,0,0,1,1,Mid Age,Low,Low
+216,20,Female,Student,11.9,2.6,0,8.0,5,3.5,Low,6,3,1,0,1,1,1,Young Adult,Very High,High
+217,49,Male,Unemployed,3.6,5.5,0,5.7,6,3.7,Low,3,4,1,0,1,1,0,Mid Age,Low,Low
+218,21,Female,Student,11.9,2.6,1,7.3,5,3.0,Low,6,1,1,1,1,1,0,Young Adult,Very High,High
+219,37,Female,Employed,11.8,6.0,0,3.6,3,9.4,Medium,7,1,0,0,1,0,0,Mid Age,Very High,Very Low
+220,26,Male,Unemployed,9.9,7.1,0,8.1,8,9.1,Low,7,4,1,0,1,1,1,Adult,Very High,High
+221,31,Male,Student,8.6,1.9,0,7.4,9,11.9,Low,8,2,0,1,1,0,0,Adult,Very High,High
+222,48,Male,Student,7.8,7.1,1,4.3,4,7.2,Low,4,4,0,1,1,1,1,Mid Age,High,Very Low
+223,24,Male,Employed,10.7,5.2,0,3.9,9,10.3,High,1,2,1,0,1,1,1,Young Adult,Very High,Very Low
+224,21,Male,Unemployed,4.9,1.9,1,4.9,9,7.8,Medium,6,0,1,0,0,1,1,Young Adult,Moderate,Very Low
+225,31,Male,Employed,6.7,4.0,1,8.9,7,10.7,High,8,0,0,0,1,0,0,Adult,High,High
+226,44,Female,Student,8.2,2.1,1,4.5,8,9.2,Medium,5,1,1,1,1,0,1,Mid Age,Very High,Very Low
+227,18,Female,Student,6.1,5.9,0,5.7,3,8.4,Medium,3,3,1,0,1,0,0,Teen,High,Low
+228,35,Female,Unemployed,6.3,6.3,0,3.2,5,7.7,High,4,1,0,0,1,1,0,Adult,High,Very Low
+229,51,Male,Student,5.3,1.7,0,5.4,3,9.2,Medium,8,1,1,1,0,1,1,Senior,Moderate,Low
+230,34,Female,Unemployed,7.6,4.5,1,6.4,7,6.2,Medium,6,3,0,1,1,0,0,Adult,High,Ideal
+231,41,Female,Employed,10.5,6.7,1,8.7,6,3.0,High,5,1,1,0,0,0,1,Mid Age,Very High,High
+232,18,Female,Unemployed,4.0,7.6,0,6.1,3,2.4,Low,9,3,1,1,1,0,0,Teen,Low,Ideal
+233,34,Female,Unemployed,11.3,4.6,1,7.9,9,6.8,Medium,10,1,1,0,0,1,1,Adult,Very High,High
+234,35,Female,Student,8.9,7.7,0,6.3,1,8.0,High,3,0,1,0,1,0,0,Adult,Very High,Ideal
+235,47,Male,Student,10.2,4.7,0,3.2,10,2.8,Medium,7,2,1,1,1,1,0,Mid Age,Very High,Very Low
+236,22,Male,Unemployed,7.6,3.8,0,4.9,3,4.9,High,9,1,1,1,1,0,1,Young Adult,High,Very Low
+237,56,Female,Student,9.8,6.9,0,6.5,10,5.2,Low,4,2,0,1,1,1,1,Senior,Very High,Ideal
+238,48,Female,Student,2.2,4.5,0,8.7,7,7.6,Medium,10,4,0,1,0,0,0,Mid Age,Low,High
+239,55,Female,Student,10.2,4.3,0,8.2,3,4.8,Low,10,1,1,0,0,0,0,Senior,Very High,High
+240,54,Male,Unemployed,2.4,4.4,0,4.4,3,3.0,Low,3,0,1,1,0,1,0,Senior,Low,Very Low
+241,33,Male,Student,10.9,6.9,1,4.3,2,3.6,High,1,3,0,1,1,1,1,Adult,Very High,Very Low
+242,55,Female,Unemployed,11.9,6.8,0,4.2,9,3.7,Medium,9,0,0,0,1,1,1,Senior,Very High,Very Low
+243,16,Male,Student,4.9,3.8,1,8.5,4,10.4,Medium,1,2,0,0,1,1,0,Teen,Moderate,High
+244,26,Male,Employed,4.1,3.3,1,8.1,10,4.8,Medium,2,3,1,0,0,1,1,Adult,Moderate,High
+245,43,Female,Student,9.7,4.4,0,7.6,6,9.1,Medium,9,0,1,1,1,1,0,Mid Age,Very High,High
+246,40,Male,Student,4.5,5.0,1,5.4,2,7.7,Medium,5,0,1,0,1,0,1,Mid Age,Moderate,Low
+247,38,Male,Unemployed,10.7,2.7,1,6.0,9,11.8,High,4,0,0,1,1,1,1,Mid Age,Very High,Low
+248,46,Female,Unemployed,3.0,6.6,1,5.8,7,4.7,Medium,9,3,0,1,0,1,0,Mid Age,Low,Low
+249,45,Male,Student,3.3,4.4,0,4.5,10,3.6,Low,9,0,1,1,0,0,1,Mid Age,Low,Very Low
+250,57,Male,Employed,11.8,3.3,0,6.0,5,2.5,Low,2,0,0,1,1,1,0,Senior,Very High,Low
+251,50,Female,Student,8.7,1.7,0,3.2,7,4.4,Medium,3,2,1,0,1,0,1,Mid Age,Very High,Very Low
+252,22,Male,Student,10.5,2.7,0,3.8,4,8.8,High,3,0,1,0,1,0,1,Young Adult,Very High,Very Low
+253,31,Male,Employed,5.2,7.6,0,8.3,10,2.9,High,5,0,0,0,1,0,0,Adult,Moderate,High
+254,41,Female,Unemployed,8.8,3.1,1,7.5,7,4.4,Medium,3,4,1,0,0,1,1,Mid Age,Very High,High
+255,17,Female,Student,7.9,2.2,1,5.5,2,10.6,Low,10,3,0,0,1,0,1,Teen,High,Low
+256,16,Female,Unemployed,8.0,4.2,0,6.1,7,7.8,Medium,6,4,0,1,1,1,0,Teen,High,Ideal
+257,27,Male,Unemployed,8.8,3.1,1,5.2,4,2.7,Medium,2,2,1,1,0,0,0,Adult,Very High,Low
+258,20,Female,Employed,7.8,1.2,1,7.4,4,2.5,Medium,6,4,1,1,1,1,0,Young Adult,High,High
+259,52,Male,Employed,6.3,3.3,1,7.7,1,2.6,High,6,1,0,1,1,0,0,Senior,High,High
+260,47,Female,Unemployed,4.8,4.8,1,7.6,3,11.4,High,2,3,1,0,0,1,1,Mid Age,Moderate,High
+261,24,Male,Student,9.7,4.9,0,7.3,5,10.5,Low,6,0,0,1,1,0,1,Young Adult,Very High,High
+262,56,Female,Unemployed,4.3,3.5,0,4.2,5,10.4,Low,6,4,1,1,0,0,1,Senior,Moderate,Very Low
+263,50,Female,Student,8.9,4.1,0,5.0,2,11.2,Medium,6,4,0,1,0,1,0,Mid Age,Very High,Very Low
+264,34,Female,Student,4.3,7.8,1,5.8,4,7.1,Low,5,0,0,1,1,1,0,Adult,Moderate,Low
+265,31,Female,Employed,8.3,3.6,1,5.0,1,4.5,Medium,7,0,1,1,1,0,0,Adult,Very High,Very Low
+266,18,Male,Student,9.5,2.8,0,7.5,9,6.0,Low,5,2,1,1,1,1,0,Teen,Very High,High
+267,35,Female,Student,4.2,2.7,0,5.0,1,9.2,Medium,1,4,0,0,0,0,0,Adult,Moderate,Very Low
+268,39,Female,Unemployed,2.6,4.2,1,3.8,6,10.8,High,9,4,0,0,0,0,1,Mid Age,Low,Very Low
+269,48,Male,Employed,3.3,6.3,0,5.4,7,6.4,Medium,3,1,0,1,1,0,1,Mid Age,Low,Low
+270,39,Female,Student,8.1,2.4,0,8.9,3,7.4,High,2,1,0,1,0,0,1,Mid Age,Very High,High
+271,26,Male,Student,10.5,6.0,1,4.4,1,11.3,High,10,4,1,1,0,1,1,Adult,Very High,Very Low
+272,23,Female,Employed,2.4,1.1,1,6.7,7,3.1,Low,6,1,1,1,0,0,1,Young Adult,Low,Ideal
+273,51,Female,Unemployed,9.3,3.9,0,5.6,3,10.6,Low,8,4,1,1,0,1,0,Senior,Very High,Low
+274,53,Female,Employed,5.4,6.4,1,3.4,10,3.6,High,2,3,0,0,1,1,1,Senior,Moderate,Very Low
+275,55,Male,Employed,6.8,3.4,0,5.9,6,6.8,Medium,4,2,1,0,1,0,0,Senior,High,Low
+276,35,Female,Student,11.3,4.9,1,7.2,6,4.2,Medium,2,1,0,1,0,1,1,Adult,Very High,High
+277,50,Female,Student,5.3,2.4,1,6.1,4,8.0,Low,9,4,0,0,1,0,0,Mid Age,Moderate,Ideal
+278,40,Female,Unemployed,6.7,6.2,0,8.2,6,7.6,Medium,10,1,1,1,0,0,0,Mid Age,High,High
+279,50,Male,Student,2.1,1.4,1,4.7,10,5.8,Medium,2,2,1,1,1,0,0,Mid Age,Low,Very Low
+280,40,Male,Student,2.8,7.0,0,3.5,4,10.6,Medium,10,3,0,0,0,0,1,Mid Age,Low,Very Low
+281,44,Female,Employed,4.6,2.4,1,8.6,8,8.6,High,2,0,0,0,0,1,1,Mid Age,Moderate,High
+282,33,Male,Student,2.3,7.1,0,5.3,9,9.2,High,5,0,1,0,0,1,1,Adult,Low,Low
+283,33,Female,Unemployed,8.3,3.5,1,6.5,2,3.5,Medium,5,1,0,0,0,1,1,Adult,Very High,Ideal
+284,17,Female,Employed,6.3,6.1,1,7.8,7,10.8,Low,7,4,1,1,1,1,1,Teen,High,High
+285,50,Female,Unemployed,7.5,3.2,0,4.9,9,3.7,Medium,1,2,1,0,0,0,1,Mid Age,High,Very Low
+286,31,Female,Employed,3.7,7.3,1,7.3,9,4.2,Low,2,3,0,0,0,0,1,Adult,Low,High
+287,56,Female,Student,5.0,1.9,0,3.8,5,3.3,High,6,3,0,0,0,1,0,Senior,Moderate,Very Low
+288,51,Female,Employed,8.6,2.2,1,4.7,1,6.4,Medium,2,3,0,1,0,0,1,Senior,Very High,Very Low
+289,48,Female,Employed,11.7,4.5,1,3.9,6,10.9,Medium,4,0,0,1,1,1,0,Mid Age,Very High,Very Low
+290,19,Male,Student,2.5,1.6,0,7.9,8,4.5,Low,10,2,0,1,1,0,1,Young Adult,Low,High
+291,48,Male,Student,10.9,2.4,1,4.3,1,5.7,Low,6,0,1,0,0,0,1,Mid Age,Very High,Very Low
+292,29,Male,Unemployed,7.8,7.6,1,7.3,2,10.5,Medium,7,1,1,0,1,1,0,Adult,High,High
+293,36,Male,Unemployed,7.6,7.8,0,8.7,1,8.2,Medium,10,3,1,0,0,1,0,Mid Age,High,High
+294,35,Male,Student,7.0,3.6,1,6.2,5,9.5,Low,5,2,1,1,1,1,0,Adult,High,Ideal
+295,23,Male,Student,2.7,7.5,0,6.2,2,4.1,High,8,3,0,0,1,1,0,Young Adult,Low,Ideal
+296,22,Male,Student,2.9,4.8,0,5.8,10,9.2,Low,6,0,1,0,1,1,1,Young Adult,Low,Low
+297,18,Female,Employed,8.0,2.9,0,5.0,10,4.3,Medium,5,0,0,1,1,1,1,Teen,High,Very Low
+298,32,Female,Employed,5.4,5.9,1,5.9,4,11.9,High,4,0,0,0,1,1,1,Adult,Moderate,Low
+299,48,Female,Employed,11.2,5.6,1,6.6,1,7.6,High,6,3,0,0,1,1,1,Mid Age,Very High,Ideal
+300,27,Female,Student,6.1,7.9,0,8.9,7,9.0,High,6,2,0,0,1,0,0,Adult,High,High
+301,37,Male,Unemployed,3.4,2.9,1,8.6,8,3.2,High,6,2,0,0,0,0,0,Mid Age,Low,High
+302,37,Male,Student,9.1,5.7,0,8.2,5,4.5,Medium,1,1,1,1,0,1,1,Mid Age,Very High,High
+303,45,Female,Employed,4.9,1.4,1,8.3,2,3.4,High,6,3,0,1,1,1,0,Mid Age,Moderate,High
+304,53,Female,Employed,7.3,1.8,0,5.8,8,5.9,Low,1,1,0,1,1,0,0,Senior,High,Low
+305,53,Male,Student,9.0,1.0,0,6.9,1,4.8,Low,5,1,1,0,1,1,1,Senior,Very High,Ideal
+306,23,Female,Student,11.0,8.0,1,8.4,7,9.3,Low,7,1,1,0,1,0,1,Young Adult,Very High,High
+307,42,Female,Employed,9.9,6.6,0,5.4,1,3.1,Medium,1,1,1,1,0,1,0,Mid Age,Very High,Low
+308,42,Female,Employed,8.8,6.5,0,8.8,6,9.5,High,1,0,0,0,1,1,0,Mid Age,Very High,High
+309,49,Female,Employed,8.8,4.6,1,5.5,6,2.5,Low,6,1,0,1,1,1,1,Mid Age,Very High,Low
+310,36,Male,Student,11.5,3.1,0,6.6,5,4.0,Low,7,2,0,1,1,1,0,Mid Age,Very High,Ideal
+311,45,Female,Employed,5.0,2.1,0,7.3,2,9.9,Low,6,1,0,0,0,0,0,Mid Age,Moderate,High
+312,48,Female,Employed,2.0,3.0,1,8.7,2,9.4,High,5,0,1,1,0,1,1,Mid Age,Low,High
+313,43,Male,Unemployed,4.7,3.6,0,4.5,9,6.8,Low,6,4,1,1,1,0,1,Mid Age,Moderate,Very Low
+314,48,Male,Student,4.2,6.3,0,7.5,5,2.5,High,3,4,1,1,0,1,0,Mid Age,Moderate,High
+315,20,Female,Unemployed,8.6,4.8,0,6.1,5,8.1,High,9,4,1,1,1,0,0,Young Adult,Very High,Ideal
+316,34,Male,Unemployed,8.3,1.5,0,4.6,7,6.1,High,5,3,1,1,0,1,0,Adult,Very High,Very Low
+317,19,Female,Employed,7.9,1.1,0,7.7,6,5.2,Medium,2,2,1,1,1,1,1,Young Adult,High,High
+318,50,Female,Student,2.2,1.7,0,6.3,2,8.4,Medium,10,0,0,0,0,0,1,Mid Age,Low,Ideal
+319,32,Male,Employed,9.3,3.9,0,7.0,1,6.4,High,10,4,0,1,0,1,0,Adult,Very High,Ideal
+320,59,Female,Student,5.2,7.5,0,4.9,5,2.9,High,7,0,1,1,1,0,1,Senior,Moderate,Very Low
+321,43,Female,Unemployed,8.7,5.5,1,5.9,4,11.2,Medium,3,0,1,0,1,1,0,Mid Age,Very High,Low
+322,45,Female,Student,7.6,6.6,0,6.7,3,9.8,Medium,1,3,1,0,0,0,1,Mid Age,High,Ideal
+323,44,Female,Employed,5.4,4.3,0,5.4,2,2.6,High,3,4,1,1,1,1,0,Mid Age,Moderate,Low
+324,21,Male,Employed,3.3,3.5,1,4.2,10,7.3,Medium,9,1,0,0,1,1,1,Young Adult,Low,Very Low
+325,50,Male,Employed,2.9,1.8,0,8.8,2,2.8,Low,5,0,0,0,1,0,0,Mid Age,Low,High
+326,56,Female,Student,10.3,7.1,0,6.1,4,10.4,High,7,4,0,1,0,0,0,Senior,Very High,Ideal
+327,52,Male,Unemployed,11.2,6.5,0,7.4,2,8.1,High,3,0,1,0,0,0,0,Senior,Very High,High
+328,39,Female,Unemployed,8.5,2.2,0,5.5,4,3.7,Medium,4,3,1,1,0,0,0,Mid Age,Very High,Low
+329,44,Female,Student,3.0,4.6,0,5.1,3,2.2,Low,1,3,1,1,0,0,0,Mid Age,Low,Low
+330,46,Female,Employed,6.0,4.4,0,5.4,9,2.3,Medium,3,1,0,1,1,0,1,Mid Age,Moderate,Low
+331,50,Female,Unemployed,9.3,5.4,1,5.5,7,7.1,Low,7,3,0,1,1,1,0,Mid Age,Very High,Low
+332,48,Female,Employed,9.8,7.6,1,6.3,3,9.3,Low,4,4,0,0,1,1,1,Mid Age,Very High,Ideal
+333,36,Male,Student,3.2,5.1,1,6.3,8,3.2,High,2,3,1,1,0,1,0,Mid Age,Low,Ideal
+334,47,Female,Employed,2.0,4.8,1,6.0,9,4.2,Low,5,1,0,0,0,0,0,Mid Age,Low,Low
+335,38,Male,Unemployed,9.1,1.4,1,3.8,7,5.3,High,5,2,0,0,0,0,0,Mid Age,Very High,Very Low
+336,48,Male,Unemployed,5.6,1.4,0,6.0,6,4.2,Low,2,0,1,1,1,1,1,Mid Age,Moderate,Low
+337,18,Female,Employed,4.5,2.3,0,4.0,4,5.9,High,6,0,0,1,0,0,0,Teen,Moderate,Very Low
+338,33,Female,Student,2.1,1.2,0,3.8,5,7.6,Low,10,4,1,0,0,0,0,Adult,Low,Very Low
+339,40,Female,Employed,7.4,6.2,0,8.6,8,8.8,Medium,4,1,1,1,1,1,0,Mid Age,High,High
+340,57,Female,Student,10.5,6.1,0,6.6,3,11.6,Low,1,1,1,1,1,1,1,Senior,Very High,Ideal
+341,46,Female,Employed,11.6,2.0,1,7.0,2,11.3,Medium,3,1,0,1,0,0,1,Mid Age,Very High,Ideal
+342,18,Male,Unemployed,7.7,6.9,1,5.4,3,7.7,Low,9,0,0,0,1,0,1,Teen,High,Low
+343,55,Female,Student,7.1,2.1,0,8.5,7,9.3,Low,10,3,1,0,0,0,1,Senior,High,High
+344,39,Female,Student,2.9,3.1,0,6.8,8,11.5,High,7,0,0,0,1,1,1,Mid Age,Low,Ideal
+345,47,Male,Student,7.5,2.7,0,7.6,1,2.8,Low,6,0,1,0,0,0,0,Mid Age,High,High
+346,37,Male,Unemployed,5.8,3.6,1,5.2,7,2.1,Low,1,0,0,1,1,0,1,Mid Age,Moderate,Low
+347,38,Female,Employed,8.1,2.8,1,8.8,9,2.3,Low,9,3,1,1,1,1,0,Mid Age,Very High,High
+348,17,Male,Unemployed,5.9,4.4,0,7.9,3,7.6,Medium,9,2,1,0,1,1,1,Teen,Moderate,High
+349,42,Female,Student,4.4,3.9,1,8.1,3,9.6,High,1,4,0,0,0,0,1,Mid Age,Moderate,High
+350,57,Male,Employed,2.9,7.9,0,4.0,8,5.7,High,6,2,1,0,1,0,0,Senior,Low,Very Low
+351,17,Male,Unemployed,5.1,1.4,1,4.6,4,7.5,Low,7,2,1,0,0,1,0,Teen,Moderate,Very Low
+352,41,Female,Student,3.0,2.0,1,4.7,8,7.2,Low,2,0,1,0,0,1,1,Mid Age,Low,Very Low
+353,32,Male,Student,3.8,1.4,0,4.6,5,2.9,Medium,10,2,1,1,1,1,1,Adult,Low,Very Low
+354,55,Male,Unemployed,11.9,5.4,1,8.1,3,5.2,Low,8,0,1,0,0,0,1,Senior,Very High,High
+355,48,Male,Unemployed,6.4,1.4,1,3.2,4,2.2,High,8,0,0,0,1,1,1,Mid Age,High,Very Low
+356,24,Male,Unemployed,7.3,6.9,0,3.5,4,3.1,High,6,4,0,1,0,1,1,Young Adult,High,Very Low
+357,58,Male,Student,10.7,4.6,1,4.6,8,10.1,Medium,9,1,1,1,1,1,1,Senior,Very High,Very Low
+358,54,Male,Unemployed,12.0,4.7,0,4.2,6,10.3,Medium,3,0,0,1,1,0,0,Senior,Very High,Very Low
+359,44,Female,Student,7.8,4.9,1,4.4,7,10.0,High,2,2,1,0,1,1,1,Mid Age,High,Very Low
+360,57,Female,Unemployed,10.1,2.2,0,7.8,9,9.3,Medium,2,4,1,1,0,1,1,Senior,Very High,High
+361,41,Male,Student,5.3,2.4,0,6.4,6,9.9,Low,6,2,1,0,0,0,0,Mid Age,Moderate,Ideal
+362,50,Female,Student,5.1,3.2,1,3.0,3,8.7,Low,7,1,1,0,1,0,0,Mid Age,Moderate,Very Low
+363,40,Female,Employed,6.0,5.2,1,5.6,3,8.7,Medium,6,3,1,1,0,0,0,Mid Age,Moderate,Low
+364,39,Female,Unemployed,8.7,2.5,0,5.4,3,8.7,High,3,1,0,0,0,0,0,Mid Age,Very High,Low
+365,28,Male,Unemployed,8.8,1.8,1,3.7,10,7.1,Medium,5,4,0,0,1,1,1,Adult,Very High,Very Low
+366,22,Female,Student,5.2,7.8,1,7.1,2,5.6,High,8,1,0,1,1,1,1,Young Adult,Moderate,High
+367,51,Male,Student,3.3,1.2,1,7.2,1,9.3,Medium,6,1,0,1,0,0,0,Senior,Low,High
+368,35,Female,Student,8.3,6.6,0,7.3,10,5.0,Medium,2,4,0,1,1,1,0,Adult,Very High,High
+369,16,Male,Employed,3.3,6.5,0,7.4,1,7.4,Medium,7,4,0,1,0,0,0,Teen,Low,High
+370,23,Male,Employed,7.8,3.1,0,3.0,4,6.3,Low,8,2,1,1,0,1,1,Young Adult,High,Very Low
+371,31,Female,Student,8.9,1.9,1,8.7,3,4.8,Low,4,0,0,1,1,1,1,Adult,Very High,High
+372,29,Female,Unemployed,9.0,2.0,1,7.9,5,11.7,High,1,3,1,1,1,1,0,Adult,Very High,High
+373,27,Male,Unemployed,9.5,5.9,0,8.4,9,4.6,Medium,2,3,1,1,0,1,1,Adult,Very High,High
+374,38,Female,Employed,10.7,5.5,0,3.1,8,5.1,Low,4,3,0,1,1,1,0,Mid Age,Very High,Very Low
+375,30,Female,Employed,7.0,6.5,1,8.6,9,3.6,Medium,7,1,0,1,1,0,0,Adult,High,High
+376,43,Female,Student,9.3,7.6,1,7.9,5,10.2,High,2,4,1,0,0,0,0,Mid Age,Very High,High
+377,49,Male,Unemployed,8.2,5.8,1,8.0,8,7.9,Low,6,4,1,0,0,1,1,Mid Age,Very High,High
+378,17,Male,Student,3.9,2.1,1,3.6,4,8.1,High,2,4,1,0,0,1,1,Teen,Low,Very Low
+379,47,Female,Employed,2.3,2.7,0,7.4,5,10.2,Low,7,0,1,1,0,0,1,Mid Age,Low,High
+380,38,Female,Unemployed,4.8,6.9,1,8.8,3,5.4,Medium,2,4,1,0,0,0,0,Mid Age,Moderate,High
+381,37,Female,Unemployed,6.4,2.5,1,7.1,5,3.9,High,3,4,0,0,0,0,0,Mid Age,High,High
+382,40,Male,Employed,8.2,1.5,0,6.4,3,4.0,Low,9,1,0,0,1,0,1,Mid Age,Very High,Ideal
+383,37,Male,Student,10.5,5.9,0,8.7,5,9.3,Low,4,2,1,0,1,0,1,Mid Age,Very High,High
+384,37,Female,Student,4.0,3.8,1,5.7,5,8.1,Medium,5,3,1,0,1,1,1,Mid Age,Low,Low
+385,57,Female,Unemployed,3.3,7.4,0,6.6,6,4.1,High,9,1,1,1,1,0,0,Senior,Low,Ideal
+386,21,Female,Employed,11.6,5.6,1,5.9,9,3.5,High,7,1,1,1,1,1,0,Young Adult,Very High,Low
+387,30,Female,Unemployed,3.1,1.6,1,8.6,1,3.2,High,8,1,1,1,0,1,0,Adult,Low,High
+388,58,Female,Employed,6.8,7.6,0,3.5,10,8.3,Medium,3,3,1,0,1,0,0,Senior,High,Very Low
+389,52,Female,Student,7.9,2.8,0,6.0,6,2.0,Low,4,1,1,0,1,0,0,Senior,High,Low
+390,48,Male,Employed,7.4,3.4,1,7.1,1,2.2,Low,7,2,1,1,0,0,0,Mid Age,High,High
+391,23,Female,Student,2.9,3.8,0,7.8,6,5.9,High,4,4,0,1,0,1,0,Young Adult,Low,High
+392,59,Male,Employed,2.6,1.4,1,6.5,2,8.9,Low,2,2,1,1,1,1,0,Senior,Low,Ideal
+393,59,Female,Unemployed,3.1,4.5,1,8.5,8,9.0,High,10,4,1,0,1,1,1,Senior,Low,High
+394,20,Female,Student,7.9,1.9,1,8.7,3,6.3,Medium,6,4,0,1,1,0,0,Young Adult,High,High
+395,54,Male,Unemployed,7.4,3.8,0,3.4,10,8.9,Medium,9,1,1,1,1,1,0,Senior,High,Very Low
+396,19,Male,Unemployed,4.3,3.5,1,5.4,6,7.2,Medium,2,1,1,1,0,0,1,Young Adult,Moderate,Low
+397,21,Male,Student,8.4,6.4,1,3.1,6,11.8,High,1,3,1,1,1,0,1,Young Adult,Very High,Very Low
+398,47,Male,Student,10.2,6.6,1,5.0,4,3.6,Low,8,0,1,1,1,1,1,Mid Age,Very High,Very Low
+399,45,Female,Unemployed,2.4,2.1,0,6.2,5,8.0,Medium,1,2,0,0,1,0,1,Mid Age,Low,Ideal
+400,50,Male,Unemployed,7.0,3.6,1,8.5,2,6.9,High,1,3,1,0,0,0,1,Mid Age,High,High
+401,55,Female,Unemployed,8.9,3.6,1,8.1,10,3.9,High,3,3,1,1,1,0,1,Senior,Very High,High
+402,31,Male,Unemployed,4.5,2.1,1,3.8,10,9.5,Medium,5,2,1,0,1,1,1,Adult,Moderate,Very Low
+403,28,Female,Student,5.1,6.6,0,3.6,8,4.8,Medium,9,2,0,1,1,1,1,Adult,Moderate,Very Low
+404,57,Female,Student,8.1,6.0,1,6.5,10,5.8,Medium,10,4,1,1,0,1,0,Senior,Very High,Ideal
+405,45,Female,Unemployed,11.0,2.3,1,6.2,7,5.7,Low,2,0,1,0,0,0,0,Mid Age,Very High,Ideal
+406,34,Female,Employed,10.1,3.6,0,4.6,10,4.4,Low,1,1,0,0,1,1,1,Adult,Very High,Very Low
+407,32,Female,Employed,7.8,1.7,0,8.4,6,6.3,High,1,0,0,0,0,0,1,Adult,High,High
+408,34,Female,Student,9.3,5.4,1,8.6,7,6.7,Medium,8,0,0,0,0,1,0,Adult,Very High,High
+409,43,Male,Unemployed,5.6,1.8,1,5.4,1,9.4,Medium,10,1,0,1,0,1,0,Mid Age,Moderate,Low
+410,41,Female,Unemployed,8.4,7.9,1,8.3,5,9.7,Low,10,0,1,0,0,0,1,Mid Age,Very High,High
+411,52,Male,Student,6.7,6.5,0,5.3,7,3.6,Medium,10,3,0,1,1,1,0,Senior,High,Low
+412,41,Male,Employed,3.9,3.7,0,7.4,1,7.9,High,2,3,0,1,0,1,0,Mid Age,Low,High
+413,38,Female,Employed,9.0,5.0,1,5.9,2,11.0,Medium,9,1,0,1,0,0,0,Mid Age,Very High,Low
+414,24,Male,Employed,7.6,7.4,0,3.7,9,3.1,Low,9,1,1,1,1,1,1,Young Adult,High,Very Low
+415,27,Female,Student,5.6,4.9,1,8.6,3,6.7,High,2,2,0,1,0,0,1,Adult,Moderate,High
+416,16,Male,Employed,11.1,2.2,1,5.7,6,9.5,High,3,2,1,0,1,1,1,Teen,Very High,Low
+417,16,Female,Student,2.2,3.7,0,7.4,7,8.1,Medium,2,0,1,1,1,0,1,Teen,Low,High
+418,49,Male,Student,5.2,6.9,1,5.2,9,3.0,High,6,0,0,0,0,1,1,Mid Age,Moderate,Low
+419,47,Female,Unemployed,2.6,5.5,0,3.1,5,6.0,Medium,7,1,1,1,0,0,1,Mid Age,Low,Very Low
+420,40,Female,Employed,9.7,5.6,0,3.6,4,7.1,Medium,6,0,0,0,1,0,0,Mid Age,Very High,Very Low
+421,55,Female,Student,9.0,7.1,1,6.0,2,12.0,Low,3,4,0,0,1,0,1,Senior,Very High,Low
+422,16,Female,Employed,5.3,7.3,0,7.1,3,3.8,High,3,3,1,1,0,1,1,Teen,Moderate,High
+423,31,Male,Employed,8.8,7.4,1,5.0,5,11.8,Medium,2,0,1,1,0,0,0,Adult,Very High,Very Low
+424,54,Female,Unemployed,6.0,1.7,0,7.2,2,5.8,Medium,2,0,1,0,0,0,1,Senior,Moderate,High
+425,20,Male,Employed,9.6,4.8,1,7.2,4,4.0,Medium,5,2,1,1,1,1,0,Young Adult,Very High,High
+426,37,Male,Unemployed,6.5,6.2,1,7.2,1,6.1,High,8,4,0,1,1,1,0,Mid Age,High,High
+427,44,Male,Student,6.1,6.3,1,6.0,4,8.1,High,6,0,1,0,0,0,0,Mid Age,High,Low
+428,18,Female,Employed,11.3,5.2,0,8.5,7,4.1,High,9,3,1,0,1,0,0,Teen,Very High,High
+429,27,Male,Student,4.5,2.2,1,5.9,3,4.9,Medium,5,0,1,1,0,0,0,Adult,Moderate,Low
+430,41,Male,Employed,3.2,6.6,0,5.7,10,10.5,High,10,1,1,1,1,1,0,Mid Age,Low,Low
+431,31,Male,Student,7.8,6.0,0,4.2,8,12.0,Medium,4,4,0,1,1,1,1,Adult,High,Very Low
+432,52,Female,Employed,11.7,1.6,0,4.8,6,5.2,High,9,0,0,1,1,1,0,Senior,Very High,Very Low
+433,37,Female,Employed,5.8,4.2,0,3.3,6,3.5,High,10,4,1,0,1,1,1,Mid Age,Moderate,Very Low
+434,44,Male,Employed,2.6,2.2,0,6.8,1,9.9,Medium,5,0,1,0,0,0,0,Mid Age,Low,Ideal
+435,29,Female,Employed,5.4,3.4,1,4.5,5,8.0,High,1,3,0,1,1,0,1,Adult,Moderate,Very Low
+436,43,Female,Employed,7.1,1.1,0,4.8,3,3.0,Medium,5,3,0,0,1,0,0,Mid Age,High,Very Low
+437,20,Male,Employed,3.6,3.8,1,7.6,10,11.5,High,5,4,0,0,1,1,1,Young Adult,Low,High
+438,45,Male,Employed,8.6,4.8,1,5.0,1,2.8,High,5,2,0,0,0,0,1,Mid Age,Very High,Very Low
+439,20,Female,Employed,12.0,5.3,0,4.5,8,8.3,High,2,2,1,0,1,1,1,Young Adult,Very High,Very Low
+440,27,Male,Employed,6.5,5.6,1,4.0,7,6.2,High,6,1,1,0,1,1,0,Adult,High,Very Low
+441,31,Female,Student,5.5,6.9,1,7.6,7,7.6,Low,5,2,0,0,1,1,1,Adult,Moderate,High
+442,41,Female,Unemployed,6.0,2.5,0,3.8,10,4.1,Medium,2,4,0,0,1,1,1,Mid Age,Moderate,Very Low
+443,41,Female,Employed,3.2,1.8,1,5.7,10,8.9,Low,10,2,1,1,0,0,1,Mid Age,Low,Low
+444,36,Female,Unemployed,10.8,7.0,0,6.0,10,11.6,High,8,1,1,1,1,1,0,Mid Age,Very High,Low
+445,54,Female,Employed,6.1,2.1,0,7.1,4,6.6,High,6,0,0,0,1,1,1,Senior,High,High
+446,51,Female,Employed,5.9,7.8,0,6.8,6,7.2,Medium,10,2,1,0,0,1,0,Senior,Moderate,Ideal
+447,48,Male,Student,8.6,6.9,1,7.9,9,4.4,Medium,3,4,0,0,1,1,1,Mid Age,Very High,High
+448,45,Male,Student,6.4,4.5,1,3.3,3,10.9,Medium,9,4,1,0,0,1,1,Mid Age,High,Very Low
+449,52,Female,Unemployed,8.5,7.9,1,4.8,9,11.7,Medium,4,1,1,0,1,1,1,Senior,Very High,Very Low
+450,38,Female,Student,2.6,1.7,1,4.7,4,9.9,High,3,1,0,1,1,1,0,Mid Age,Low,Very Low
+451,25,Female,Student,10.1,3.1,0,3.9,5,7.4,Medium,7,3,1,0,1,1,0,Young Adult,Very High,Very Low
+452,20,Male,Unemployed,11.4,5.5,0,4.7,7,11.6,Low,8,3,0,1,1,1,1,Young Adult,Very High,Very Low
+453,51,Female,Student,8.5,3.5,1,4.9,6,3.5,Medium,7,3,1,1,0,1,0,Senior,Very High,Very Low
+454,49,Male,Employed,11.5,7.5,0,6.1,10,6.8,Medium,1,0,0,0,1,1,1,Mid Age,Very High,Ideal
+455,46,Female,Unemployed,3.5,1.5,1,7.0,8,7.4,Low,1,4,0,0,0,0,1,Mid Age,Low,Ideal
+456,25,Female,Unemployed,6.8,4.8,0,5.3,8,6.9,Low,5,3,0,0,1,1,1,Young Adult,High,Low
+457,34,Male,Employed,8.0,5.1,0,7.3,8,10.0,Low,8,4,1,1,1,0,1,Adult,High,High
+458,47,Male,Student,7.8,5.6,0,5.0,3,8.7,Low,10,1,0,1,0,0,1,Mid Age,High,Very Low
+459,16,Female,Unemployed,6.0,2.8,0,4.7,10,3.3,Medium,3,0,0,1,1,1,0,Teen,Moderate,Very Low
+460,20,Female,Unemployed,5.4,3.6,0,6.2,6,5.5,Low,8,1,1,0,0,1,0,Young Adult,Moderate,Ideal
+461,19,Female,Employed,3.3,6.9,1,3.1,7,5.4,High,3,4,1,0,1,1,0,Young Adult,Low,Very Low
+462,31,Male,Employed,5.9,2.4,1,3.5,9,7.7,Medium,4,3,0,0,1,1,1,Adult,Moderate,Very Low
+463,39,Male,Student,3.6,6.8,0,5.5,10,4.9,High,10,1,0,0,1,1,1,Mid Age,Low,Low
+464,31,Male,Unemployed,9.3,4.9,1,8.7,10,3.2,Medium,7,2,1,0,1,0,0,Adult,Very High,High
+465,17,Male,Student,4.1,6.3,0,7.3,4,8.5,Medium,3,0,1,0,0,1,1,Teen,Moderate,High
+466,43,Male,Student,2.6,6.0,0,3.5,5,10.5,High,4,4,1,1,0,0,0,Mid Age,Low,Very Low
+467,47,Male,Employed,7.5,2.5,0,8.1,8,11.3,Low,8,3,0,1,1,1,0,Mid Age,High,High
+468,42,Female,Unemployed,8.0,5.0,0,7.4,1,11.7,Low,4,1,1,0,0,0,0,Mid Age,High,High
+469,35,Female,Unemployed,10.7,7.1,1,6.7,6,9.8,High,9,0,0,0,1,0,1,Adult,Very High,Ideal
+470,39,Male,Unemployed,7.8,4.0,0,7.9,4,3.4,Low,4,3,0,1,0,0,0,Mid Age,High,High
+471,27,Female,Employed,5.5,7.8,1,5.4,5,10.5,Medium,4,1,0,1,1,1,0,Adult,Moderate,Low
+472,50,Female,Employed,10.0,4.2,0,4.3,5,6.0,Medium,5,4,1,1,1,1,0,Mid Age,Very High,Very Low
+473,48,Male,Employed,7.4,2.0,0,6.1,2,9.3,Medium,1,2,1,0,0,0,0,Mid Age,High,Ideal
+474,48,Female,Employed,2.8,3.7,1,6.3,8,7.3,Low,7,2,1,1,1,1,1,Mid Age,Low,Ideal
+475,58,Male,Employed,7.7,7.7,0,6.2,2,10.3,Low,9,4,0,1,0,0,1,Senior,High,Ideal
+476,52,Male,Unemployed,11.1,3.2,0,6.4,4,6.3,High,9,0,0,1,0,0,0,Senior,Very High,Ideal
+477,27,Female,Student,6.0,7.1,1,8.7,5,2.6,Medium,1,4,1,1,0,0,1,Adult,Moderate,High
+478,18,Male,Unemployed,5.0,7.2,1,8.4,1,7.6,High,6,1,1,1,0,1,0,Teen,Moderate,High
+479,16,Male,Student,3.4,3.5,1,8.3,6,3.7,Low,3,0,0,0,1,0,1,Teen,Low,High
+480,48,Male,Employed,3.5,1.6,0,7.8,2,11.7,High,4,2,0,0,0,0,1,Mid Age,Low,High
+481,55,Male,Student,6.3,6.1,0,8.7,5,7.3,Low,8,1,0,1,1,0,0,Senior,High,High
+482,25,Male,Unemployed,8.0,3.2,1,3.6,6,7.5,Medium,4,3,0,0,1,1,0,Young Adult,High,Very Low
+483,58,Male,Unemployed,2.8,6.5,1,4.6,8,11.1,Medium,8,3,1,0,1,0,1,Senior,Low,Very Low
+484,59,Male,Student,11.4,4.1,0,6.0,9,8.2,Low,4,3,0,1,1,0,0,Senior,Very High,Low
+485,44,Male,Employed,9.6,4.4,0,8.1,6,5.0,Low,9,2,0,0,1,0,0,Mid Age,Very High,High
+486,28,Female,Employed,7.9,6.4,1,6.0,5,5.0,Low,6,4,1,0,0,1,0,Adult,High,Low
+487,27,Female,Unemployed,10.3,3.7,1,7.5,4,7.0,Medium,1,0,1,1,0,0,1,Adult,Very High,High
+488,46,Female,Student,2.8,4.1,1,3.8,2,10.7,Low,10,2,1,1,0,0,0,Mid Age,Low,Very Low
+489,17,Male,Employed,6.8,3.6,1,4.5,2,9.9,Medium,2,1,1,0,1,1,0,Teen,High,Very Low
+490,50,Male,Employed,8.3,3.6,0,7.4,7,11.6,High,7,1,0,0,0,0,1,Mid Age,Very High,High
+491,38,Female,Unemployed,10.3,4.7,0,4.0,5,2.7,Medium,10,3,0,0,1,0,0,Mid Age,Very High,Very Low
+492,32,Female,Employed,9.8,6.7,0,5.1,7,4.7,High,7,0,0,1,1,0,0,Adult,Very High,Low
+493,41,Female,Student,4.8,3.5,0,4.6,1,2.8,Medium,3,3,0,0,0,0,0,Mid Age,Moderate,Very Low
+494,23,Male,Unemployed,11.4,4.7,1,5.1,1,9.5,Medium,1,1,0,0,0,1,0,Young Adult,Very High,Low
+495,44,Female,Unemployed,3.2,5.7,0,7.2,5,3.4,Low,8,1,1,1,1,0,0,Mid Age,Low,High
+496,41,Female,Student,10.8,2.9,1,5.2,2,3.0,Medium,10,4,1,0,0,1,1,Mid Age,Very High,Low
+497,25,Male,Unemployed,11.7,2.9,0,6.3,8,7.6,Low,10,4,0,1,0,0,0,Young Adult,Very High,Ideal
+498,41,Female,Employed,3.8,7.5,0,3.6,3,6.1,Low,7,4,1,0,0,1,0,Mid Age,Low,Very Low
+499,49,Male,Employed,9.2,6.1,0,7.8,1,9.2,Low,10,3,0,1,0,0,0,Mid Age,Very High,High
+500,56,Male,Student,2.4,5.0,1,5.2,2,6.9,Medium,8,0,0,0,0,0,0,Senior,Low,Low
+501,22,Male,Employed,6.1,5.5,0,6.9,10,6.3,Low,1,4,0,0,0,0,1,Young Adult,High,Ideal
+502,19,Female,Student,7.2,1.2,1,7.4,10,6.3,High,3,2,0,1,1,1,1,Young Adult,High,High
+503,26,Female,Student,7.8,5.3,1,4.3,7,10.7,High,2,4,0,1,1,1,1,Adult,High,Very Low
+504,44,Male,Employed,11.4,4.6,0,8.3,6,6.0,Medium,1,3,1,1,1,0,1,Mid Age,Very High,High
+505,51,Female,Student,8.7,4.8,1,6.7,8,5.3,Low,5,0,1,1,1,0,1,Senior,Very High,Ideal
+506,40,Female,Employed,6.8,3.5,0,5.6,7,5.4,High,3,4,0,1,0,1,0,Mid Age,High,Low
+507,36,Female,Unemployed,10.1,1.6,1,4.1,10,4.0,Medium,10,0,0,1,0,1,1,Mid Age,Very High,Very Low
+508,51,Female,Unemployed,11.5,2.4,0,8.7,8,10.6,Medium,8,2,1,1,0,0,1,Senior,Very High,High
+509,25,Male,Student,2.2,7.7,1,7.5,3,3.5,Medium,6,1,0,0,0,0,0,Young Adult,Low,High
+510,52,Female,Employed,11.8,3.9,1,4.2,6,11.1,Medium,10,0,0,0,1,0,1,Senior,Very High,Very Low
+511,24,Male,Employed,2.9,4.3,0,5.0,7,4.8,Medium,9,4,0,0,1,0,0,Young Adult,Low,Very Low
+512,39,Male,Unemployed,10.1,1.4,0,7.9,10,11.0,Low,9,3,1,0,0,0,0,Mid Age,Very High,High
+513,50,Female,Unemployed,4.8,1.3,0,7.2,1,9.9,Low,6,3,0,0,1,0,1,Mid Age,Moderate,High
+514,50,Male,Employed,3.3,6.0,0,7.6,1,7.8,Low,2,3,0,0,1,0,0,Mid Age,Low,High
+515,51,Female,Student,6.4,4.8,1,5.6,7,8.7,Low,9,3,1,0,1,1,1,Senior,High,Low
+516,33,Female,Unemployed,8.4,4.6,1,7.3,3,5.3,Medium,2,0,0,1,1,0,1,Adult,Very High,High
+517,54,Male,Student,5.8,2.7,1,5.3,3,7.7,Medium,3,3,0,0,1,1,0,Senior,Moderate,Low
+518,47,Male,Student,2.5,6.2,1,4.3,5,4.9,High,6,1,1,1,1,0,0,Mid Age,Low,Very Low
+519,39,Male,Unemployed,8.0,2.2,0,6.8,6,6.0,High,2,2,1,0,0,0,0,Mid Age,High,Ideal
+520,38,Male,Student,11.0,2.3,1,8.9,2,9.6,Low,5,0,0,1,1,1,0,Mid Age,Very High,High
+521,47,Female,Student,5.8,4.2,0,4.9,3,4.4,Medium,2,0,1,0,0,0,1,Mid Age,Moderate,Very Low
+522,52,Female,Employed,4.2,3.0,1,5.8,6,10.4,High,4,3,0,0,1,0,0,Senior,Moderate,Low
+523,27,Female,Student,6.4,2.7,0,7.0,3,5.8,High,3,3,0,0,0,0,0,Adult,High,Ideal
+524,28,Male,Employed,2.5,5.5,0,6.2,5,7.3,High,5,0,1,0,0,0,0,Adult,Low,Ideal
+525,38,Male,Unemployed,10.2,5.6,0,8.1,9,11.4,High,6,3,0,1,0,0,1,Mid Age,Very High,High
+526,40,Male,Unemployed,10.3,6.8,0,7.6,3,8.8,Low,7,3,1,0,0,0,0,Mid Age,Very High,High
+527,50,Female,Employed,7.9,3.9,0,3.3,6,8.5,Medium,10,3,1,1,0,1,0,Mid Age,High,Very Low
+528,56,Male,Unemployed,5.5,1.5,1,9.0,5,9.1,Low,8,3,1,0,0,1,0,Senior,Moderate,High
+529,45,Female,Student,10.0,2.9,0,7.5,5,11.2,High,9,3,0,0,0,0,0,Mid Age,Very High,High
+530,32,Male,Student,7.5,7.9,1,8.2,6,4.5,High,4,4,1,0,0,0,0,Adult,High,High
+531,35,Female,Student,10.3,5.2,1,6.9,6,8.1,Medium,4,4,0,0,1,1,1,Adult,Very High,Ideal
+532,40,Female,Unemployed,8.3,6.0,0,8.1,1,6.0,Medium,7,4,1,1,0,0,0,Mid Age,Very High,High
+533,37,Male,Student,9.8,1.1,1,3.7,9,2.1,Low,10,0,1,1,0,1,1,Mid Age,Very High,Very Low
+534,28,Male,Unemployed,8.0,4.6,1,5.1,5,3.3,Medium,10,2,0,1,1,0,1,Adult,High,Low
+535,34,Female,Student,6.1,1.3,1,8.3,1,5.2,Low,9,0,0,0,0,0,1,Adult,High,High
+536,51,Female,Employed,11.6,5.0,0,4.2,8,7.6,Low,2,4,1,0,0,1,0,Senior,Very High,Very Low
+537,27,Male,Unemployed,7.4,7.4,0,3.5,7,10.8,High,6,0,0,0,0,1,0,Adult,High,Very Low
+538,56,Male,Unemployed,8.1,7.8,0,7.7,7,9.9,Low,10,2,0,0,0,1,1,Senior,Very High,High
+539,34,Female,Student,4.2,4.8,0,8.0,5,7.5,High,10,3,1,1,1,0,1,Adult,Moderate,High
+540,27,Male,Unemployed,8.3,4.2,1,4.0,1,2.7,Low,8,1,1,1,1,0,0,Adult,Very High,Very Low
+541,24,Female,Unemployed,7.7,7.6,1,8.1,9,4.9,Low,5,4,0,1,1,1,1,Young Adult,High,High
+542,22,Female,Employed,3.8,5.7,1,7.1,9,5.7,Medium,5,4,1,0,1,1,1,Young Adult,Low,High
+543,43,Male,Employed,2.6,1.5,1,6.1,8,8.2,Medium,8,2,1,1,1,1,1,Mid Age,Low,Ideal
+544,29,Male,Student,8.0,4.3,1,8.0,5,2.6,High,1,3,1,0,0,1,0,Adult,High,High
+545,46,Male,Employed,9.6,2.7,1,5.5,3,7.3,Medium,6,3,0,1,1,1,0,Mid Age,Very High,Low
+546,34,Male,Student,7.2,4.3,0,4.2,8,11.0,Low,10,1,0,1,1,1,1,Adult,High,Very Low
+547,31,Male,Student,4.3,4.2,1,4.7,1,9.1,High,9,3,0,1,1,1,1,Adult,Moderate,Very Low
+548,20,Female,Student,8.7,5.1,1,6.0,3,10.0,High,6,2,1,1,0,1,1,Young Adult,Very High,Low
+549,50,Female,Unemployed,2.8,3.5,1,6.2,7,8.8,High,7,3,0,0,1,0,1,Mid Age,Low,Ideal
+550,27,Male,Employed,6.4,2.1,0,7.8,4,4.1,Low,4,2,1,0,1,0,0,Adult,High,High
+551,40,Male,Student,3.6,4.5,1,7.7,7,3.1,Medium,10,4,1,1,0,1,0,Mid Age,Low,High
+552,36,Male,Employed,3.8,6.8,1,6.5,5,10.3,High,1,4,1,1,1,0,0,Mid Age,Low,Ideal
+553,51,Female,Student,4.0,5.6,0,7.7,6,9.0,Low,9,4,1,0,0,1,0,Senior,Low,High
+554,38,Male,Employed,5.9,3.4,1,4.2,7,7.8,Medium,6,0,0,1,1,1,0,Mid Age,Moderate,Very Low
+555,31,Male,Employed,2.5,7.5,0,3.3,10,3.9,Medium,3,4,1,1,0,0,1,Adult,Low,Very Low
+556,54,Female,Student,6.0,7.4,0,8.2,7,8.0,High,4,2,1,1,0,1,1,Senior,Moderate,High
+557,57,Female,Unemployed,7.1,2.5,1,3.5,7,2.3,Low,10,1,0,0,0,1,0,Senior,High,Very Low
+558,54,Male,Employed,6.8,1.3,1,4.5,7,3.2,Medium,6,3,1,0,1,1,1,Senior,High,Very Low
+559,29,Male,Unemployed,5.8,6.2,0,7.2,7,5.1,Low,6,4,0,1,1,1,0,Adult,Moderate,High
+560,46,Male,Unemployed,10.4,6.8,1,5.5,3,6.4,Medium,9,0,0,1,0,0,1,Mid Age,Very High,Low
+561,20,Female,Student,3.5,7.8,1,8.3,3,3.2,High,4,0,0,0,1,1,0,Young Adult,Low,High
+562,50,Male,Student,7.1,7.2,0,4.8,7,3.2,High,5,2,1,0,0,1,0,Mid Age,High,Very Low
+563,38,Male,Student,2.6,5.2,0,3.1,2,9.3,Medium,5,1,0,0,1,0,1,Mid Age,Low,Very Low
+564,44,Male,Employed,2.7,4.7,1,4.8,2,7.7,Low,3,4,1,0,0,0,0,Mid Age,Low,Very Low
+565,58,Female,Student,7.7,1.2,0,6.5,3,7.3,Medium,2,4,0,0,0,0,1,Senior,High,Ideal
+566,26,Female,Student,7.7,2.7,1,5.3,4,6.5,Low,8,0,0,0,0,0,1,Adult,High,Low
+567,33,Male,Employed,10.8,4.2,1,6.2,6,11.8,Medium,10,2,0,0,1,1,1,Adult,Very High,Ideal
+568,27,Male,Employed,7.6,5.4,1,8.3,8,2.5,High,9,0,0,0,1,0,1,Adult,High,High
+569,24,Female,Student,11.6,4.9,1,8.5,10,3.8,Low,10,0,1,1,0,0,0,Young Adult,Very High,High
+570,25,Female,Student,2.5,6.2,0,4.6,10,8.5,High,9,1,1,1,0,1,1,Young Adult,Low,Very Low
+571,59,Female,Student,3.0,3.0,1,5.8,7,3.4,Low,5,2,0,0,1,1,0,Senior,Low,Low
+572,32,Female,Student,2.4,5.0,0,6.3,4,7.9,Medium,9,1,0,1,0,0,0,Adult,Low,Ideal
+573,53,Female,Unemployed,3.9,1.6,1,8.7,2,7.7,High,4,2,0,0,1,0,1,Senior,Low,High
+574,22,Female,Unemployed,7.4,3.9,1,9.0,2,11.7,High,2,4,1,1,0,1,1,Young Adult,High,High
+575,28,Female,Student,8.5,6.3,0,4.4,4,10.8,Low,3,3,0,0,1,0,0,Adult,Very High,Very Low
+576,55,Female,Unemployed,2.5,5.9,1,7.4,6,11.5,Low,1,3,0,0,0,0,1,Senior,Low,High
+577,57,Female,Employed,11.5,7.9,0,5.3,3,3.1,Low,5,2,1,1,0,0,1,Senior,Very High,Low
+578,24,Male,Unemployed,10.4,2.9,0,3.0,6,10.7,High,1,3,0,1,0,0,1,Young Adult,Very High,Very Low
+579,42,Male,Unemployed,5.0,4.5,1,3.1,5,3.3,Medium,1,0,0,1,0,0,1,Mid Age,Moderate,Very Low
+580,17,Male,Student,2.8,3.3,1,5.8,5,8.3,Low,7,4,0,1,1,0,0,Teen,Low,Low
+581,20,Female,Unemployed,3.7,4.1,1,5.9,2,9.2,Medium,2,4,0,1,0,1,0,Young Adult,Low,Low
+582,44,Male,Unemployed,3.3,7.0,1,3.1,8,3.6,Low,8,3,1,0,0,0,1,Mid Age,Low,Very Low
+583,52,Female,Unemployed,3.2,5.8,0,7.1,5,8.3,Medium,6,2,1,0,0,0,1,Senior,Low,High
+584,53,Female,Unemployed,7.2,7.2,1,4.8,2,2.5,Low,4,0,1,0,0,0,0,Senior,High,Very Low
+585,34,Male,Employed,4.5,2.4,1,6.4,7,4.9,Medium,9,2,0,1,0,1,0,Adult,Moderate,Ideal
+586,23,Female,Student,5.6,7.1,1,4.8,9,11.2,High,10,3,0,0,1,1,1,Young Adult,Moderate,Very Low
+587,16,Male,Student,11.9,1.4,1,4.0,9,3.7,Low,8,4,1,0,1,1,1,Teen,Very High,Very Low
+588,37,Male,Employed,8.8,7.2,1,5.4,1,2.7,Low,10,4,0,1,1,1,1,Mid Age,Very High,Low
+589,32,Male,Unemployed,11.5,3.3,0,4.4,7,6.4,High,3,2,0,0,1,1,1,Adult,Very High,Very Low
+590,22,Female,Employed,3.4,3.2,1,6.2,9,10.5,Low,3,1,1,1,0,0,1,Young Adult,Low,Ideal
+591,40,Male,Unemployed,5.8,4.6,0,4.2,6,2.8,Low,4,2,1,1,1,1,1,Mid Age,Moderate,Very Low
+592,19,Female,Employed,7.5,7.6,1,6.1,1,5.6,High,9,1,0,0,0,0,1,Young Adult,High,Ideal
+593,51,Male,Student,2.8,1.3,1,3.9,2,11.0,High,9,2,1,0,1,1,1,Senior,Low,Very Low
+594,21,Male,Student,2.0,3.5,1,7.0,4,3.2,Medium,5,1,0,1,1,0,1,Young Adult,Low,Ideal
+595,46,Male,Student,8.7,7.0,0,7.5,4,5.1,High,9,1,1,1,0,0,1,Mid Age,Very High,High
+596,34,Female,Unemployed,8.4,3.8,1,3.7,2,9.8,High,6,1,1,0,0,0,1,Adult,Very High,Very Low
+597,59,Female,Unemployed,6.1,2.4,0,5.8,8,7.4,Low,8,1,0,0,1,0,1,Senior,High,Low
+598,54,Female,Employed,6.9,4.0,0,3.4,2,10.3,High,8,0,0,0,0,0,0,Senior,High,Very Low
+599,42,Male,Employed,6.2,3.7,1,6.6,3,3.1,Low,10,1,1,0,0,0,1,Mid Age,High,Ideal
+600,25,Male,Student,2.2,7.4,0,4.6,4,11.2,High,7,1,0,0,1,0,0,Young Adult,Low,Very Low
+601,41,Female,Unemployed,5.4,6.3,1,6.2,9,11.3,High,4,4,0,1,0,1,1,Mid Age,Moderate,Ideal
+602,34,Female,Employed,3.8,4.5,1,6.1,10,3.6,Medium,4,0,0,1,1,1,0,Adult,Low,Ideal
+603,54,Female,Unemployed,3.0,7.9,0,8.5,1,2.3,High,6,1,1,0,0,1,1,Senior,Low,High
+604,18,Female,Unemployed,11.6,4.3,1,6.3,8,11.9,High,9,3,0,0,1,0,0,Teen,Very High,Ideal
+605,28,Female,Student,8.0,1.4,1,6.5,5,6.8,Low,7,0,0,0,1,0,0,Adult,High,Ideal
+606,43,Female,Student,9.3,2.8,0,5.4,7,7.7,Low,5,4,1,0,1,1,1,Mid Age,Very High,Low
+607,35,Male,Unemployed,5.2,4.1,0,8.7,8,8.2,Medium,5,2,1,0,1,0,1,Adult,Moderate,High
+608,43,Female,Unemployed,5.9,2.1,0,7.7,5,9.9,High,8,4,1,1,0,0,0,Mid Age,Moderate,High
+609,23,Male,Unemployed,4.4,7.6,0,4.7,8,10.1,Low,6,4,1,1,1,1,0,Young Adult,Moderate,Very Low
+610,56,Male,Unemployed,3.0,6.4,0,8.1,10,3.9,High,1,0,0,0,1,1,1,Senior,Low,High
+611,54,Female,Student,3.8,2.9,0,5.6,8,4.4,Medium,1,0,0,0,0,0,1,Senior,Low,Low
+612,16,Female,Employed,10.0,5.1,1,8.0,9,10.8,Low,9,3,1,0,0,1,1,Teen,Very High,High
+613,18,Male,Student,8.8,6.1,0,7.9,2,10.2,Low,8,3,1,1,1,0,0,Teen,Very High,High
+614,28,Female,Employed,7.5,7.6,0,4.1,3,8.2,Medium,6,0,0,1,0,0,1,Adult,High,Very Low
+615,43,Female,Unemployed,6.8,7.2,1,7.2,1,11.9,High,1,0,0,1,1,0,1,Mid Age,High,High
+616,40,Male,Employed,11.2,4.6,1,4.7,4,9.4,Low,2,0,1,0,0,0,1,Mid Age,Very High,Very Low
+617,48,Male,Student,2.7,6.4,0,4.8,5,4.2,Low,10,2,0,0,1,0,1,Mid Age,Low,Very Low
+618,53,Male,Student,4.8,4.9,0,4.8,1,10.5,Medium,3,4,0,1,0,0,0,Senior,Moderate,Very Low
+619,21,Female,Unemployed,5.5,4.9,1,7.4,8,6.1,Medium,10,3,1,1,0,1,0,Young Adult,Moderate,High
+620,59,Male,Student,9.8,1.8,0,4.4,2,2.4,Medium,3,3,1,0,1,0,0,Senior,Very High,Very Low
+621,47,Female,Unemployed,11.9,1.9,0,3.0,1,5.2,High,2,1,1,1,0,0,0,Mid Age,Very High,Very Low
+622,36,Male,Student,4.4,4.7,1,7.3,2,9.6,High,2,2,1,1,0,0,1,Mid Age,Moderate,High
+623,31,Male,Student,10.7,2.9,0,4.0,5,11.6,High,6,0,0,1,0,0,1,Adult,Very High,Very Low
+624,36,Male,Unemployed,10.3,1.1,1,3.6,9,4.8,Medium,7,0,1,0,0,0,0,Mid Age,Very High,Very Low
+625,26,Female,Employed,4.2,6.1,0,4.4,9,4.5,Low,4,2,0,0,1,1,0,Adult,Moderate,Very Low
+626,52,Female,Student,6.0,1.2,1,5.3,2,7.6,High,1,3,0,1,0,0,0,Senior,Moderate,Low
+627,51,Male,Employed,6.1,5.2,1,5.9,2,10.1,Medium,6,0,0,1,0,1,1,Senior,High,Low
+628,50,Male,Student,11.8,4.8,1,3.3,3,9.5,High,7,1,1,0,0,1,1,Mid Age,Very High,Very Low
+629,34,Male,Student,3.8,7.8,0,8.8,7,7.6,Low,4,3,0,0,1,0,0,Adult,Low,High
+630,35,Female,Student,10.0,4.4,1,7.3,3,8.3,Low,6,4,1,1,0,1,1,Adult,Very High,High
+631,33,Male,Student,5.3,1.4,0,4.9,1,4.4,Medium,9,2,1,1,0,0,1,Adult,Moderate,Very Low
+632,56,Female,Employed,9.3,4.9,1,4.9,6,6.3,Low,4,3,1,1,0,0,1,Senior,Very High,Very Low
+633,29,Male,Employed,6.2,6.9,1,5.7,3,4.6,Medium,10,4,0,0,0,1,1,Adult,High,Low
+634,30,Male,Student,7.8,8.0,1,6.8,1,10.8,Medium,4,1,1,1,1,0,1,Adult,High,Ideal
+635,46,Male,Student,10.3,4.0,0,3.9,4,3.1,Medium,10,2,1,1,0,1,1,Mid Age,Very High,Very Low
+636,16,Male,Employed,10.0,3.2,0,4.1,1,8.8,Medium,5,0,0,1,0,0,1,Teen,Very High,Very Low
+637,18,Male,Unemployed,10.7,7.3,1,8.2,1,4.6,Low,3,0,1,1,0,0,1,Teen,Very High,High
+638,31,Male,Unemployed,2.6,2.3,0,4.5,2,6.8,Low,10,4,0,1,0,0,0,Adult,Low,Very Low
+639,38,Female,Employed,8.9,5.3,0,5.3,10,5.0,Low,2,3,0,0,0,1,1,Mid Age,Very High,Low
+640,26,Male,Student,3.4,3.8,0,8.2,8,5.2,Low,9,1,1,1,1,0,0,Adult,Low,High
+641,27,Female,Student,6.2,1.3,1,7.0,2,4.6,Medium,1,4,1,1,0,1,1,Adult,High,Ideal
+642,25,Male,Unemployed,7.5,3.4,0,5.1,2,9.5,Medium,5,1,1,0,0,0,0,Young Adult,High,Low
+643,47,Male,Unemployed,6.0,2.9,1,7.1,10,5.7,Low,5,1,1,0,1,1,1,Mid Age,Moderate,High
+644,31,Female,Employed,7.2,5.8,1,3.1,10,9.3,High,8,1,0,1,1,1,1,Adult,High,Very Low
+645,23,Male,Unemployed,12.0,7.6,1,7.4,8,6.6,High,6,2,1,1,0,0,1,Young Adult,Very High,High
+646,53,Female,Employed,3.4,2.9,0,5.9,6,7.5,High,6,4,1,1,0,1,1,Senior,Low,Low
+647,27,Female,Unemployed,8.8,6.7,1,7.9,4,7.4,Low,6,2,0,0,0,0,0,Adult,Very High,High
+648,39,Male,Unemployed,6.0,1.4,0,8.7,3,11.8,Medium,4,3,1,0,0,0,1,Mid Age,Moderate,High
+649,43,Female,Unemployed,3.3,4.8,0,8.6,1,5.7,Medium,1,3,1,0,0,1,0,Mid Age,Low,High
+650,23,Female,Student,3.6,1.5,1,8.5,3,4.1,High,3,0,1,0,0,1,0,Young Adult,Low,High
+651,43,Male,Student,11.5,7.5,1,6.1,9,11.1,High,10,0,1,1,1,1,1,Mid Age,Very High,Ideal
+652,51,Female,Student,10.8,6.4,1,5.2,5,3.7,Medium,6,0,1,0,0,1,0,Senior,Very High,Low
+653,41,Male,Unemployed,11.1,5.6,0,5.8,6,10.3,High,5,3,0,1,1,1,1,Mid Age,Very High,Low
+654,23,Male,Employed,11.9,6.8,0,7.1,5,3.5,High,10,1,1,0,1,1,0,Young Adult,Very High,High
+655,43,Male,Employed,4.1,5.5,1,8.3,1,8.6,Medium,1,1,0,1,0,0,0,Mid Age,Moderate,High
+656,43,Male,Employed,5.6,7.8,1,4.2,10,3.5,High,5,4,0,1,1,1,0,Mid Age,Moderate,Very Low
+657,52,Female,Employed,8.7,6.0,0,8.5,1,11.2,High,2,3,0,1,0,0,1,Senior,Very High,High
+658,56,Male,Student,6.8,7.5,0,7.9,4,7.7,Low,1,0,0,0,1,0,0,Senior,High,High
+659,51,Male,Student,6.2,4.6,1,8.9,3,5.3,High,4,3,1,1,1,0,0,Senior,High,High
+660,42,Female,Unemployed,5.6,1.8,0,8.3,8,3.4,Low,6,1,1,1,1,1,0,Mid Age,Moderate,High
+661,32,Male,Unemployed,7.9,4.7,0,4.7,7,5.7,Medium,7,1,0,1,0,1,1,Adult,High,Very Low
+662,24,Male,Employed,7.8,1.9,0,3.6,7,9.1,Low,9,2,1,0,1,1,0,Young Adult,High,Very Low
+663,48,Female,Student,3.6,5.1,0,3.7,8,5.8,Medium,5,2,1,1,1,0,0,Mid Age,Low,Very Low
+664,35,Female,Employed,6.7,4.4,0,4.7,10,4.5,Low,8,4,0,0,0,0,0,Adult,High,Very Low
+665,28,Female,Unemployed,7.5,5.4,0,6.7,7,7.8,Low,8,3,1,1,1,1,1,Adult,High,Ideal
+666,43,Female,Unemployed,7.7,1.1,1,7.8,10,6.2,Low,9,2,0,0,1,1,0,Mid Age,High,High
+667,44,Female,Employed,4.1,2.4,0,8.4,2,3.7,High,3,2,0,1,0,0,1,Mid Age,Moderate,High
+668,28,Female,Unemployed,9.4,4.4,1,6.7,4,3.5,High,3,3,1,1,1,0,1,Adult,Very High,Ideal
+669,50,Female,Employed,2.3,7.7,1,3.0,6,9.1,High,9,1,1,1,1,1,0,Mid Age,Low,Very Low
+670,21,Male,Student,5.5,3.7,0,4.1,3,11.7,High,7,4,1,1,0,1,0,Young Adult,Moderate,Very Low
+671,33,Female,Employed,9.8,4.0,1,3.6,3,4.3,High,4,4,0,0,0,0,0,Adult,Very High,Very Low
+672,20,Female,Student,7.6,6.0,1,5.2,6,9.7,Low,1,4,0,1,0,1,1,Young Adult,High,Low
+673,40,Female,Student,4.6,5.2,1,6.0,1,2.9,High,7,2,1,1,0,0,0,Mid Age,Moderate,Low
+674,17,Male,Unemployed,8.9,3.1,0,3.3,1,5.8,Medium,10,1,0,1,1,0,0,Teen,Very High,Very Low
+675,25,Male,Unemployed,7.7,3.9,1,5.1,5,7.1,Low,6,4,1,0,0,0,1,Young Adult,High,Low
+676,45,Female,Unemployed,10.0,2.5,0,4.1,1,4.7,Low,3,3,1,0,0,1,0,Mid Age,Very High,Very Low
+677,20,Female,Employed,9.4,7.8,1,6.9,10,7.3,Medium,5,4,1,0,0,1,1,Young Adult,Very High,Ideal
+678,48,Female,Employed,8.1,1.9,1,5.8,8,10.8,High,3,0,1,1,1,1,1,Mid Age,Very High,Low
+679,16,Male,Unemployed,6.9,3.6,1,6.0,2,11.4,Medium,8,1,0,0,0,0,1,Teen,High,Low
+680,33,Male,Employed,3.3,1.2,1,5.6,6,3.0,Low,5,0,1,0,1,0,1,Adult,Low,Low
+681,47,Female,Unemployed,4.6,2.6,0,8.7,10,4.7,Low,10,1,0,0,0,0,0,Mid Age,Moderate,High
+682,26,Male,Employed,6.2,6.5,1,4.3,10,11.8,Low,10,3,0,1,1,1,1,Adult,High,Very Low
+683,36,Female,Student,8.0,2.4,1,6.1,5,4.7,Medium,6,2,0,0,0,1,1,Mid Age,High,Ideal
+684,41,Male,Student,7.1,1.6,0,7.4,10,8.9,High,2,2,0,1,1,1,1,Mid Age,High,High
+685,40,Male,Unemployed,4.9,4.3,0,6.3,4,4.5,Low,8,1,0,0,1,1,0,Mid Age,Moderate,Ideal
+686,37,Female,Employed,2.1,1.1,0,8.6,1,5.6,High,9,4,0,0,0,0,1,Mid Age,Low,High
+687,42,Female,Employed,7.0,1.6,1,5.3,3,3.9,Low,3,0,1,1,0,1,0,Mid Age,High,Low
+688,28,Female,Student,4.9,6.7,0,5.8,4,10.6,High,6,3,0,1,0,0,1,Adult,Moderate,Low
+689,48,Female,Student,9.3,6.4,0,3.5,2,10.8,Medium,6,4,1,1,1,0,1,Mid Age,Very High,Very Low
+690,49,Male,Unemployed,2.2,7.4,0,6.7,2,5.0,Low,2,2,0,0,0,0,1,Mid Age,Low,Ideal
+691,56,Male,Student,7.8,7.0,0,4.7,2,10.2,Low,10,4,1,1,0,0,0,Senior,High,Very Low
+692,50,Male,Unemployed,11.4,5.8,0,4.0,1,5.6,Low,8,0,1,1,1,1,1,Mid Age,Very High,Very Low
+693,16,Female,Student,3.7,1.4,0,6.3,10,3.0,Medium,5,2,0,0,1,1,1,Teen,Low,Ideal
+694,36,Male,Student,6.7,6.5,1,6.2,2,9.6,Medium,8,1,1,1,0,0,1,Mid Age,High,Ideal
+695,21,Female,Employed,2.9,6.9,0,3.5,6,8.0,High,8,3,1,1,0,0,0,Young Adult,Low,Very Low
+696,43,Male,Student,8.3,6.6,1,7.2,3,4.7,Medium,3,3,0,0,1,1,0,Mid Age,Very High,High
+697,32,Female,Student,7.5,4.6,0,6.7,10,4.5,Low,5,2,0,0,1,0,1,Adult,High,Ideal
+698,20,Female,Unemployed,6.1,2.6,0,4.1,5,11.8,High,7,1,0,0,0,0,1,Young Adult,High,Very Low
+699,46,Male,Student,7.2,6.9,0,5.8,1,10.6,Medium,5,0,0,1,0,0,0,Mid Age,High,Low
+700,20,Female,Unemployed,11.0,6.1,1,7.3,8,10.1,High,6,3,0,0,0,1,1,Young Adult,Very High,High
+701,53,Female,Student,4.0,7.9,0,6.2,4,3.3,High,2,2,0,1,1,1,1,Senior,Low,Ideal
+702,18,Male,Student,2.2,2.1,0,5.4,9,9.6,High,8,3,0,0,1,1,1,Teen,Low,Low
+703,38,Female,Unemployed,10.6,2.6,0,4.9,4,4.1,Low,5,1,0,0,1,1,0,Mid Age,Very High,Very Low
+704,52,Female,Employed,7.8,2.5,0,6.7,2,11.8,Low,6,0,1,0,0,1,0,Senior,High,Ideal
+705,52,Female,Unemployed,10.9,6.5,1,8.6,3,2.5,Medium,1,1,0,1,1,1,1,Senior,Very High,High
+706,25,Male,Unemployed,8.0,2.3,1,7.0,5,5.5,Low,10,4,1,1,0,1,1,Young Adult,High,Ideal
+707,25,Male,Unemployed,10.1,1.5,1,3.4,10,6.3,High,2,1,0,1,1,1,0,Young Adult,Very High,Very Low
+708,34,Female,Employed,6.3,8.0,1,5.8,6,10.2,High,4,1,0,1,1,0,1,Adult,High,Low
+709,32,Male,Student,9.5,1.2,1,8.3,7,9.7,Low,9,3,0,1,1,1,1,Adult,Very High,High
+710,36,Female,Unemployed,11.1,6.8,0,3.6,4,5.7,High,6,1,0,0,0,1,1,Mid Age,Very High,Very Low
+711,29,Female,Unemployed,7.7,3.6,0,8.9,7,7.7,Low,8,2,1,0,0,1,0,Adult,High,High
+712,24,Female,Employed,3.8,6.9,0,8.7,10,10.4,High,2,3,1,0,1,0,1,Young Adult,Low,High
+713,16,Female,Unemployed,4.7,4.9,1,3.5,3,2.2,Medium,10,3,0,0,0,1,0,Teen,Moderate,Very Low
+714,28,Female,Student,4.0,7.3,0,8.6,7,10.0,Medium,5,4,1,1,1,0,1,Adult,Low,High
+715,19,Male,Employed,4.5,7.5,1,5.2,4,11.5,Low,1,2,0,1,0,1,1,Young Adult,Moderate,Low
+716,16,Female,Student,5.1,1.1,0,8.1,8,2.3,Low,4,1,1,1,0,0,0,Teen,Moderate,High
+717,55,Male,Student,7.6,1.5,1,5.5,9,2.5,Low,10,4,0,0,1,1,0,Senior,High,Low
+718,47,Male,Employed,7.9,2.8,0,5.6,7,5.4,Low,1,2,1,0,1,1,1,Mid Age,High,Low
+719,49,Female,Unemployed,6.3,5.7,0,6.8,8,2.9,Low,9,4,1,1,0,1,1,Mid Age,High,Ideal
+720,43,Female,Student,8.2,7.2,0,7.6,8,6.8,High,2,0,1,0,0,0,0,Mid Age,Very High,High
+721,46,Male,Student,2.8,4.2,0,3.2,2,9.3,Medium,7,1,0,0,1,0,0,Mid Age,Low,Very Low
+722,23,Male,Student,2.9,5.2,1,6.6,9,7.7,High,3,4,1,1,0,1,0,Young Adult,Low,Ideal
+723,54,Male,Student,3.7,2.3,0,4.1,6,4.0,Medium,2,0,0,0,0,1,1,Senior,Low,Very Low
+724,41,Female,Employed,7.2,6.6,0,5.1,4,8.5,High,4,1,1,1,0,0,1,Mid Age,High,Low
+725,49,Male,Employed,4.1,7.8,0,5.1,5,8.8,High,7,4,0,0,1,0,0,Mid Age,Moderate,Low
+726,18,Female,Student,4.8,2.9,1,5.8,10,11.3,High,7,4,0,1,1,0,1,Teen,Moderate,Low
+727,27,Female,Unemployed,6.0,4.5,0,5.0,5,3.5,Low,9,4,0,0,0,0,0,Adult,Moderate,Very Low
+728,16,Female,Student,10.1,1.6,0,3.6,7,8.9,Medium,3,4,1,1,1,1,1,Teen,Very High,Very Low
+729,59,Male,Unemployed,2.1,4.9,0,3.9,9,11.1,Low,7,3,1,1,0,1,1,Senior,Low,Very Low
+730,20,Female,Student,8.5,4.5,0,3.2,7,7.0,Low,6,4,0,0,1,0,1,Young Adult,Very High,Very Low
+731,45,Female,Unemployed,8.7,2.0,0,5.8,9,5.6,High,10,3,0,0,1,0,1,Mid Age,Very High,Low
+732,45,Female,Student,10.0,4.1,1,8.7,4,3.7,Medium,7,3,0,1,1,0,0,Mid Age,Very High,High
+733,32,Female,Unemployed,11.3,3.3,1,3.7,10,10.7,Medium,7,0,1,1,1,1,1,Adult,Very High,Very Low
+734,38,Female,Student,2.2,4.7,1,8.7,10,5.9,Medium,10,1,1,1,0,0,0,Mid Age,Low,High
+735,30,Male,Student,3.5,5.1,0,7.4,4,11.2,Medium,5,3,1,1,0,0,1,Adult,Low,High
+736,52,Female,Unemployed,10.9,1.1,1,6.8,6,10.5,Low,9,2,1,1,1,1,1,Senior,Very High,Ideal
+737,36,Female,Employed,6.6,6.3,0,6.9,8,5.8,Low,7,3,1,0,0,0,1,Mid Age,High,Ideal
+738,29,Male,Unemployed,7.6,6.0,0,8.0,9,7.7,Medium,7,2,0,0,1,1,0,Adult,High,High
+739,17,Female,Employed,8.6,3.6,0,3.6,1,2.3,Low,3,0,0,0,1,0,1,Teen,Very High,Very Low
+740,26,Male,Student,8.8,1.4,0,6.0,1,4.6,Medium,1,2,0,0,1,0,0,Adult,Very High,Low
+741,54,Female,Unemployed,11.3,6.3,1,7.2,8,9.1,Low,5,0,0,0,1,1,1,Senior,Very High,High
+742,53,Male,Unemployed,12.0,7.7,1,6.5,7,8.8,High,8,0,1,1,1,0,1,Senior,Very High,Ideal
+743,49,Male,Unemployed,9.2,2.7,1,8.0,9,5.5,High,5,0,1,0,1,1,0,Mid Age,Very High,High
+744,53,Female,Employed,4.9,3.3,0,3.4,3,10.1,Medium,10,2,0,0,0,0,0,Senior,Moderate,Very Low
+745,49,Female,Employed,10.8,2.3,1,7.1,10,4.4,Medium,3,2,1,1,1,1,0,Mid Age,Very High,High
+746,33,Female,Student,2.5,5.0,1,6.2,5,6.6,Low,9,0,0,1,0,0,1,Adult,Low,Ideal
+747,45,Male,Employed,4.3,2.1,0,5.3,3,6.7,Medium,2,0,1,0,1,0,0,Mid Age,Moderate,Low
+748,30,Male,Employed,11.0,3.5,1,5.0,5,5.4,Medium,3,1,1,0,0,1,1,Adult,Very High,Very Low
+749,42,Male,Student,4.6,5.9,0,6.7,10,11.5,Low,4,0,0,1,0,1,1,Mid Age,Moderate,Ideal
+750,49,Female,Unemployed,4.2,4.9,1,8.3,1,9.0,Medium,10,4,0,0,0,0,1,Mid Age,Moderate,High
+751,53,Male,Unemployed,3.4,3.7,1,6.0,4,7.4,Medium,1,1,0,1,1,0,0,Senior,Low,Low
+752,48,Male,Student,10.6,3.9,1,7.9,6,7.1,High,4,1,1,0,0,0,1,Mid Age,Very High,High
+753,39,Female,Unemployed,7.0,4.9,0,5.4,2,3.6,High,4,1,1,0,1,1,0,Mid Age,High,Low
+754,30,Male,Employed,8.7,1.0,1,3.6,7,5.7,High,9,4,1,0,0,0,1,Adult,Very High,Very Low
+755,45,Male,Student,4.4,1.5,1,3.4,8,8.7,Medium,8,1,0,0,1,1,1,Mid Age,Moderate,Very Low
+756,57,Female,Student,9.6,7.2,1,3.3,1,11.2,Low,2,1,0,1,0,0,1,Senior,Very High,Very Low
+757,32,Male,Student,9.6,1.5,1,5.3,4,10.2,High,7,2,0,1,1,0,1,Adult,Very High,Low
+758,20,Female,Unemployed,5.1,5.9,0,5.0,4,5.0,Medium,6,2,1,0,0,1,0,Young Adult,Moderate,Very Low
+759,44,Female,Student,6.1,7.4,0,7.3,5,6.3,High,7,0,1,0,0,0,0,Mid Age,High,High
+760,19,Female,Student,4.1,2.9,1,7.5,4,2.8,Low,4,0,0,0,0,0,1,Young Adult,Moderate,High
+761,25,Female,Student,11.8,3.6,1,3.3,9,3.0,Low,5,3,0,0,1,1,1,Young Adult,Very High,Very Low
+762,32,Female,Unemployed,8.5,5.0,1,4.3,7,6.7,Low,6,4,0,1,0,1,1,Adult,Very High,Very Low
+763,25,Male,Employed,11.3,7.2,0,4.6,2,7.3,Low,9,2,1,1,0,0,0,Young Adult,Very High,Very Low
+764,32,Male,Student,5.0,7.6,1,6.3,1,4.6,Low,2,0,1,0,0,0,0,Adult,Moderate,Ideal
+765,35,Female,Employed,9.8,6.2,1,3.9,9,8.4,Low,9,4,0,1,1,1,1,Adult,Very High,Very Low
+766,39,Female,Unemployed,9.7,1.6,0,3.8,1,9.0,Medium,10,1,0,1,0,0,0,Mid Age,Very High,Very Low
+767,20,Male,Unemployed,8.9,5.7,0,8.7,6,5.0,High,1,4,0,0,0,1,1,Young Adult,Very High,High
+768,49,Female,Unemployed,11.7,3.9,0,7.8,2,9.6,Low,4,2,1,0,1,0,0,Mid Age,Very High,High
+769,21,Female,Unemployed,5.9,4.3,1,4.1,4,4.1,High,5,3,1,0,1,0,1,Young Adult,Moderate,Very Low
+770,17,Female,Employed,3.3,1.3,0,5.4,6,7.4,High,9,2,1,1,1,0,1,Teen,Low,Low
+771,28,Male,Student,8.7,2.3,0,5.1,5,10.0,Medium,6,0,0,1,1,1,0,Adult,Very High,Low
+772,58,Male,Unemployed,9.3,6.5,1,7.7,6,7.4,Low,4,0,0,1,0,0,1,Senior,Very High,High
+773,58,Female,Unemployed,7.8,4.2,0,6.1,3,11.1,Low,2,4,0,1,0,0,0,Senior,High,Ideal
+774,26,Female,Employed,4.1,3.1,1,3.8,5,2.6,Medium,5,2,0,0,1,0,1,Adult,Moderate,Very Low
+775,38,Male,Employed,7.0,3.7,1,7.4,2,7.9,Medium,8,0,0,0,0,0,0,Mid Age,High,High
+776,31,Male,Unemployed,5.1,7.0,0,5.4,7,7.6,Medium,8,1,0,0,1,1,0,Adult,Moderate,Low
+777,46,Female,Student,6.3,6.2,1,4.6,3,8.6,Medium,6,1,0,1,1,0,1,Mid Age,High,Very Low
+778,26,Female,Student,8.5,2.9,0,5.3,1,10.3,Medium,1,3,0,0,0,0,1,Adult,Very High,Low
+779,31,Male,Unemployed,9.5,1.8,0,6.0,8,9.3,High,8,4,0,0,1,0,1,Adult,Very High,Low
+780,23,Male,Employed,4.3,2.8,0,5.1,8,9.9,Medium,4,0,0,1,0,0,0,Young Adult,Moderate,Low
+781,19,Male,Unemployed,6.1,7.4,1,4.5,3,4.9,Low,2,3,0,0,1,1,0,Young Adult,High,Very Low
+782,55,Female,Unemployed,4.7,5.1,0,5.4,7,5.9,Low,1,1,1,1,0,1,1,Senior,Moderate,Low
+783,19,Male,Employed,4.0,4.7,1,3.1,9,8.3,Medium,7,3,0,1,1,1,1,Young Adult,Low,Very Low
+784,40,Female,Unemployed,9.8,5.2,1,7.6,8,7.5,Medium,2,3,0,0,0,1,1,Mid Age,Very High,High
+785,18,Male,Unemployed,11.1,3.6,1,4.0,3,11.6,Medium,4,0,1,0,0,1,1,Teen,Very High,Very Low
+786,47,Male,Unemployed,5.7,6.6,0,3.3,2,3.9,Medium,4,0,0,1,1,0,0,Mid Age,Moderate,Very Low
+787,18,Male,Employed,9.5,4.7,1,6.9,10,5.5,Medium,10,0,1,0,1,0,1,Teen,Very High,Ideal
+788,42,Male,Student,11.0,1.8,1,7.6,7,7.7,Low,1,4,1,0,1,1,1,Mid Age,Very High,High
+789,44,Female,Student,10.5,1.9,0,7.9,7,10.7,High,2,3,0,1,0,0,1,Mid Age,Very High,High
+790,47,Female,Employed,3.8,4.8,0,6.0,9,11.3,Medium,1,3,0,0,1,1,0,Mid Age,Low,Low
+791,34,Male,Student,11.6,7.6,1,4.2,5,5.4,Medium,6,4,1,1,0,1,1,Adult,Very High,Very Low
+792,36,Female,Unemployed,5.8,3.2,1,7.4,4,2.7,Medium,3,1,0,1,1,0,0,Mid Age,Moderate,High
+793,20,Male,Student,5.4,7.1,0,7.2,8,6.2,Low,1,2,0,1,1,1,1,Young Adult,Moderate,High
+794,33,Male,Unemployed,2.6,6.3,1,4.5,4,5.9,Low,8,1,0,1,1,0,0,Adult,Low,Very Low
+795,43,Male,Student,6.9,2.7,1,8.4,4,11.9,High,4,4,1,0,1,1,0,Mid Age,High,High
+796,57,Male,Employed,3.1,1.3,1,3.6,2,6.3,High,10,3,1,0,0,1,0,Senior,Low,Very Low
+797,37,Female,Student,4.5,1.7,1,8.9,1,5.1,High,7,3,0,0,1,0,0,Mid Age,Moderate,High
+798,36,Male,Student,5.2,6.1,0,8.2,4,5.7,High,10,0,0,1,0,0,1,Mid Age,Moderate,High
+799,21,Male,Student,10.1,2.4,1,7.1,7,6.0,Low,2,0,1,0,0,0,1,Young Adult,Very High,High
+800,16,Female,Employed,10.8,3.6,0,8.6,9,10.2,High,6,3,1,1,1,1,0,Teen,Very High,High
+801,20,Male,Student,5.0,4.5,1,7.3,9,2.8,Medium,6,3,0,1,1,1,1,Young Adult,Moderate,High
+802,56,Male,Employed,10.6,6.1,0,4.1,10,5.2,Low,7,0,0,0,1,1,0,Senior,Very High,Very Low
+803,27,Male,Unemployed,10.6,1.8,1,5.7,1,11.7,Low,1,0,0,0,0,0,0,Adult,Very High,Low
+804,41,Female,Student,9.6,3.8,0,3.4,5,3.5,Low,1,1,1,1,1,0,0,Mid Age,Very High,Very Low
+805,49,Male,Employed,3.5,4.4,1,5.3,7,9.4,Medium,2,3,1,1,1,0,0,Mid Age,Low,Low
+806,29,Female,Employed,8.9,4.8,0,7.4,7,5.6,Low,2,3,0,1,1,0,0,Adult,Very High,High
+807,41,Male,Student,11.5,6.7,1,5.3,10,7.8,Medium,5,4,1,1,1,1,1,Mid Age,Very High,Low
+808,42,Male,Unemployed,8.8,2.2,1,5.0,6,3.0,High,1,1,0,0,0,0,1,Mid Age,Very High,Very Low
+809,24,Female,Employed,5.3,6.7,0,6.6,10,5.1,Low,2,2,0,0,0,1,0,Young Adult,Moderate,Ideal
+810,41,Male,Student,7.0,5.9,0,8.2,4,7.0,Medium,6,2,0,0,1,1,0,Mid Age,High,High
+811,37,Male,Unemployed,8.5,4.9,0,3.3,3,4.3,Low,3,2,0,1,0,1,0,Mid Age,Very High,Very Low
+812,45,Female,Employed,7.1,5.9,0,5.3,9,7.4,High,4,0,0,1,0,1,0,Mid Age,High,Low
+813,58,Female,Employed,3.2,3.9,0,3.9,10,4.2,Low,1,2,1,0,1,1,1,Senior,Low,Very Low
+814,32,Female,Unemployed,5.1,2.0,1,7.2,4,8.5,High,5,4,1,0,0,1,0,Adult,Moderate,High
+815,41,Female,Unemployed,10.0,5.7,0,3.6,8,11.0,Low,4,0,0,0,1,1,1,Mid Age,Very High,Very Low
+816,51,Female,Student,10.6,4.7,0,7.0,1,2.9,Medium,8,0,1,1,0,0,0,Senior,Very High,Ideal
+817,16,Male,Student,3.4,5.5,1,4.7,7,4.2,High,3,2,0,1,0,1,1,Teen,Low,Very Low
+818,23,Female,Employed,11.5,3.4,0,4.2,6,10.4,Low,10,0,1,1,0,1,1,Young Adult,Very High,Very Low
+819,50,Male,Unemployed,5.3,7.3,0,8.6,1,8.3,High,1,1,1,0,0,1,0,Mid Age,Moderate,High
+820,30,Male,Unemployed,8.6,5.1,0,3.1,4,2.8,High,10,1,1,0,0,0,1,Adult,Very High,Very Low
+821,37,Male,Unemployed,9.5,1.6,1,5.6,5,6.9,Medium,5,2,1,0,1,1,1,Mid Age,Very High,Low
+822,29,Female,Employed,10.1,4.1,0,3.1,8,4.1,Medium,1,4,0,0,1,0,1,Adult,Very High,Very Low
+823,41,Female,Unemployed,11.5,6.3,1,5.9,4,4.0,Medium,5,0,1,0,0,1,0,Mid Age,Very High,Low
+824,43,Male,Unemployed,5.1,6.6,1,6.0,3,11.4,Medium,9,3,1,0,0,0,1,Mid Age,Moderate,Low
+825,38,Female,Employed,10.6,4.5,0,4.9,2,9.6,High,5,2,1,1,1,0,0,Mid Age,Very High,Very Low
+826,29,Female,Student,3.3,7.3,1,3.8,4,9.0,High,2,0,1,0,0,0,0,Adult,Low,Very Low
+827,39,Female,Student,9.1,2.9,0,5.3,10,4.4,Low,2,2,1,0,1,1,1,Mid Age,Very High,Low
+828,17,Female,Employed,9.4,3.9,0,7.0,4,3.2,Low,10,2,1,1,1,1,0,Teen,Very High,Ideal
+829,41,Male,Unemployed,8.8,7.3,0,7.7,10,10.7,Low,9,4,1,1,0,1,0,Mid Age,Very High,High
+830,29,Male,Employed,4.5,7.3,0,6.2,5,2.1,Medium,5,3,1,1,0,0,1,Adult,Moderate,Ideal
+831,22,Female,Student,10.7,5.8,0,6.5,7,5.9,High,8,0,0,1,1,0,1,Young Adult,Very High,Ideal
+832,18,Male,Student,3.7,7.0,1,4.2,9,4.8,High,10,2,0,1,0,0,1,Teen,Low,Very Low
+833,38,Female,Employed,2.5,1.6,1,4.7,2,7.7,Low,4,2,0,1,0,0,0,Mid Age,Low,Very Low
+834,58,Female,Employed,9.2,7.1,1,4.0,5,4.5,Low,2,0,1,0,1,1,0,Senior,Very High,Very Low
+835,33,Male,Student,6.8,3.2,1,4.5,10,5.1,High,4,2,0,0,1,1,1,Adult,High,Very Low
+836,53,Male,Employed,10.5,2.2,0,4.3,9,10.5,Medium,4,2,0,0,0,1,1,Senior,Very High,Very Low
+837,50,Male,Student,5.8,2.7,0,6.1,3,8.0,Low,9,2,0,0,0,0,0,Mid Age,Moderate,Ideal
+838,30,Female,Employed,3.7,3.9,1,6.4,1,3.5,Low,10,1,1,1,0,0,1,Adult,Low,Ideal
+839,40,Male,Employed,10.4,2.8,0,8.7,2,9.3,High,6,1,0,1,1,0,1,Mid Age,Very High,High
+840,52,Female,Employed,7.5,3.2,1,4.2,6,4.1,High,10,3,0,0,0,1,0,Senior,High,Very Low
+841,43,Male,Student,3.9,1.9,1,6.9,5,6.3,Low,6,4,0,1,0,1,1,Mid Age,Low,Ideal
+842,25,Male,Employed,9.2,3.1,1,7.9,1,8.5,Low,5,0,0,1,1,0,1,Young Adult,Very High,High
+843,54,Female,Student,7.1,5.0,1,6.4,1,4.7,Medium,6,4,0,0,0,0,1,Senior,High,Ideal
+844,32,Female,Student,8.0,4.1,0,4.5,4,5.8,Medium,1,4,0,0,0,0,1,Adult,High,Very Low
+845,54,Female,Employed,6.6,3.4,0,4.6,4,9.3,Medium,5,1,0,0,0,1,1,Senior,High,Very Low
+846,37,Female,Employed,10.3,6.2,1,3.2,6,11.4,Medium,6,3,1,0,1,1,1,Mid Age,Very High,Very Low
+847,41,Female,Student,10.3,7.3,1,4.8,6,7.3,Low,8,4,0,0,0,1,1,Mid Age,Very High,Very Low
+848,59,Female,Student,9.1,6.3,1,7.5,10,2.1,Low,4,4,0,0,1,1,0,Senior,Very High,High
+849,40,Female,Unemployed,3.1,3.3,1,3.3,6,5.4,Low,5,2,1,0,1,1,1,Mid Age,Low,Very Low
+850,32,Female,Student,10.4,6.2,1,4.3,1,6.0,Medium,4,0,1,0,0,0,0,Adult,Very High,Very Low
+851,28,Male,Unemployed,8.7,2.1,0,7.2,10,5.4,Low,7,3,1,1,1,1,0,Adult,Very High,High
+852,35,Female,Unemployed,9.0,1.9,1,7.7,9,6.4,High,10,0,1,0,1,1,0,Adult,Very High,High
+853,40,Female,Unemployed,5.6,3.4,1,5.7,7,8.3,Medium,6,1,1,1,0,1,1,Mid Age,Moderate,Low
+854,19,Male,Employed,10.8,6.7,0,7.2,7,3.2,High,4,4,0,0,0,0,1,Young Adult,Very High,High
+855,25,Female,Employed,9.3,2.7,0,5.3,7,4.7,Medium,6,4,0,1,0,1,0,Young Adult,Very High,Low
+856,18,Male,Student,3.1,1.4,0,4.0,2,7.1,Low,4,0,0,0,1,0,0,Teen,Low,Very Low
+857,56,Male,Unemployed,6.1,1.9,0,5.4,2,5.2,Medium,8,1,1,0,0,0,1,Senior,High,Low
+858,33,Female,Employed,10.9,7.0,0,6.5,6,11.9,High,3,2,0,0,1,0,1,Adult,Very High,Ideal
+859,51,Male,Employed,2.5,5.4,0,8.7,7,6.3,Medium,8,2,0,0,0,0,0,Senior,Low,High
+860,37,Female,Employed,11.6,2.8,0,3.4,3,10.7,High,2,4,1,0,0,1,1,Mid Age,Very High,Very Low
+861,49,Male,Employed,8.8,4.9,0,6.0,4,11.0,Low,6,4,1,1,1,1,0,Mid Age,Very High,Low
+862,23,Male,Employed,8.3,4.7,0,5.0,3,10.4,High,8,3,0,0,0,1,0,Young Adult,Very High,Very Low
+863,55,Male,Unemployed,4.7,5.6,1,6.0,7,2.5,Low,1,0,1,0,0,1,1,Senior,Moderate,Low
+864,59,Female,Unemployed,4.5,2.6,0,3.1,7,11.5,High,6,4,0,0,1,0,1,Senior,Moderate,Very Low
+865,34,Female,Unemployed,11.4,7.1,1,4.9,4,3.3,Low,9,1,1,1,0,1,0,Adult,Very High,Very Low
+866,57,Male,Unemployed,5.0,3.2,1,7.9,7,2.3,High,10,0,0,1,1,1,0,Senior,Moderate,High
+867,56,Male,Student,9.8,5.9,1,6.3,5,6.1,Low,10,3,0,1,0,0,0,Senior,Very High,Ideal
+868,52,Female,Unemployed,5.9,1.1,1,5.7,1,3.9,Low,2,2,0,1,1,0,0,Senior,Moderate,Low
+869,21,Female,Employed,3.4,3.6,1,4.7,10,3.8,Low,1,3,1,1,1,1,1,Young Adult,Low,Very Low
+870,41,Male,Unemployed,2.1,3.5,1,4.8,4,4.9,High,2,0,1,1,0,0,0,Mid Age,Low,Very Low
+871,49,Male,Student,7.4,4.8,1,5.3,7,4.5,High,5,2,1,0,0,0,1,Mid Age,High,Low
+872,21,Female,Employed,11.8,1.5,1,8.0,2,8.8,Low,6,1,1,0,1,1,0,Young Adult,Very High,High
+873,52,Female,Unemployed,5.7,6.5,0,8.8,2,3.9,Medium,1,2,0,0,0,0,0,Senior,Moderate,High
+874,48,Female,Unemployed,5.6,2.5,1,5.6,1,7.4,Low,7,2,0,1,0,0,0,Mid Age,Moderate,Low
+875,37,Female,Unemployed,5.4,5.7,1,5.4,2,11.9,Medium,4,1,0,0,0,0,0,Mid Age,Moderate,Low
+876,36,Female,Employed,7.2,6.6,1,8.1,10,6.3,Low,9,4,0,0,1,1,1,Mid Age,High,High
+877,21,Male,Employed,6.4,4.9,1,5.6,8,8.4,High,6,4,1,1,0,0,0,Young Adult,High,Low
+878,21,Female,Student,10.8,6.2,0,6.3,8,11.7,Medium,9,2,1,0,1,0,1,Young Adult,Very High,Ideal
+879,19,Male,Employed,7.1,5.6,1,4.4,8,3.4,High,1,2,1,0,0,1,1,Young Adult,High,Very Low
+880,45,Female,Employed,7.1,3.5,0,7.5,1,6.2,Medium,4,3,1,0,0,0,0,Mid Age,High,High
+881,26,Male,Unemployed,3.4,6.7,0,6.2,1,10.5,Medium,2,4,0,1,0,0,0,Adult,Low,Ideal
+882,45,Female,Employed,11.8,3.1,1,7.9,10,11.3,Medium,6,1,1,1,1,1,1,Mid Age,Very High,High
+883,46,Female,Unemployed,4.5,5.0,1,7.7,4,8.0,Medium,4,2,1,0,0,1,1,Mid Age,Moderate,High
+884,39,Male,Unemployed,2.7,6.2,0,4.3,6,3.4,High,9,2,1,0,1,1,0,Mid Age,Low,Very Low
+885,24,Male,Employed,8.6,3.7,1,7.3,8,11.0,Medium,3,3,0,1,0,1,0,Young Adult,Very High,High
+886,18,Female,Student,8.0,3.1,1,7.8,2,3.7,Low,1,3,0,1,0,1,0,Teen,High,High
+887,46,Female,Student,6.2,4.2,0,5.1,3,5.5,Low,1,3,0,1,0,1,1,Mid Age,High,Low
+888,55,Female,Employed,6.2,6.7,0,4.0,6,5.8,Medium,9,0,1,1,1,0,0,Senior,High,Very Low
+889,52,Female,Student,9.9,7.5,1,3.0,10,6.5,High,9,1,0,0,1,0,1,Senior,Very High,Very Low
+890,51,Female,Unemployed,4.0,4.8,1,5.7,4,9.9,High,5,0,0,1,0,0,0,Senior,Low,Low
+891,39,Male,Unemployed,10.2,5.6,1,5.1,2,10.0,Medium,2,2,0,0,0,0,1,Mid Age,Very High,Low
+892,46,Male,Employed,8.5,7.3,0,6.3,7,9.2,High,9,3,0,1,0,0,0,Mid Age,Very High,Ideal
+893,21,Female,Student,6.2,1.7,1,4.1,4,2.2,High,8,3,0,0,1,0,1,Young Adult,High,Very Low
+894,17,Male,Student,6.6,2.6,0,8.2,8,7.6,High,10,3,0,1,1,0,1,Teen,High,High
+895,35,Male,Unemployed,4.6,6.0,0,4.5,8,9.5,Medium,10,4,1,1,0,1,1,Adult,Moderate,Very Low
+896,43,Male,Employed,9.5,6.8,1,4.4,7,6.4,Low,6,1,1,1,0,1,1,Mid Age,Very High,Very Low
+897,26,Female,Student,7.1,7.0,0,5.9,10,11.4,Low,7,0,0,0,1,1,1,Adult,High,Low
+898,19,Male,Employed,5.2,3.9,1,6.0,9,10.2,Low,6,1,1,0,0,1,1,Young Adult,Moderate,Low
+899,30,Female,Student,8.0,1.6,1,4.3,4,8.4,Low,5,3,0,0,0,0,0,Adult,High,Very Low
+900,21,Male,Unemployed,12.0,4.1,0,4.6,7,2.6,Low,4,2,1,0,0,1,1,Young Adult,Very High,Very Low
+901,45,Female,Unemployed,6.4,2.6,1,4.0,10,8.5,High,7,4,0,1,1,1,1,Mid Age,High,Very Low
+902,53,Male,Employed,11.2,3.0,0,7.3,10,11.1,High,4,1,1,1,0,1,1,Senior,Very High,High
+903,17,Female,Unemployed,5.5,6.4,0,7.6,1,5.8,High,10,2,0,1,0,0,0,Teen,Moderate,High
+904,30,Female,Student,2.5,1.5,1,5.8,4,10.4,Medium,10,3,0,0,0,0,1,Adult,Low,Low
+905,26,Male,Unemployed,4.0,6.8,1,7.3,2,5.1,High,10,3,1,1,0,0,0,Adult,Low,High
+906,23,Female,Employed,6.2,4.0,1,7.4,9,7.7,Low,9,3,0,1,0,1,1,Young Adult,High,High
+907,41,Female,Employed,4.2,5.2,1,3.8,5,8.5,High,5,3,1,1,0,0,1,Mid Age,Moderate,Very Low
+908,59,Female,Employed,2.0,1.6,0,8.8,3,8.8,Low,8,4,0,0,0,0,0,Senior,Low,High
+909,20,Female,Student,11.2,3.4,0,7.9,4,10.8,High,6,4,0,0,0,0,0,Young Adult,Very High,High
+910,21,Female,Student,10.4,1.6,0,4.2,6,4.3,Low,4,1,0,1,0,1,1,Young Adult,Very High,Very Low
+911,41,Female,Student,9.4,7.7,1,4.1,10,4.6,High,3,3,0,0,1,1,1,Mid Age,Very High,Very Low
+912,19,Female,Student,3.7,6.7,0,3.8,1,9.0,Low,6,4,1,0,1,1,0,Young Adult,Low,Very Low
+913,34,Female,Student,3.2,4.2,0,3.8,7,3.8,Low,1,2,1,1,1,0,0,Adult,Low,Very Low
+914,35,Male,Unemployed,2.7,2.6,1,7.5,8,6.6,Medium,2,4,1,1,0,1,1,Adult,Low,High
+915,48,Male,Student,9.2,7.5,1,5.8,7,2.2,High,7,4,1,0,0,1,0,Mid Age,Very High,Low
+916,35,Female,Student,11.3,3.4,1,7.7,7,3.4,Low,4,1,1,0,0,1,1,Adult,Very High,High
+917,27,Female,Unemployed,6.3,2.1,0,7.5,9,8.8,High,5,4,0,1,1,0,0,Adult,High,High
+918,16,Male,Student,3.2,4.9,1,6.6,4,9.5,Low,10,2,0,1,0,0,1,Teen,Low,Ideal
+919,41,Male,Employed,7.1,7.6,0,7.1,7,3.2,Medium,1,3,1,1,1,1,0,Mid Age,High,High
+920,29,Male,Student,5.5,1.0,0,3.1,9,4.3,Medium,2,0,0,1,0,0,0,Adult,Moderate,Very Low
+921,53,Female,Student,5.7,2.7,0,4.9,5,3.0,Medium,4,1,1,1,1,1,0,Senior,Moderate,Very Low
+922,52,Male,Employed,8.2,7.6,0,6.8,2,6.3,Medium,8,2,0,1,0,0,0,Senior,Very High,Ideal
+923,26,Female,Employed,9.2,2.2,0,3.1,5,3.3,Low,10,1,1,1,0,1,1,Adult,Very High,Very Low
+924,51,Female,Employed,3.1,1.8,1,3.2,4,6.4,High,4,3,0,0,0,1,1,Senior,Low,Very Low
+925,28,Male,Employed,2.4,5.0,0,8.1,8,9.3,Medium,3,4,0,0,1,0,0,Adult,Low,High
+926,58,Female,Student,11.9,7.0,1,7.1,5,8.8,Medium,3,4,1,1,1,1,1,Senior,Very High,High
+927,18,Female,Employed,4.3,4.3,0,4.6,9,4.8,Medium,5,2,0,0,1,0,1,Teen,Moderate,Very Low
+928,48,Female,Employed,2.5,8.0,0,7.1,9,8.7,High,3,3,1,0,0,1,1,Mid Age,Low,High
+929,21,Female,Unemployed,3.9,5.8,1,7.8,3,11.3,Low,8,0,0,1,1,1,0,Young Adult,Low,High
+930,25,Male,Employed,2.4,1.5,0,4.8,10,5.5,Low,5,0,1,1,0,1,0,Young Adult,Low,Very Low
+931,20,Male,Employed,5.9,7.9,0,3.2,6,5.3,Low,7,4,0,1,1,0,1,Young Adult,Moderate,Very Low
+932,38,Female,Unemployed,10.0,3.9,1,8.6,6,7.7,Low,8,3,1,0,0,1,1,Mid Age,Very High,High
+933,25,Female,Unemployed,5.4,3.0,1,5.1,4,4.5,High,5,3,0,1,1,1,0,Young Adult,Moderate,Low
+934,59,Male,Student,6.4,4.9,0,3.6,10,8.5,High,8,2,0,1,1,0,0,Senior,High,Very Low
+935,17,Female,Unemployed,8.8,3.1,0,6.0,3,10.3,High,3,0,1,0,0,0,0,Teen,Very High,Low
+936,28,Male,Student,7.1,1.6,0,7.6,1,6.6,Medium,7,2,1,1,0,1,0,Adult,High,High
+937,55,Female,Unemployed,10.6,1.0,1,4.3,7,8.8,High,8,1,1,0,0,1,0,Senior,Very High,Very Low
+938,17,Female,Unemployed,10.7,4.1,0,4.6,5,8.5,Low,7,3,1,0,0,1,0,Teen,Very High,Very Low
+939,35,Male,Student,2.1,6.9,1,4.5,10,2.4,High,2,0,0,1,1,0,0,Adult,Low,Very Low
+940,16,Male,Unemployed,9.8,5.0,1,9.0,7,3.8,Medium,8,2,0,1,1,1,0,Teen,Very High,High
+941,52,Male,Student,6.6,8.0,0,4.2,1,10.9,Low,6,4,0,1,1,0,0,Senior,High,Very Low
+942,24,Male,Unemployed,11.9,3.0,1,6.5,8,11.4,High,10,1,0,0,0,1,1,Young Adult,Very High,Ideal
+943,32,Female,Employed,6.8,3.0,0,8.6,3,9.8,Low,3,2,0,1,0,1,1,Adult,High,High
+944,24,Male,Unemployed,11.9,2.1,0,3.9,7,11.2,Low,4,4,1,0,1,1,0,Young Adult,Very High,Very Low
+945,26,Female,Student,9.5,2.1,1,8.8,3,5.1,High,7,0,1,1,1,1,1,Adult,Very High,High
+946,30,Male,Unemployed,4.5,3.0,1,8.7,3,4.5,High,3,0,1,1,0,1,0,Adult,Moderate,High
+947,39,Male,Student,7.4,6.5,1,8.3,10,5.8,Medium,1,1,1,1,0,1,0,Mid Age,High,High
+948,53,Female,Student,11.9,7.3,1,4.3,9,2.6,High,6,4,1,1,0,1,0,Senior,Very High,Very Low
+949,50,Male,Employed,10.6,7.8,1,6.8,2,10.1,High,3,3,0,0,1,0,1,Mid Age,Very High,Ideal
+950,45,Male,Employed,3.0,2.6,1,7.6,4,11.8,High,10,0,0,1,0,1,1,Mid Age,Low,High
+951,46,Male,Student,9.1,7.2,0,8.9,6,10.2,Low,6,3,1,1,1,0,1,Mid Age,Very High,High
+952,20,Male,Unemployed,5.5,3.3,0,4.1,3,7.5,Medium,10,3,1,1,1,1,1,Young Adult,Moderate,Very Low
+953,59,Female,Student,2.1,1.8,0,7.6,10,5.0,Low,3,2,1,1,1,0,0,Senior,Low,High
+954,29,Female,Student,6.0,7.1,1,5.0,10,4.0,High,6,2,0,0,1,0,1,Adult,Moderate,Very Low
+955,26,Male,Unemployed,4.3,5.5,1,4.1,7,5.6,Medium,4,0,1,0,0,0,0,Adult,Moderate,Very Low
+956,24,Male,Unemployed,10.2,2.2,1,5.5,7,8.7,High,4,3,1,1,0,1,1,Young Adult,Very High,Low
+957,49,Male,Unemployed,5.4,4.0,0,7.8,5,6.5,Low,10,2,1,0,1,0,1,Mid Age,Moderate,High
+958,27,Female,Unemployed,10.3,3.0,0,5.8,3,11.3,Low,10,4,0,1,0,0,0,Adult,Very High,Low
+959,50,Female,Student,2.0,6.2,1,6.2,2,10.5,High,2,4,1,0,0,1,1,Mid Age,Low,Ideal
+960,50,Female,Student,5.1,4.2,1,9.0,4,3.0,Medium,4,4,0,1,0,0,1,Mid Age,Moderate,High
+961,16,Female,Employed,4.4,7.9,1,5.4,4,3.3,Low,4,4,1,0,1,0,0,Teen,Moderate,Low
+962,55,Male,Student,4.3,1.4,1,6.7,8,8.8,High,7,3,1,0,1,1,0,Senior,Moderate,Ideal
+963,37,Male,Unemployed,2.7,3.5,0,5.2,8,4.3,High,5,4,0,0,1,1,0,Mid Age,Low,Low
+964,44,Male,Employed,3.9,4.4,0,5.4,5,9.9,High,8,3,0,0,0,0,0,Mid Age,Low,Low
+965,23,Female,Unemployed,7.6,4.5,0,7.2,6,7.9,Medium,7,0,1,0,0,1,1,Young Adult,High,High
+966,26,Male,Student,4.9,3.2,1,8.6,8,4.3,High,10,0,1,1,0,1,0,Adult,Moderate,High
+967,56,Female,Employed,6.2,6.1,0,6.3,1,6.8,High,9,4,0,0,0,1,0,Senior,High,Ideal
+968,52,Female,Unemployed,5.8,7.1,1,7.6,5,6.1,Low,8,4,0,1,0,1,1,Senior,Moderate,High
+969,29,Male,Employed,10.8,7.6,1,3.5,4,10.7,High,9,4,1,1,0,1,1,Adult,Very High,Very Low
+970,45,Male,Employed,11.1,6.6,1,4.3,4,2.3,Medium,1,0,0,1,0,1,0,Mid Age,Very High,Very Low
+971,50,Male,Student,6.9,7.0,0,6.0,2,11.0,High,10,2,0,1,0,1,1,Mid Age,High,Low
+972,36,Female,Unemployed,5.3,4.9,0,3.1,10,8.5,Medium,3,0,1,1,0,0,0,Mid Age,Moderate,Very Low
+973,52,Female,Employed,3.1,6.8,1,4.5,1,9.4,High,5,4,1,1,0,0,0,Senior,Low,Very Low
+974,20,Male,Employed,11.5,3.1,0,6.1,6,2.0,High,9,2,1,1,0,1,0,Young Adult,Very High,Ideal
+975,34,Male,Unemployed,2.6,3.8,1,3.1,7,8.3,High,8,2,0,1,1,1,0,Adult,Low,Very Low
+976,29,Female,Employed,5.0,3.2,1,4.6,5,7.9,Medium,10,1,1,1,0,1,1,Adult,Moderate,Very Low
+977,41,Male,Employed,5.0,4.3,1,6.1,8,7.4,Low,7,3,1,1,1,1,1,Mid Age,Moderate,Ideal
+978,19,Female,Employed,5.2,3.0,0,6.4,9,9.9,Medium,2,4,0,1,1,1,0,Young Adult,Moderate,Ideal
+979,40,Female,Unemployed,3.6,7.7,0,8.6,2,7.6,Low,6,3,1,0,0,0,0,Mid Age,Low,High
+980,57,Male,Unemployed,9.8,3.2,1,6.9,4,10.6,Medium,4,1,0,1,0,1,1,Senior,Very High,Ideal
+981,40,Male,Unemployed,3.2,1.7,0,5.5,9,4.3,High,5,3,0,1,1,1,1,Mid Age,Low,Low
+982,33,Male,Unemployed,8.3,4.7,0,8.6,5,10.1,High,5,4,1,1,1,0,1,Adult,Very High,High
+983,55,Male,Student,3.2,1.4,0,7.7,3,3.8,Low,4,1,1,0,0,0,0,Senior,Low,High
+984,23,Female,Employed,2.7,1.8,0,4.2,6,10.1,Low,4,3,0,0,1,0,0,Young Adult,Low,Very Low
+985,54,Female,Unemployed,11.1,2.5,1,3.8,3,11.4,Medium,4,0,1,1,1,0,1,Senior,Very High,Very Low
+986,55,Female,Employed,3.9,4.3,0,7.1,5,5.4,Medium,2,2,0,0,0,1,1,Senior,Low,High
+987,29,Male,Employed,10.2,4.0,1,6.4,3,7.3,Low,1,1,0,0,1,0,1,Adult,Very High,Ideal
+988,47,Female,Student,7.4,6.6,1,7.7,6,8.6,Low,2,0,1,1,0,0,1,Mid Age,High,High
+989,53,Male,Unemployed,2.8,6.2,0,7.4,10,2.8,Medium,7,4,1,1,1,1,0,Senior,Low,High
+990,48,Male,Unemployed,11.6,4.0,1,6.8,5,6.9,Low,1,2,0,0,0,0,0,Mid Age,Very High,Ideal
+991,38,Male,Employed,4.5,3.3,1,8.9,9,5.6,Low,6,1,0,0,0,0,1,Mid Age,Moderate,High
+992,30,Male,Unemployed,10.6,3.2,0,6.2,3,10.7,Low,4,2,1,1,1,0,1,Adult,Very High,Ideal
+993,48,Male,Employed,3.7,6.4,1,3.7,6,10.8,Low,2,1,0,1,0,0,0,Mid Age,Low,Very Low
+994,40,Male,Employed,10.5,1.4,1,8.0,8,9.0,High,3,1,0,1,1,1,1,Mid Age,Very High,High
+995,32,Female,Student,2.1,1.1,0,4.5,7,8.6,High,7,3,0,1,1,1,1,Adult,Low,Very Low
+996,48,Male,Student,7.1,6.6,0,7.7,6,9.3,Low,6,2,1,1,1,1,1,Mid Age,High,High
+997,17,Female,Student,9.7,4.3,0,8.7,2,5.7,Medium,6,2,0,1,0,1,0,Teen,Very High,High
+998,29,Female,Employed,11.3,1.9,0,7.2,7,6.0,High,8,0,0,0,0,1,1,Adult,Very High,High
+999,55,Male,Unemployed,11.1,2.6,0,6.6,8,7.5,Medium,8,4,1,1,1,0,0,Senior,Very High,Ideal
+1000,55,Male,Student,10.2,7.5,1,5.8,1,11.4,Medium,6,0,0,1,1,1,1,Senior,Very High,Low
+1001,54,Male,Unemployed,10.9,7.0,1,5.2,9,9.2,High,1,3,0,0,1,1,0,Senior,Very High,Low
+1002,21,Female,Student,4.0,6.0,0,5.1,4,7.5,Medium,10,1,1,1,0,1,0,Young Adult,Low,Low
+1003,21,Male,Student,4.8,4.4,0,6.8,8,9.7,Medium,7,3,1,1,0,1,1,Young Adult,Moderate,Ideal
+1004,18,Female,Employed,4.9,4.6,1,7.5,10,5.7,Low,8,3,1,0,1,1,0,Teen,Moderate,High
+1005,22,Male,Student,5.8,7.8,0,7.1,7,9.3,Low,5,0,1,0,1,1,1,Young Adult,Moderate,High
+1006,23,Male,Student,5.9,7.8,0,4.2,10,6.1,Low,4,1,1,1,1,0,0,Young Adult,Moderate,Very Low
+1007,57,Female,Employed,7.4,2.5,1,6.0,7,4.8,High,7,4,0,0,1,1,0,Senior,High,Low
+1008,30,Female,Unemployed,3.6,6.7,1,7.7,2,8.1,Low,6,3,0,1,1,1,0,Adult,Low,High
+1009,44,Male,Student,8.9,2.4,1,5.9,1,8.9,Medium,6,4,1,1,0,1,1,Mid Age,Very High,Low
+1010,48,Female,Employed,3.7,2.5,0,6.2,4,6.6,Medium,3,1,0,0,1,0,1,Mid Age,Low,Ideal
+1011,45,Female,Student,5.1,5.7,1,7.6,2,7.7,Medium,10,1,1,1,0,1,0,Mid Age,Moderate,High
+1012,54,Female,Employed,7.0,3.8,0,7.0,8,8.9,Medium,4,0,0,1,1,1,1,Senior,High,Ideal
+1013,42,Female,Unemployed,10.0,7.5,1,5.5,10,9.7,Medium,5,2,0,1,0,1,1,Mid Age,Very High,Low
+1014,51,Female,Unemployed,9.4,1.6,0,8.4,7,11.0,High,9,0,0,1,0,1,1,Senior,Very High,High
+1015,44,Male,Employed,8.5,4.6,0,4.0,8,5.5,Medium,8,4,1,0,0,1,1,Mid Age,Very High,Very Low
+1016,53,Male,Employed,3.6,7.4,0,9.0,6,11.5,High,3,0,1,0,1,0,1,Senior,Low,High
+1017,48,Female,Employed,7.5,7.3,1,3.7,1,8.4,Medium,6,1,1,1,0,0,0,Mid Age,High,Very Low
+1018,52,Male,Unemployed,2.9,2.1,1,3.1,9,9.9,High,10,3,0,1,0,1,1,Senior,Low,Very Low
+1019,42,Male,Student,5.8,3.6,1,8.3,6,9.0,High,1,2,1,1,0,0,1,Mid Age,Moderate,High
+1020,48,Female,Unemployed,6.1,5.3,0,4.5,10,4.1,Medium,3,1,0,1,1,0,0,Mid Age,High,Very Low
+1021,19,Male,Employed,2.4,2.1,1,7.4,1,2.7,Medium,10,3,0,1,0,0,0,Young Adult,Low,High
+1022,37,Female,Employed,4.7,7.8,1,7.9,1,9.3,Medium,7,4,1,0,0,0,1,Mid Age,Moderate,High
+1023,17,Female,Unemployed,11.6,7.4,0,8.2,8,7.1,Medium,7,4,0,0,1,1,1,Teen,Very High,High
+1024,25,Male,Employed,11.5,2.2,0,8.9,6,9.0,Low,2,4,0,0,1,1,0,Young Adult,Very High,High
+1025,20,Female,Unemployed,5.5,1.8,1,4.8,8,6.8,Low,3,0,0,1,1,1,1,Young Adult,Moderate,Very Low
+1026,25,Female,Employed,2.4,1.6,1,7.3,8,5.1,High,7,4,1,1,0,0,1,Young Adult,Low,High
+1027,48,Female,Student,3.8,7.4,1,3.7,8,4.9,High,6,4,1,1,1,1,0,Mid Age,Low,Very Low
+1028,53,Female,Student,5.9,2.4,0,5.4,10,9.3,Low,7,0,1,0,0,1,1,Senior,Moderate,Low
+1029,28,Female,Employed,11.5,3.9,1,8.1,7,4.8,High,10,3,0,1,1,1,0,Adult,Very High,High
+1030,46,Male,Unemployed,3.4,4.1,0,5.2,7,9.1,Medium,9,1,0,0,1,0,1,Mid Age,Low,Low
+1031,51,Male,Student,9.6,5.2,0,6.5,10,5.8,High,8,2,1,1,1,1,0,Senior,Very High,Ideal
+1032,39,Female,Unemployed,3.1,1.5,1,6.0,4,9.7,High,6,4,0,1,0,1,0,Mid Age,Low,Low
+1033,30,Female,Employed,11.8,2.6,1,6.9,9,3.4,High,4,4,1,1,1,1,0,Adult,Very High,Ideal
+1034,44,Male,Unemployed,5.8,7.5,0,8.8,2,4.0,Low,10,4,1,1,0,1,0,Mid Age,Moderate,High
+1035,23,Female,Student,9.8,7.4,0,3.3,9,8.9,Low,9,0,1,0,1,1,0,Young Adult,Very High,Very Low
+1036,20,Male,Unemployed,5.4,6.5,1,6.4,10,7.6,High,7,0,1,1,1,0,1,Young Adult,Moderate,Ideal
+1037,44,Female,Unemployed,8.3,1.1,1,8.2,3,4.0,Medium,5,0,0,1,0,0,0,Mid Age,Very High,High
+1038,19,Female,Employed,3.9,3.3,1,5.9,2,11.0,High,2,2,0,0,0,0,0,Young Adult,Low,Low
+1039,27,Female,Employed,3.5,5.4,0,3.5,4,4.8,Low,9,1,0,0,1,0,1,Adult,Low,Very Low
+1040,17,Female,Employed,11.4,2.9,0,6.4,5,6.2,Medium,7,4,1,0,1,1,0,Teen,Very High,Ideal
+1041,42,Female,Student,11.2,7.4,1,5.0,2,4.0,High,9,3,0,1,1,1,0,Mid Age,Very High,Very Low
+1042,46,Female,Student,10.9,5.4,0,3.9,1,5.9,Low,9,4,1,1,0,1,1,Mid Age,Very High,Very Low
+1043,51,Female,Employed,8.3,1.5,0,8.1,10,6.9,Medium,10,4,1,1,1,1,1,Senior,Very High,High
+1044,51,Male,Employed,10.1,7.4,1,6.1,5,5.0,High,5,4,1,1,1,0,0,Senior,Very High,Ideal
+1045,41,Male,Student,2.7,7.7,0,8.6,9,9.7,Low,7,4,0,0,1,0,1,Mid Age,Low,High
+1046,58,Male,Student,5.3,1.5,1,7.8,5,5.9,Medium,5,1,1,0,0,1,0,Senior,Moderate,High
+1047,42,Female,Student,5.1,4.7,1,7.2,10,9.3,High,3,3,0,0,1,1,1,Mid Age,Moderate,High
+1048,20,Female,Student,8.4,3.1,0,3.0,9,4.1,Medium,10,0,0,0,1,1,0,Young Adult,Very High,Very Low
+1049,35,Female,Employed,5.6,3.7,0,5.6,10,5.8,Medium,8,3,0,0,0,1,0,Adult,Moderate,Low
+1050,26,Female,Student,3.5,2.3,1,4.2,6,2.1,Medium,8,4,0,1,0,0,1,Adult,Low,Very Low
+1051,25,Female,Employed,8.0,5.0,0,8.5,3,9.6,Low,9,3,0,1,1,0,0,Young Adult,High,High
+1052,55,Female,Unemployed,10.1,7.7,1,4.0,4,8.3,High,6,4,0,1,1,0,1,Senior,Very High,Very Low
+1053,53,Female,Unemployed,5.8,4.5,0,4.7,4,10.2,Medium,2,3,0,0,0,0,1,Senior,Moderate,Very Low
+1054,21,Male,Student,3.3,1.6,0,6.1,1,6.6,Medium,3,2,0,0,0,0,0,Young Adult,Low,Ideal
+1055,23,Female,Unemployed,4.0,5.3,0,4.6,3,10.0,Medium,10,3,1,1,0,0,1,Young Adult,Low,Very Low
+1056,38,Male,Unemployed,4.4,3.4,1,4.3,3,8.5,Low,6,0,1,1,0,0,0,Mid Age,Moderate,Very Low
+1057,41,Male,Unemployed,5.0,7.0,0,6.6,1,2.0,Medium,1,0,0,1,0,0,0,Mid Age,Moderate,Ideal
+1058,58,Female,Student,8.4,4.0,1,3.5,9,4.5,Low,2,3,0,1,1,1,1,Senior,Very High,Very Low
+1059,27,Female,Student,8.0,2.3,1,3.3,1,6.9,Low,8,3,0,1,0,0,1,Adult,High,Very Low
+1060,41,Male,Unemployed,9.0,2.3,1,5.2,9,8.2,Medium,8,1,0,1,1,1,0,Mid Age,Very High,Low
+1061,28,Male,Employed,5.6,6.4,0,7.3,1,2.7,Medium,6,3,0,0,0,0,1,Adult,Moderate,High
+1062,55,Female,Unemployed,10.2,2.9,1,6.3,2,9.1,Low,3,0,1,1,1,1,0,Senior,Very High,Ideal
+1063,33,Female,Student,4.0,6.4,1,5.5,2,7.4,Low,2,2,0,0,1,0,0,Adult,Low,Low
+1064,40,Male,Student,6.7,2.4,0,6.4,6,7.3,Medium,6,0,0,1,0,0,0,Mid Age,High,Ideal
+1065,48,Female,Student,10.0,3.3,1,5.2,7,4.9,Low,1,1,0,0,1,1,1,Mid Age,Very High,Low
+1066,55,Female,Unemployed,3.8,4.3,1,8.6,1,7.9,Low,10,3,1,0,1,0,0,Senior,Low,High
+1067,58,Female,Employed,3.1,7.6,0,3.3,3,2.3,Medium,6,2,1,0,1,0,1,Senior,Low,Very Low
+1068,27,Male,Student,10.8,7.5,1,7.0,2,2.6,Medium,9,0,0,1,1,0,1,Adult,Very High,Ideal
+1069,59,Male,Student,5.4,2.4,0,8.3,8,9.3,High,7,2,1,1,0,1,0,Senior,Moderate,High
+1070,51,Male,Unemployed,8.8,3.5,1,7.8,9,5.2,Medium,9,4,1,1,1,1,1,Senior,Very High,High
+1071,19,Female,Employed,2.3,2.0,1,4.1,2,5.5,Medium,2,0,1,1,1,0,0,Young Adult,Low,Very Low
+1072,20,Female,Unemployed,8.9,4.6,0,4.8,2,4.1,Medium,5,4,1,0,0,1,0,Young Adult,Very High,Very Low
+1073,52,Male,Student,5.2,4.2,1,7.3,10,6.5,High,9,2,1,1,0,0,1,Senior,Moderate,High
+1074,23,Male,Employed,2.6,7.3,1,3.5,9,2.5,Low,7,3,1,1,0,0,1,Young Adult,Low,Very Low
+1075,57,Male,Employed,8.1,7.5,1,7.9,4,5.0,Medium,9,3,1,1,0,1,0,Senior,Very High,High
+1076,43,Female,Student,4.4,3.7,0,7.3,5,7.3,Medium,6,3,1,0,0,1,1,Mid Age,Moderate,High
+1077,46,Male,Employed,5.9,4.4,0,7.4,9,6.7,High,7,4,0,0,1,1,0,Mid Age,Moderate,High
+1078,24,Male,Employed,2.8,7.3,0,3.6,6,12.0,High,10,3,0,1,0,1,0,Young Adult,Low,Very Low
+1079,44,Female,Unemployed,3.5,6.6,0,7.3,10,5.9,High,5,1,1,1,0,1,0,Mid Age,Low,High
+1080,29,Female,Student,5.0,1.0,0,7.1,9,5.9,Low,6,0,1,1,1,0,0,Adult,Moderate,High
+1081,55,Female,Student,2.9,3.2,1,8.0,9,7.0,High,1,0,0,1,1,0,0,Senior,Low,High
+1082,56,Male,Student,11.1,4.0,0,3.2,7,3.9,Low,1,2,0,0,1,0,0,Senior,Very High,Very Low
+1083,37,Female,Student,2.1,2.6,0,3.1,10,10.8,Medium,2,4,1,1,0,1,1,Mid Age,Low,Very Low
+1084,26,Female,Student,6.8,2.4,0,5.2,9,7.7,Medium,4,0,0,1,0,1,0,Adult,High,Low
+1085,38,Male,Employed,3.2,1.3,1,3.9,5,3.9,Medium,9,4,1,0,0,0,1,Mid Age,Low,Very Low
+1086,16,Female,Unemployed,5.1,5.5,1,6.4,5,9.9,High,7,2,0,1,1,1,1,Teen,Moderate,Ideal
+1087,52,Male,Student,11.3,2.8,0,8.5,8,2.3,Medium,6,3,1,1,1,1,0,Senior,Very High,High
+1088,36,Male,Unemployed,3.6,1.4,1,5.3,10,11.8,High,1,2,0,1,0,1,0,Mid Age,Low,Low
+1089,41,Female,Unemployed,11.7,2.6,1,8.1,4,10.7,Low,5,1,1,0,1,0,0,Mid Age,Very High,High
+1090,51,Female,Employed,4.1,6.6,1,3.0,9,7.8,Medium,4,3,0,0,1,0,1,Senior,Moderate,Very Low
+1091,38,Female,Student,9.4,7.0,1,4.0,7,3.1,Low,5,3,0,1,1,0,1,Mid Age,Very High,Very Low
+1092,16,Female,Employed,7.5,4.4,0,3.2,7,4.2,High,9,3,1,1,1,1,1,Teen,High,Very Low
+1093,55,Female,Student,10.8,3.9,0,5.0,3,4.8,High,3,2,1,0,1,0,0,Senior,Very High,Very Low
+1094,30,Female,Employed,7.5,7.8,1,8.4,4,4.4,Medium,4,1,0,0,0,0,0,Adult,High,High
+1095,36,Male,Unemployed,7.3,2.4,1,3.6,7,7.0,Medium,8,4,0,0,1,1,1,Mid Age,High,Very Low
+1096,24,Male,Student,4.0,2.5,1,6.6,5,11.4,High,3,2,1,1,0,0,1,Young Adult,Low,Ideal
+1097,24,Female,Unemployed,3.7,3.0,1,5.7,3,6.4,Medium,3,0,0,0,0,0,0,Young Adult,Low,Low
+1098,25,Male,Unemployed,11.2,2.2,0,8.6,1,8.6,Medium,9,0,0,0,0,0,0,Young Adult,Very High,High
+1099,41,Female,Employed,5.3,3.7,1,3.7,7,8.9,Low,5,2,0,0,1,0,1,Mid Age,Moderate,Very Low
+1100,56,Male,Student,5.7,7.4,0,4.3,6,10.7,High,10,4,0,1,1,1,1,Senior,Moderate,Very Low
+1101,50,Male,Unemployed,9.6,5.3,1,3.2,10,2.3,Low,1,0,0,0,0,1,0,Mid Age,Very High,Very Low
+1102,40,Male,Employed,5.4,3.9,0,5.6,7,6.0,Medium,7,4,1,1,1,1,1,Mid Age,Moderate,Low
+1103,41,Female,Student,11.5,7.5,1,4.7,2,9.8,Low,7,3,0,1,0,0,1,Mid Age,Very High,Very Low
+1104,26,Male,Student,9.4,1.3,0,8.2,4,10.1,High,6,2,0,1,1,0,1,Adult,Very High,High
+1105,53,Female,Unemployed,8.0,2.5,0,6.6,2,11.3,Low,6,3,1,1,1,0,0,Senior,High,Ideal
+1106,17,Male,Student,10.8,5.0,0,6.7,8,9.0,Low,3,0,1,0,1,1,1,Teen,Very High,Ideal
+1107,22,Male,Unemployed,2.5,5.3,1,6.2,7,4.5,Medium,3,4,1,1,0,0,1,Young Adult,Low,Ideal
+1108,33,Male,Student,4.6,1.3,0,3.6,1,7.1,High,10,3,1,1,0,0,0,Adult,Moderate,Very Low
+1109,42,Male,Employed,6.7,3.8,1,5.7,2,2.3,Medium,9,0,1,1,1,1,1,Mid Age,High,Low
+1110,49,Male,Unemployed,4.3,5.5,0,9.0,2,8.5,Medium,1,1,0,0,0,0,0,Mid Age,Moderate,High
+1111,42,Female,Unemployed,9.4,5.9,0,8.0,4,7.5,High,7,3,0,0,0,1,0,Mid Age,Very High,High
+1112,32,Female,Student,11.2,5.5,1,8.4,3,8.7,Low,10,1,0,0,0,1,0,Adult,Very High,High
+1113,58,Male,Student,6.2,3.2,0,7.9,1,11.3,Medium,7,1,1,0,0,0,0,Senior,High,High
+1114,59,Male,Unemployed,5.4,1.7,1,3.6,2,8.9,Low,8,0,1,1,1,0,1,Senior,Moderate,Very Low
+1115,39,Male,Student,11.6,4.0,1,4.4,9,5.2,High,6,2,1,1,0,1,1,Mid Age,Very High,Very Low
+1116,40,Male,Employed,6.4,1.9,1,3.0,1,4.0,Medium,8,4,0,1,0,0,0,Mid Age,High,Very Low
+1117,22,Female,Student,6.9,7.6,1,4.8,9,10.5,Low,1,0,0,0,1,0,1,Young Adult,High,Very Low
+1118,21,Male,Employed,5.5,4.3,0,3.7,7,3.9,Low,1,3,0,0,1,1,1,Young Adult,Moderate,Very Low
+1119,39,Female,Employed,11.1,3.2,0,5.8,2,3.6,Medium,9,4,0,0,1,1,0,Mid Age,Very High,Low
+1120,48,Male,Employed,7.7,6.4,1,7.1,2,4.1,High,4,2,0,1,0,1,1,Mid Age,High,High
+1121,44,Female,Employed,9.6,4.5,0,8.2,5,7.1,Low,3,0,0,1,1,0,0,Mid Age,Very High,High
+1122,58,Male,Employed,10.1,3.2,0,7.5,5,3.2,High,6,2,1,1,1,1,0,Senior,Very High,High
+1123,37,Male,Student,5.4,6.7,1,8.6,4,11.4,Medium,10,3,0,0,0,1,0,Mid Age,Moderate,High
+1124,41,Female,Employed,6.3,7.1,0,3.3,10,11.7,Low,9,0,0,0,1,1,1,Mid Age,High,Very Low
+1125,43,Male,Student,10.5,5.7,1,3.1,10,11.7,Low,10,3,0,1,0,1,1,Mid Age,Very High,Very Low
+1126,36,Male,Employed,5.6,1.3,0,7.0,3,2.4,Low,4,4,0,0,0,0,0,Mid Age,Moderate,Ideal
+1127,22,Male,Unemployed,9.9,5.0,0,4.7,4,11.5,High,9,4,0,1,0,1,1,Young Adult,Very High,Very Low
+1128,32,Female,Employed,11.4,6.3,1,4.5,10,12.0,Low,5,2,1,1,0,1,1,Adult,Very High,Very Low
+1129,35,Male,Unemployed,8.2,2.0,0,5.0,4,11.4,Low,7,2,0,0,0,1,0,Adult,Very High,Very Low
+1130,56,Male,Employed,9.4,2.6,0,4.6,2,8.7,Medium,3,4,0,1,1,0,0,Senior,Very High,Very Low
+1131,35,Female,Employed,10.1,7.2,1,6.1,5,9.0,Low,3,1,1,1,0,0,1,Adult,Very High,Ideal
+1132,37,Female,Employed,10.5,1.1,0,5.6,5,3.2,High,3,4,1,1,1,1,1,Mid Age,Very High,Low
+1133,43,Female,Unemployed,6.0,6.3,1,6.1,5,10.7,Medium,8,0,0,1,1,1,1,Mid Age,Moderate,Ideal
+1134,55,Male,Unemployed,2.5,4.3,0,7.0,10,2.6,Medium,6,3,0,1,0,0,1,Senior,Low,Ideal
+1135,22,Male,Employed,6.0,4.1,1,5.3,1,5.2,Low,9,4,0,0,0,1,0,Young Adult,Moderate,Low
+1136,16,Male,Student,8.7,1.0,1,4.5,6,11.9,Medium,9,4,0,1,0,0,1,Teen,Very High,Very Low
+1137,47,Female,Employed,6.5,6.7,1,4.0,2,6.2,Low,8,3,0,0,1,1,1,Mid Age,High,Very Low
+1138,28,Male,Unemployed,9.5,3.5,1,5.1,7,3.3,Medium,1,3,1,1,0,1,0,Adult,Very High,Low
+1139,45,Male,Employed,5.6,4.8,1,7.5,4,11.7,High,6,0,1,0,0,0,1,Mid Age,Moderate,High
+1140,38,Female,Unemployed,8.3,5.7,0,7.5,5,11.8,Low,4,3,0,0,1,0,0,Mid Age,Very High,High
+1141,34,Female,Unemployed,3.9,5.9,0,7.0,5,3.9,High,4,2,0,0,0,0,1,Adult,Low,Ideal
+1142,47,Female,Unemployed,9.5,7.7,1,4.4,5,10.6,Low,3,4,1,1,1,0,0,Mid Age,Very High,Very Low
+1143,45,Female,Employed,7.5,4.7,0,6.5,2,5.9,High,9,3,1,0,1,0,0,Mid Age,High,Ideal
+1144,44,Female,Unemployed,4.0,3.8,1,6.4,5,5.8,High,2,0,0,1,0,0,0,Mid Age,Low,Ideal
+1145,44,Male,Unemployed,4.9,7.7,0,5.9,3,4.6,Medium,1,3,0,1,1,0,1,Mid Age,Moderate,Low
+1146,45,Female,Employed,9.5,5.5,0,6.3,4,2.4,Low,10,4,0,0,1,1,0,Mid Age,Very High,Ideal
+1147,31,Male,Unemployed,6.8,3.1,1,6.0,2,4.7,Medium,3,1,0,0,1,1,0,Adult,High,Low
+1148,55,Male,Employed,4.2,1.9,1,6.4,4,2.5,High,4,3,0,1,0,1,0,Senior,Moderate,Ideal
+1149,34,Female,Unemployed,11.7,6.9,0,7.3,9,11.2,Low,4,2,0,1,1,1,0,Adult,Very High,High
+1150,33,Female,Student,9.2,3.5,0,3.7,8,8.6,High,6,4,1,1,1,0,1,Adult,Very High,Very Low
+1151,16,Female,Student,11.6,5.6,1,7.5,3,10.9,High,1,0,1,0,0,1,1,Teen,Very High,High
+1152,29,Male,Unemployed,6.3,4.3,0,3.8,1,9.2,High,1,4,1,1,1,1,0,Adult,High,Very Low
+1153,17,Female,Student,6.8,2.4,0,3.4,1,3.3,High,2,1,1,1,0,0,1,Teen,High,Very Low
+1154,43,Female,Employed,11.0,5.2,1,8.9,6,11.4,Medium,4,0,0,1,1,1,1,Mid Age,Very High,High
+1155,45,Female,Student,7.3,1.4,0,8.7,3,11.0,High,7,1,1,1,0,0,1,Mid Age,High,High
+1156,53,Female,Unemployed,9.1,3.9,1,3.4,4,5.5,Medium,6,1,1,1,1,0,0,Senior,Very High,Very Low
+1157,19,Female,Unemployed,4.5,4.8,1,5.7,1,3.1,High,9,2,0,1,1,0,1,Young Adult,Moderate,Low
+1158,16,Male,Employed,6.5,4.1,1,4.1,8,9.0,Low,7,3,1,1,0,1,1,Teen,High,Very Low
+1159,23,Male,Unemployed,3.2,6.2,0,5.9,1,9.3,High,5,2,0,1,0,0,0,Young Adult,Low,Low
+1160,44,Male,Employed,4.1,6.8,0,8.0,5,11.0,High,6,2,0,1,0,0,1,Mid Age,Moderate,High
+1161,54,Female,Student,2.0,6.4,1,8.7,6,2.5,Low,10,2,1,1,1,0,0,Senior,Low,High
+1162,18,Female,Student,2.4,1.3,1,6.8,2,3.4,Low,9,0,1,1,0,1,1,Teen,Low,Ideal
+1163,47,Female,Employed,11.8,2.4,0,5.1,7,8.0,High,1,3,1,1,0,1,1,Mid Age,Very High,Low
+1164,25,Male,Employed,4.4,4.8,0,6.6,7,8.2,High,9,3,0,0,1,0,0,Young Adult,Moderate,Ideal
+1165,25,Female,Unemployed,8.6,7.5,0,4.9,1,2.3,Medium,6,0,1,1,0,0,0,Young Adult,Very High,Very Low
+1166,34,Female,Student,10.4,6.8,1,8.5,4,6.0,Low,4,2,0,1,0,0,1,Adult,Very High,High
+1167,49,Female,Employed,7.5,6.9,1,8.2,4,7.8,Low,5,2,1,1,0,0,0,Mid Age,High,High
+1168,48,Male,Student,3.5,3.1,0,6.3,5,9.4,Medium,1,1,0,1,1,0,0,Mid Age,Low,Ideal
+1169,38,Female,Employed,9.3,4.0,0,4.9,1,5.2,High,7,1,1,1,0,0,0,Mid Age,Very High,Very Low
+1170,43,Male,Student,8.0,4.3,0,4.8,1,6.8,High,8,4,1,0,1,1,0,Mid Age,High,Very Low
+1171,47,Female,Unemployed,9.3,2.1,1,3.2,7,10.1,Low,5,1,0,1,0,1,1,Mid Age,Very High,Very Low
+1172,22,Male,Student,9.7,1.2,1,7.9,9,11.5,Medium,2,3,1,0,1,1,0,Young Adult,Very High,High
+1173,44,Male,Student,11.8,7.6,0,5.7,1,4.3,High,8,0,1,1,0,1,0,Mid Age,Very High,Low
+1174,23,Male,Student,7.7,2.7,0,5.0,2,4.5,Low,10,2,0,0,1,0,1,Young Adult,High,Very Low
+1175,16,Female,Student,5.4,2.7,1,5.8,6,11.4,High,7,4,1,0,1,0,0,Teen,Moderate,Low
+1176,18,Female,Student,8.5,1.6,1,7.9,6,6.0,High,10,1,1,1,1,0,0,Teen,Very High,High
+1177,39,Male,Unemployed,2.7,7.5,0,3.7,2,9.2,High,9,4,0,0,0,0,1,Mid Age,Low,Very Low
+1178,38,Male,Employed,11.0,5.1,0,8.1,9,8.1,Low,4,0,1,0,1,0,1,Mid Age,Very High,High
+1179,23,Female,Student,3.2,5.7,0,8.4,4,4.9,Medium,9,0,0,1,0,1,1,Young Adult,Low,High
+1180,52,Female,Unemployed,5.3,7.4,1,8.7,7,8.5,Medium,4,4,1,0,0,1,0,Senior,Moderate,High
+1181,18,Male,Student,10.2,3.4,0,5.4,6,8.6,High,3,4,1,0,1,1,0,Teen,Very High,Low
+1182,48,Female,Student,8.0,5.4,1,4.3,3,7.9,Medium,3,4,0,0,1,1,1,Mid Age,High,Very Low
+1183,43,Female,Employed,5.9,1.3,1,5.2,8,3.0,High,10,2,1,1,0,1,1,Mid Age,Moderate,Low
+1184,23,Female,Student,6.7,2.3,0,5.0,7,12.0,Low,2,3,0,1,0,0,1,Young Adult,High,Very Low
+1185,49,Female,Unemployed,10.5,6.8,0,4.1,9,6.0,Low,10,1,0,1,1,0,1,Mid Age,Very High,Very Low
+1186,50,Male,Unemployed,5.4,6.4,1,6.6,3,8.4,Low,3,1,1,1,0,0,1,Mid Age,Moderate,Ideal
+1187,47,Female,Employed,10.7,3.5,0,5.9,1,10.9,High,8,1,0,0,1,1,0,Mid Age,Very High,Low
+1188,39,Female,Student,2.9,3.6,1,8.2,2,6.2,Medium,8,4,1,1,0,1,1,Mid Age,Low,High
+1189,29,Male,Unemployed,9.8,4.7,0,3.2,1,9.7,Low,2,4,0,0,0,0,1,Adult,Very High,Very Low
+1190,47,Male,Student,10.5,1.0,0,6.9,5,11.7,High,2,4,1,1,0,0,1,Mid Age,Very High,Ideal
+1191,58,Female,Student,3.8,2.7,0,7.6,10,5.6,Medium,2,2,1,1,0,1,1,Senior,Low,High
+1192,31,Female,Student,6.3,2.5,0,7.6,2,6.1,Medium,10,2,0,0,0,0,0,Adult,High,High
+1193,19,Female,Employed,3.7,2.8,1,8.3,3,11.1,Medium,7,2,1,0,1,0,1,Young Adult,Low,High
+1194,52,Female,Student,9.1,6.6,1,7.4,8,3.6,High,6,2,1,1,1,1,0,Senior,Very High,High
+1195,36,Male,Unemployed,7.4,3.0,1,8.6,10,2.3,High,1,0,1,1,1,1,1,Mid Age,High,High
+1196,29,Male,Student,8.4,2.3,0,5.0,5,11.1,High,2,2,0,1,1,1,0,Adult,Very High,Very Low
+1197,46,Male,Unemployed,4.0,4.5,1,6.0,4,10.2,Low,1,2,1,1,1,0,1,Mid Age,Low,Low
+1198,33,Female,Student,4.1,7.1,1,3.1,5,11.7,High,7,2,1,1,1,1,1,Adult,Moderate,Very Low
+1199,22,Female,Unemployed,2.4,2.7,1,3.0,10,2.6,Low,6,1,0,0,0,1,1,Young Adult,Low,Very Low
+1200,25,Female,Unemployed,5.2,1.5,0,4.4,6,3.6,Low,2,1,1,1,0,1,0,Young Adult,Moderate,Very Low
+1201,22,Female,Student,7.6,3.5,1,3.6,7,3.1,Low,2,1,0,0,1,1,0,Young Adult,High,Very Low
+1202,48,Male,Student,10.6,6.2,0,4.6,9,8.8,High,2,3,0,1,1,1,1,Mid Age,Very High,Very Low
+1203,38,Male,Unemployed,8.7,4.9,0,4.1,1,8.1,Low,8,0,1,1,0,0,0,Mid Age,Very High,Very Low
+1204,36,Female,Employed,6.4,6.7,1,3.2,4,5.6,High,7,4,0,0,0,0,0,Mid Age,High,Very Low
+1205,34,Male,Student,11.5,7.7,0,8.5,9,2.6,High,1,2,1,1,0,1,0,Adult,Very High,High
+1206,34,Female,Employed,9.2,6.5,1,3.0,5,8.4,Low,4,1,1,0,1,0,0,Adult,Very High,Very Low
+1207,51,Female,Student,11.3,5.2,1,7.4,8,7.7,Low,4,0,1,0,1,1,1,Senior,Very High,High
+1208,44,Male,Student,7.3,4.5,1,3.9,1,3.1,Low,7,2,0,1,0,1,1,Mid Age,High,Very Low
+1209,33,Female,Student,4.6,1.3,1,8.5,4,11.1,High,2,3,0,0,0,1,0,Adult,Moderate,High
+1210,17,Female,Student,2.5,7.9,1,8.4,9,4.0,High,4,4,1,1,1,0,0,Teen,Low,High
+1211,16,Male,Employed,9.3,3.7,0,6.9,1,9.4,Low,1,2,1,1,1,0,1,Teen,Very High,Ideal
+1212,20,Female,Student,3.2,2.1,1,7.0,1,10.9,Low,4,4,0,1,0,0,0,Young Adult,Low,Ideal
+1213,35,Female,Unemployed,5.0,5.7,0,3.0,4,7.8,Medium,1,2,1,1,0,1,0,Adult,Moderate,Very Low
+1214,26,Male,Unemployed,7.3,3.0,1,8.9,3,4.5,Low,2,3,0,1,0,1,0,Adult,High,High
+1215,57,Female,Employed,7.6,5.1,1,8.3,7,5.1,Medium,2,0,0,1,1,0,1,Senior,High,High
+1216,17,Male,Student,8.0,5.1,1,8.4,3,10.9,Medium,10,4,1,1,1,1,1,Teen,High,High
+1217,18,Female,Unemployed,3.7,4.1,0,7.0,1,5.0,High,3,4,1,0,1,0,0,Teen,Low,Ideal
+1218,38,Male,Employed,5.8,6.9,0,5.1,10,9.5,High,8,0,1,1,1,1,1,Mid Age,Moderate,Low
+1219,27,Male,Student,8.2,2.9,0,8.4,2,11.9,Medium,6,4,0,0,1,1,0,Adult,Very High,High
+1220,35,Male,Unemployed,11.7,4.1,0,4.7,10,12.0,Medium,6,1,0,1,1,1,1,Adult,Very High,Very Low
+1221,20,Female,Unemployed,9.3,4.8,1,6.4,4,7.3,Low,9,0,0,1,0,0,0,Young Adult,Very High,Ideal
+1222,52,Male,Employed,11.2,5.6,1,3.6,1,10.3,Medium,8,3,0,0,0,1,0,Senior,Very High,Very Low
+1223,53,Male,Student,9.6,6.5,0,8.5,1,11.9,Low,2,2,1,0,1,0,0,Senior,Very High,High
+1224,45,Male,Student,7.9,3.8,0,3.8,8,5.7,High,6,2,0,0,1,1,1,Mid Age,High,Very Low
+1225,24,Male,Unemployed,3.9,5.5,0,4.3,7,4.5,Low,1,0,1,0,0,0,1,Young Adult,Low,Very Low
+1226,49,Male,Unemployed,8.7,2.1,1,6.3,8,3.1,High,9,1,0,1,1,1,1,Mid Age,Very High,Ideal
+1227,59,Female,Unemployed,8.2,7.5,0,7.6,4,3.4,Medium,4,3,0,1,1,1,0,Senior,Very High,High
+1228,50,Female,Student,8.0,3.7,0,6.7,6,10.5,Medium,4,2,1,0,1,1,1,Mid Age,High,Ideal
+1229,37,Female,Employed,6.9,6.1,1,4.4,3,7.9,Medium,9,2,0,1,0,1,1,Mid Age,High,Very Low
+1230,59,Female,Employed,7.3,1.1,0,3.0,8,10.7,Low,3,1,1,0,1,0,1,Senior,High,Very Low
+1231,39,Female,Student,5.3,2.4,1,7.5,4,9.9,High,5,4,0,0,1,0,1,Mid Age,Moderate,High
+1232,32,Female,Employed,7.2,4.4,1,8.9,3,8.7,High,1,0,1,0,1,0,1,Adult,High,High
+1233,25,Female,Unemployed,4.0,7.1,1,7.9,4,8.1,High,6,1,0,0,0,1,0,Young Adult,Low,High
+1234,45,Male,Employed,10.1,4.7,1,5.8,6,2.5,High,3,1,0,0,0,0,0,Mid Age,Very High,Low
+1235,38,Female,Employed,3.9,7.5,1,8.4,7,10.7,High,1,1,1,1,1,1,0,Mid Age,Low,High
+1236,47,Male,Employed,2.8,4.4,0,5.5,7,6.2,Low,10,1,1,0,1,0,0,Mid Age,Low,Low
+1237,32,Male,Unemployed,6.4,4.4,0,6.1,4,7.6,High,6,4,1,0,1,1,0,Adult,High,Ideal
+1238,32,Female,Student,8.6,1.8,1,5.9,8,2.2,Medium,10,3,0,1,0,1,0,Adult,Very High,Low
+1239,29,Male,Unemployed,6.4,6.6,1,5.7,7,11.4,High,2,1,0,0,0,0,1,Adult,High,Low
+1240,24,Male,Student,4.8,2.7,0,7.7,2,11.0,Medium,8,1,0,0,1,0,1,Young Adult,Moderate,High
+1241,55,Male,Student,7.6,7.3,0,6.2,8,7.4,Low,2,0,0,1,1,0,1,Senior,High,Ideal
+1242,17,Male,Student,5.5,7.4,1,4.9,9,7.8,Low,4,2,0,1,1,1,1,Teen,Moderate,Very Low
+1243,40,Female,Employed,11.3,7.6,0,4.5,5,9.1,Medium,3,4,0,1,1,1,1,Mid Age,Very High,Very Low
+1244,54,Female,Employed,11.2,4.6,0,3.2,4,4.6,High,9,1,1,1,0,0,0,Senior,Very High,Very Low
+1245,24,Female,Student,7.0,5.7,1,6.5,4,4.2,Low,2,3,0,1,0,0,1,Young Adult,High,Ideal
+1246,37,Female,Student,5.3,6.4,0,4.4,4,8.7,Low,3,3,0,0,1,0,0,Mid Age,Moderate,Very Low
+1247,58,Female,Employed,9.4,1.9,0,3.9,6,3.0,Low,7,3,1,0,1,1,0,Senior,Very High,Very Low
+1248,19,Female,Unemployed,2.4,5.2,0,6.9,4,6.5,High,4,0,1,0,1,1,1,Young Adult,Low,Ideal
+1249,41,Female,Student,6.7,1.2,0,7.1,7,6.9,Medium,6,3,1,1,1,1,1,Mid Age,High,High
+1250,44,Female,Unemployed,5.4,4.5,1,7.5,7,5.8,Medium,3,0,1,1,1,1,0,Mid Age,Moderate,High
+1251,49,Female,Employed,11.2,2.1,0,6.0,5,3.9,High,1,4,1,1,1,0,0,Mid Age,Very High,Low
+1252,38,Female,Student,2.1,2.3,1,8.4,5,5.6,Low,6,3,0,1,1,1,1,Mid Age,Low,High
+1253,52,Male,Unemployed,7.5,3.6,0,8.6,10,5.4,High,4,2,0,1,0,1,0,Senior,High,High
+1254,26,Female,Unemployed,9.4,4.0,1,7.8,8,7.0,High,2,1,1,1,0,0,1,Adult,Very High,High
+1255,21,Male,Unemployed,6.9,5.4,1,6.8,7,8.7,Medium,7,4,1,0,1,1,1,Young Adult,High,Ideal
+1256,33,Male,Employed,2.9,1.5,0,4.8,7,11.7,High,10,2,0,1,1,0,1,Adult,Low,Very Low
+1257,36,Male,Employed,11.7,4.5,1,8.9,6,3.4,High,5,4,1,0,1,0,0,Mid Age,Very High,High
+1258,57,Male,Unemployed,7.2,2.3,1,4.6,7,10.7,Low,6,3,0,0,1,1,1,Senior,High,Very Low
+1259,51,Female,Unemployed,8.1,5.0,1,4.2,7,4.8,Low,6,4,0,0,1,1,1,Senior,Very High,Very Low
+1260,56,Male,Employed,4.4,5.5,1,5.7,10,7.9,Medium,9,4,1,1,1,1,0,Senior,Moderate,Low
+1261,53,Female,Unemployed,6.8,4.9,1,3.3,2,7.5,Low,2,4,0,1,0,0,0,Senior,High,Very Low
+1262,49,Female,Unemployed,6.3,6.2,0,8.9,10,7.6,High,6,0,0,1,1,1,0,Mid Age,High,High
+1263,32,Male,Employed,2.7,3.3,1,6.5,2,9.2,High,9,2,0,1,0,0,1,Adult,Low,Ideal
+1264,52,Female,Unemployed,3.1,6.4,1,6.3,10,5.8,High,4,3,0,1,0,1,1,Senior,Low,Ideal
+1265,40,Male,Unemployed,10.4,4.0,0,6.9,7,5.2,Medium,6,1,1,0,1,0,0,Mid Age,Very High,Ideal
+1266,53,Male,Unemployed,4.4,4.4,0,6.0,10,10.5,Low,7,3,1,0,1,0,1,Senior,Moderate,Low
+1267,27,Female,Employed,3.9,5.5,1,3.2,7,4.2,High,1,3,1,1,1,0,0,Adult,Low,Very Low
+1268,38,Female,Unemployed,7.0,1.1,0,6.7,7,3.8,Low,5,0,1,0,0,1,0,Mid Age,High,Ideal
+1269,57,Male,Employed,9.7,5.6,0,7.3,5,2.2,Low,4,0,1,0,1,1,0,Senior,Very High,High
+1270,37,Female,Employed,2.6,5.3,0,5.5,1,4.1,Low,10,4,0,1,1,1,0,Mid Age,Low,Low
+1271,36,Female,Student,7.8,3.2,0,7.5,2,7.2,Low,2,3,0,0,0,0,1,Mid Age,High,High
+1272,42,Female,Student,3.2,1.6,0,4.4,9,7.4,Medium,2,2,0,0,1,1,1,Mid Age,Low,Very Low
+1273,46,Male,Unemployed,2.4,1.6,0,4.3,8,4.5,Medium,2,0,0,1,0,0,1,Mid Age,Low,Very Low
+1274,21,Male,Employed,2.5,7.5,1,4.0,8,2.7,Medium,7,0,1,0,0,0,0,Young Adult,Low,Very Low
+1275,42,Female,Student,10.3,5.8,1,5.2,10,9.4,High,4,2,1,1,1,1,1,Mid Age,Very High,Low
+1276,55,Female,Unemployed,3.2,1.9,0,8.1,1,9.6,High,6,0,0,1,0,0,0,Senior,Low,High
+1277,49,Female,Student,2.5,3.5,0,8.0,6,12.0,High,7,2,1,1,0,1,0,Mid Age,Low,High
+1278,27,Female,Student,6.4,5.1,1,5.3,9,11.0,Medium,9,1,0,0,0,1,0,Adult,High,Low
+1279,22,Female,Employed,10.4,6.8,0,6.5,8,11.3,Low,2,2,0,0,1,0,0,Young Adult,Very High,Ideal
+1280,25,Male,Employed,4.6,1.3,1,7.3,3,10.0,Medium,10,1,1,0,0,0,0,Young Adult,Moderate,High
+1281,32,Female,Student,6.2,2.7,0,4.4,4,8.2,High,9,4,1,1,1,1,0,Adult,High,Very Low
+1282,41,Male,Student,2.4,7.2,1,4.0,3,3.3,High,5,4,1,0,0,0,0,Mid Age,Low,Very Low
+1283,36,Female,Employed,6.5,1.1,1,8.8,6,8.2,Low,6,0,0,0,0,0,0,Mid Age,High,High
+1284,43,Male,Unemployed,7.8,2.4,0,6.7,9,2.6,Medium,6,2,1,1,1,1,0,Mid Age,High,Ideal
+1285,17,Female,Employed,7.7,7.7,0,8.9,8,10.9,Low,3,0,0,1,1,1,0,Teen,High,High
+1286,58,Male,Student,5.3,5.3,0,5.0,10,6.8,Medium,10,2,1,1,1,0,1,Senior,Moderate,Very Low
+1287,16,Female,Unemployed,5.2,2.8,0,7.2,4,9.0,High,7,0,0,0,0,0,1,Teen,Moderate,High
+1288,51,Male,Student,3.1,1.5,1,4.3,2,2.5,Low,7,4,1,1,1,1,1,Senior,Low,Very Low
+1289,41,Male,Unemployed,5.7,1.2,0,4.6,8,7.3,Low,8,4,0,0,1,1,1,Mid Age,Moderate,Very Low
+1290,44,Male,Student,3.0,2.7,1,6.1,8,5.0,Medium,5,0,0,1,1,0,1,Mid Age,Low,Ideal
+1291,36,Male,Unemployed,9.7,7.2,0,4.9,6,4.8,Medium,2,2,1,1,1,0,0,Mid Age,Very High,Very Low
+1292,26,Male,Unemployed,11.7,3.9,1,4.0,8,5.9,Medium,3,3,0,1,1,1,1,Adult,Very High,Very Low
+1293,55,Male,Student,11.7,6.0,0,4.6,9,2.0,High,9,2,1,1,0,1,1,Senior,Very High,Very Low
+1294,26,Female,Unemployed,10.7,7.4,0,3.2,1,6.7,Medium,6,0,1,0,0,0,0,Adult,Very High,Very Low
+1295,51,Male,Employed,8.0,3.9,1,7.2,9,6.9,High,8,2,1,0,1,1,0,Senior,High,High
+1296,54,Female,Student,9.0,2.3,0,6.0,2,10.6,Medium,8,1,0,0,0,0,0,Senior,Very High,Low
+1297,55,Female,Employed,4.9,4.6,0,3.6,1,6.5,Medium,5,2,1,1,0,0,0,Senior,Moderate,Very Low
+1298,50,Female,Student,8.3,7.4,0,4.0,8,5.6,High,1,4,0,0,1,0,1,Mid Age,Very High,Very Low
+1299,49,Female,Unemployed,6.6,6.6,0,3.6,8,11.9,Medium,6,4,1,1,1,0,1,Mid Age,High,Very Low
+1300,39,Female,Unemployed,6.8,1.5,0,6.7,4,7.7,High,7,1,1,1,0,0,0,Mid Age,High,Ideal
+1301,37,Male,Unemployed,9.6,5.8,1,3.6,8,6.7,High,9,2,0,0,0,1,1,Mid Age,Very High,Very Low
+1302,20,Male,Student,4.8,5.0,0,7.5,7,7.0,Medium,2,3,0,1,1,0,1,Young Adult,Moderate,High
+1303,48,Male,Employed,5.2,7.4,1,3.1,2,10.1,Medium,2,2,1,1,0,0,0,Mid Age,Moderate,Very Low
+1304,51,Female,Employed,11.2,1.9,0,4.5,5,5.4,Low,10,4,0,0,1,0,0,Senior,Very High,Very Low
+1305,35,Male,Student,2.6,4.7,0,8.3,10,5.9,Medium,1,4,1,0,0,1,1,Adult,Low,High
+1306,34,Male,Student,6.9,7.2,1,7.3,4,9.6,Low,5,0,0,1,1,1,1,Adult,High,High
+1307,50,Male,Employed,11.1,3.9,1,3.4,3,2.7,Medium,2,4,0,0,1,1,1,Mid Age,Very High,Very Low
+1308,58,Male,Employed,8.1,4.4,1,7.9,1,10.7,High,3,0,1,1,0,0,1,Senior,Very High,High
+1309,32,Male,Employed,7.5,1.5,1,6.0,5,6.3,High,2,4,0,0,0,1,0,Adult,High,Low
+1310,58,Female,Employed,4.5,2.9,1,8.1,10,7.8,Low,4,4,1,1,1,0,1,Senior,Moderate,High
+1311,49,Male,Student,5.4,3.3,0,6.6,8,9.6,Medium,3,3,1,1,1,1,0,Mid Age,Moderate,Ideal
+1312,24,Female,Student,10.5,7.6,1,7.1,9,4.7,Low,9,0,0,1,0,1,0,Young Adult,Very High,High
+1313,41,Female,Unemployed,7.6,3.0,1,9.0,7,10.9,Medium,10,0,1,0,0,0,1,Mid Age,High,High
+1314,17,Female,Employed,7.1,4.2,0,4.4,1,11.8,Medium,2,4,0,0,1,1,0,Teen,High,Very Low
+1315,24,Female,Unemployed,3.0,5.7,0,6.7,1,6.9,High,7,0,0,1,0,0,1,Young Adult,Low,Ideal
+1316,24,Female,Student,2.2,2.1,1,5.8,1,11.4,Low,3,4,1,0,0,1,0,Young Adult,Low,Low
+1317,55,Male,Student,11.6,4.4,1,3.2,2,2.0,High,10,4,0,0,1,1,0,Senior,Very High,Very Low
+1318,32,Male,Unemployed,5.8,6.2,1,3.1,1,10.9,High,8,2,1,0,0,0,0,Adult,Moderate,Very Low
+1319,16,Male,Employed,8.0,7.1,0,3.7,4,5.1,High,4,0,1,1,1,0,1,Teen,High,Very Low
+1320,40,Female,Employed,2.8,5.4,1,6.9,10,5.1,Low,4,1,0,0,0,0,1,Mid Age,Low,Ideal
+1321,58,Male,Employed,8.8,5.7,0,6.4,9,4.3,Medium,9,0,0,0,1,1,1,Senior,Very High,Ideal
+1322,55,Male,Employed,11.3,1.9,0,6.3,4,5.2,Medium,3,0,1,0,1,1,0,Senior,Very High,Ideal
+1323,57,Female,Unemployed,7.8,7.6,0,3.2,4,4.1,Low,7,3,1,1,1,0,0,Senior,High,Very Low
+1324,40,Female,Unemployed,3.3,1.9,0,5.8,7,11.1,Medium,1,1,1,1,0,1,1,Mid Age,Low,Low
+1325,54,Female,Student,7.8,6.4,1,8.5,9,11.0,Low,7,1,0,1,1,1,1,Senior,High,High
+1326,50,Female,Employed,9.7,2.9,0,5.4,7,3.0,Low,10,3,0,0,0,1,1,Mid Age,Very High,Low
+1327,18,Male,Employed,6.1,7.5,0,6.7,1,3.4,Medium,2,3,1,1,0,0,0,Teen,High,Ideal
+1328,52,Female,Employed,10.8,6.0,1,7.7,1,10.6,High,6,0,0,0,1,0,0,Senior,Very High,High
+1329,59,Female,Unemployed,8.5,6.3,0,7.7,4,6.0,Low,9,2,1,0,1,1,1,Senior,Very High,High
+1330,59,Male,Employed,11.0,2.5,1,6.1,4,3.7,Low,6,3,0,1,1,1,0,Senior,Very High,Ideal
+1331,45,Male,Unemployed,8.2,4.1,0,8.1,1,7.1,Low,3,1,1,0,0,0,0,Mid Age,Very High,High
+1332,53,Female,Employed,3.3,5.3,1,5.3,6,6.2,Low,1,1,1,1,1,1,1,Senior,Low,Low
+1333,49,Male,Employed,5.1,6.4,0,8.3,10,4.2,Medium,4,0,1,0,0,1,0,Mid Age,Moderate,High
+1334,27,Female,Student,4.0,1.7,0,4.4,2,9.2,Medium,4,2,1,0,0,0,0,Adult,Low,Very Low
+1335,34,Female,Employed,11.1,7.7,1,4.7,5,8.3,Low,8,4,1,0,0,0,1,Adult,Very High,Very Low
+1336,52,Male,Employed,9.6,7.2,0,3.3,8,3.0,High,10,3,1,0,1,1,1,Senior,Very High,Very Low
+1337,59,Male,Student,8.8,2.9,0,7.8,3,11.3,Medium,10,3,0,0,0,0,1,Senior,Very High,High
+1338,32,Female,Unemployed,5.0,6.8,1,5.5,9,7.6,High,7,0,1,1,0,1,0,Adult,Moderate,Low
+1339,25,Female,Unemployed,3.8,4.6,0,4.4,7,4.5,High,10,2,1,1,0,1,1,Young Adult,Low,Very Low
+1340,27,Female,Employed,9.6,4.2,0,4.4,9,4.1,Low,7,1,1,1,1,1,1,Adult,Very High,Very Low
+1341,31,Male,Unemployed,6.7,3.2,1,8.4,1,3.4,Medium,7,1,1,1,0,0,0,Adult,High,High
+1342,39,Female,Employed,4.3,5.1,1,8.0,5,6.2,Low,2,4,1,0,0,1,1,Mid Age,Moderate,High
+1343,34,Female,Student,8.2,6.1,1,6.3,3,3.4,Low,9,1,0,0,1,0,1,Adult,Very High,Ideal
+1344,23,Female,Student,2.4,3.9,1,6.7,4,6.2,High,6,3,1,1,0,1,1,Young Adult,Low,Ideal
+1345,46,Female,Employed,5.3,5.4,1,5.8,4,3.5,High,2,4,1,1,1,0,1,Mid Age,Moderate,Low
+1346,36,Female,Student,6.7,5.9,0,5.3,7,8.6,High,1,2,1,0,0,1,1,Mid Age,High,Low
+1347,32,Male,Student,3.5,6.0,1,8.5,10,9.9,Low,1,4,1,1,1,1,0,Adult,Low,High
+1348,38,Female,Employed,11.8,1.4,0,3.8,8,7.5,Low,1,2,0,0,1,1,0,Mid Age,Very High,Very Low
+1349,52,Female,Employed,4.1,7.0,1,5.5,10,8.8,Low,4,1,0,0,1,1,1,Senior,Moderate,Low
+1350,31,Female,Student,3.3,4.2,0,5.1,5,11.4,Low,4,0,1,1,1,0,0,Adult,Low,Low
+1351,21,Female,Unemployed,4.0,2.8,0,6.0,10,8.4,Low,9,4,1,0,1,0,0,Young Adult,Low,Low
+1352,23,Male,Unemployed,9.7,2.7,1,5.7,7,5.6,Low,1,4,0,0,1,1,1,Young Adult,Very High,Low
+1353,40,Male,Employed,6.3,4.4,0,6.1,3,6.5,Low,3,3,1,1,0,0,0,Mid Age,High,Ideal
+1354,33,Male,Employed,7.7,7.2,0,3.8,3,10.6,Low,3,3,0,1,0,1,0,Adult,High,Very Low
+1355,40,Female,Unemployed,2.2,3.6,1,6.1,3,3.3,Medium,8,2,1,0,0,0,1,Mid Age,Low,Ideal
+1356,27,Female,Student,2.3,6.2,1,4.5,4,5.3,Medium,2,0,0,1,1,0,0,Adult,Low,Very Low
+1357,30,Male,Unemployed,6.5,1.7,1,4.1,6,7.8,Medium,6,3,0,0,1,1,1,Adult,High,Very Low
+1358,41,Male,Unemployed,10.2,4.3,1,3.4,5,8.8,Medium,4,3,1,1,0,1,1,Mid Age,Very High,Very Low
+1359,56,Male,Unemployed,10.9,7.9,0,7.6,8,9.6,Low,10,1,1,0,1,0,0,Senior,Very High,High
+1360,41,Female,Unemployed,2.9,6.4,0,5.6,5,5.2,Low,6,1,1,0,0,0,0,Mid Age,Low,Low
+1361,47,Female,Employed,7.4,2.5,0,6.8,5,3.5,High,5,3,1,0,0,0,0,Mid Age,High,Ideal
+1362,25,Male,Employed,11.1,4.5,0,7.4,10,11.5,High,9,2,0,0,1,1,0,Young Adult,Very High,High
+1363,31,Male,Student,5.9,2.6,0,7.1,2,2.8,Medium,9,0,0,0,0,0,1,Adult,Moderate,High
+1364,22,Male,Student,10.3,3.9,0,5.8,5,3.0,High,1,3,1,0,0,1,0,Young Adult,Very High,Low
+1365,32,Female,Student,3.3,6.5,1,5.3,7,6.9,Medium,3,2,0,0,0,1,0,Adult,Low,Low
+1366,38,Female,Student,11.4,6.4,0,5.3,2,10.2,Low,1,2,1,0,0,1,0,Mid Age,Very High,Low
+1367,41,Female,Unemployed,9.5,2.6,0,6.8,6,9.7,Low,6,3,1,0,1,1,1,Mid Age,Very High,Ideal
+1368,36,Male,Employed,11.4,7.5,0,6.0,7,11.4,High,3,2,1,1,0,0,1,Mid Age,Very High,Low
+1369,37,Male,Employed,8.8,5.1,1,8.1,5,3.4,Low,1,4,0,0,1,1,0,Mid Age,Very High,High
+1370,22,Female,Student,5.6,3.7,1,8.2,9,5.8,Low,6,2,1,1,1,0,0,Young Adult,Moderate,High
+1371,29,Male,Student,11.4,4.5,1,4.0,4,4.8,Medium,5,3,0,1,1,1,1,Adult,Very High,Very Low
+1372,30,Female,Unemployed,4.8,5.2,1,3.8,10,10.6,High,8,2,1,1,0,0,1,Adult,Moderate,Very Low
+1373,22,Male,Unemployed,5.3,4.9,0,6.8,1,6.9,Low,2,3,0,0,0,0,0,Young Adult,Moderate,Ideal
+1374,24,Male,Student,9.0,4.4,0,4.8,8,2.3,High,8,1,0,0,0,1,1,Young Adult,Very High,Very Low
+1375,23,Male,Employed,9.7,4.5,0,3.1,8,9.1,Low,5,3,0,1,1,0,1,Young Adult,Very High,Very Low
+1376,38,Male,Employed,11.3,2.2,1,8.3,7,5.9,Medium,8,2,0,0,1,1,0,Mid Age,Very High,High
+1377,44,Female,Employed,4.0,6.7,0,4.4,8,7.3,Low,10,3,1,0,0,1,0,Mid Age,Low,Very Low
+1378,33,Male,Student,10.0,4.8,0,8.6,2,10.9,High,4,0,0,0,0,0,1,Adult,Very High,High
+1379,46,Female,Employed,9.4,1.9,0,7.3,3,4.6,High,4,3,0,0,0,1,0,Mid Age,Very High,High
+1380,45,Female,Unemployed,2.6,6.4,1,7.6,9,4.4,Medium,10,3,1,0,0,1,0,Mid Age,Low,High
+1381,54,Female,Unemployed,5.9,7.5,1,4.2,1,4.6,Low,4,0,0,0,0,0,0,Senior,Moderate,Very Low
+1382,50,Male,Student,4.8,7.6,1,4.4,8,5.4,Medium,6,0,1,1,0,1,1,Mid Age,Moderate,Very Low
+1383,33,Female,Unemployed,5.0,3.6,0,6.1,8,3.1,High,4,0,0,1,1,1,1,Adult,Moderate,Ideal
+1384,57,Female,Student,11.8,1.9,0,4.0,7,9.0,Medium,9,4,1,1,1,1,1,Senior,Very High,Very Low
+1385,54,Female,Employed,8.4,4.6,0,4.8,5,4.1,Low,9,3,0,1,1,1,1,Senior,Very High,Very Low
+1386,32,Male,Employed,9.2,1.8,0,4.9,4,11.3,Low,3,0,0,1,0,0,1,Adult,Very High,Very Low
+1387,29,Male,Employed,11.8,7.5,1,4.0,10,4.2,Medium,7,0,0,0,1,0,1,Adult,Very High,Very Low
+1388,46,Female,Unemployed,5.8,2.3,0,4.2,10,4.6,High,5,1,0,0,0,1,1,Mid Age,Moderate,Very Low
+1389,39,Male,Student,10.0,2.8,1,7.7,10,5.0,High,9,4,1,0,1,1,1,Mid Age,Very High,High
+1390,50,Female,Employed,6.3,3.8,0,4.0,10,9.7,Medium,2,3,0,1,1,1,1,Mid Age,High,Very Low
+1391,59,Female,Student,10.7,3.7,1,3.2,6,6.3,Low,3,2,1,1,1,1,1,Senior,Very High,Very Low
+1392,49,Male,Employed,3.8,6.6,0,6.8,1,10.2,Low,10,4,1,0,1,0,0,Mid Age,Low,Ideal
+1393,18,Female,Unemployed,11.5,4.2,0,8.9,5,9.8,Low,5,4,1,1,0,1,0,Teen,Very High,High
+1394,52,Male,Unemployed,4.2,2.2,1,5.0,4,11.3,Low,5,1,1,0,1,1,1,Senior,Moderate,Very Low
+1395,58,Male,Student,5.3,2.9,1,3.7,4,9.6,High,10,3,0,0,1,0,1,Senior,Moderate,Very Low
+1396,55,Female,Unemployed,9.6,4.6,0,6.4,7,2.5,Low,7,3,0,0,1,1,0,Senior,Very High,Ideal
+1397,41,Male,Unemployed,5.9,2.0,0,8.4,9,10.4,Medium,8,0,0,1,1,1,1,Mid Age,Moderate,High
+1398,38,Male,Student,8.1,5.3,0,7.7,8,11.4,Medium,8,0,0,1,0,0,0,Mid Age,Very High,High
+1399,59,Female,Employed,6.4,5.0,1,6.7,8,11.9,Medium,1,4,0,0,1,1,1,Senior,High,Ideal
+1400,54,Female,Unemployed,9.4,6.0,0,4.9,5,3.3,Medium,1,1,0,0,0,0,1,Senior,Very High,Very Low
+1401,30,Male,Student,4.3,7.6,1,6.3,6,8.1,Low,3,3,1,1,1,1,1,Adult,Moderate,Ideal
+1402,19,Male,Unemployed,2.6,7.4,0,3.5,2,4.0,High,1,1,1,1,0,0,0,Young Adult,Low,Very Low
+1403,44,Female,Unemployed,5.0,7.6,0,7.1,3,4.6,Low,1,2,0,1,0,1,1,Mid Age,Moderate,High
+1404,37,Male,Unemployed,6.7,2.7,0,7.4,5,9.5,High,10,3,0,1,0,1,1,Mid Age,High,High
+1405,40,Male,Unemployed,3.7,1.9,0,8.8,2,11.8,Low,8,0,0,0,0,0,0,Mid Age,Low,High
+1406,28,Male,Student,5.5,3.1,1,4.6,3,7.9,High,1,4,1,0,0,0,0,Adult,Moderate,Very Low
+1407,33,Male,Student,6.0,7.3,1,3.1,4,10.5,Medium,9,1,0,1,0,0,1,Adult,Moderate,Very Low
+1408,48,Male,Student,2.6,7.8,0,6.3,6,2.1,Medium,2,0,0,1,1,1,0,Mid Age,Low,Ideal
+1409,31,Male,Unemployed,7.8,7.0,0,7.2,5,2.4,High,9,4,0,1,1,0,1,Adult,High,High
+1410,57,Male,Unemployed,10.8,1.8,0,7.7,10,8.0,High,7,0,1,1,1,0,1,Senior,Very High,High
+1411,59,Female,Unemployed,3.5,7.6,1,4.2,4,5.9,High,9,3,1,0,0,0,0,Senior,Low,Very Low
+1412,17,Female,Student,8.0,4.0,0,4.6,2,10.9,Medium,3,1,0,1,1,0,1,Teen,High,Very Low
+1413,50,Female,Unemployed,8.6,1.1,1,6.1,5,5.0,Medium,1,2,1,1,1,1,0,Mid Age,Very High,Ideal
+1414,57,Female,Employed,6.2,4.1,1,5.0,5,6.3,Low,1,0,1,0,1,0,1,Senior,High,Very Low
+1415,49,Female,Unemployed,9.0,1.3,1,8.2,7,7.3,High,10,1,1,1,1,1,0,Mid Age,Very High,High
+1416,45,Male,Employed,6.1,4.8,1,5.8,1,4.7,High,6,3,0,0,0,0,1,Mid Age,High,Low
+1417,28,Male,Unemployed,7.0,3.4,0,7.8,4,11.1,High,7,0,0,0,0,1,0,Adult,High,High
+1418,28,Male,Student,2.1,4.3,0,6.5,5,6.6,Medium,9,3,1,0,1,1,0,Adult,Low,Ideal
+1419,33,Male,Unemployed,8.9,5.3,1,7.6,8,6.2,High,6,2,1,1,1,1,0,Adult,Very High,High
+1420,47,Female,Employed,8.6,7.1,0,5.0,8,10.5,High,5,2,1,0,1,0,1,Mid Age,Very High,Very Low
+1421,47,Male,Employed,2.4,5.6,0,8.0,1,5.1,Medium,2,4,0,1,0,1,0,Mid Age,Low,High
+1422,50,Male,Unemployed,5.7,4.0,0,4.6,5,10.2,High,2,4,1,1,0,1,1,Mid Age,Moderate,Very Low
+1423,54,Female,Employed,11.8,6.7,1,6.3,10,3.2,Low,8,4,1,0,1,1,0,Senior,Very High,Ideal
+1424,44,Male,Employed,6.2,7.3,0,4.3,1,3.8,Medium,1,3,0,0,1,0,0,Mid Age,High,Very Low
+1425,44,Male,Student,7.0,1.8,0,5.9,1,11.5,Medium,8,4,1,0,0,0,0,Mid Age,High,Low
+1426,59,Female,Unemployed,11.1,4.7,0,4.9,2,10.4,Medium,10,1,1,1,0,0,1,Senior,Very High,Very Low
+1427,31,Male,Unemployed,9.2,3.0,0,4.6,2,5.9,Low,7,3,0,1,0,1,0,Adult,Very High,Very Low
+1428,59,Male,Unemployed,7.8,1.3,0,8.8,9,8.4,Medium,7,3,1,0,1,0,1,Senior,High,High
+1429,25,Male,Employed,10.0,5.7,0,4.0,4,11.4,Medium,5,4,1,1,1,1,1,Young Adult,Very High,Very Low
+1430,45,Male,Unemployed,10.6,7.0,0,7.7,3,4.1,Medium,3,4,1,0,0,0,1,Mid Age,Very High,High
+1431,40,Male,Unemployed,6.6,2.1,0,8.9,1,2.6,Medium,7,3,1,1,0,1,0,Mid Age,High,High
+1432,54,Female,Student,6.8,6.7,0,3.1,2,7.4,Low,7,2,0,1,1,0,1,Senior,High,Very Low
+1433,35,Female,Student,5.9,7.0,0,7.2,6,3.4,High,7,2,0,1,1,1,0,Adult,Moderate,High
+1434,20,Female,Student,11.7,7.4,1,4.5,9,3.9,High,2,4,0,1,1,0,1,Young Adult,Very High,Very Low
+1435,16,Female,Employed,9.0,2.9,0,3.2,5,10.9,Medium,3,2,1,0,1,1,0,Teen,Very High,Very Low
+1436,45,Female,Unemployed,2.8,7.3,1,5.4,4,2.1,Low,3,1,0,0,0,1,0,Mid Age,Low,Low
+1437,18,Female,Student,10.6,3.2,0,8.6,5,10.2,Medium,4,1,0,0,1,0,0,Teen,Very High,High
+1438,29,Male,Student,6.8,4.9,1,3.1,9,7.2,High,9,1,1,1,0,1,1,Adult,High,Very Low
+1439,45,Female,Student,2.7,1.4,1,6.5,7,7.6,High,10,3,0,1,1,0,1,Mid Age,Low,Ideal
+1440,19,Female,Unemployed,7.5,1.3,0,6.0,8,8.7,Low,1,3,1,0,0,0,1,Young Adult,High,Low
+1441,33,Male,Unemployed,6.2,6.0,1,8.2,4,6.3,High,7,3,1,0,1,0,0,Adult,High,High
+1442,52,Male,Unemployed,10.8,4.1,1,3.5,8,3.2,Medium,7,3,1,0,1,1,1,Senior,Very High,Very Low
+1443,40,Female,Employed,4.0,2.8,1,7.1,6,3.0,Low,4,3,0,1,0,0,0,Mid Age,Low,High
+1444,16,Male,Employed,10.3,2.3,0,7.1,5,9.5,High,1,4,0,0,0,0,0,Teen,Very High,High
+1445,30,Female,Student,7.6,5.7,1,7.0,7,4.2,Medium,3,2,1,0,1,1,1,Adult,High,Ideal
+1446,24,Male,Unemployed,2.5,1.0,1,8.7,6,2.3,Low,5,4,0,0,0,1,0,Young Adult,Low,High
+1447,30,Female,Student,11.7,6.6,0,7.9,3,11.8,Medium,2,2,1,0,1,1,0,Adult,Very High,High
+1448,39,Male,Unemployed,7.1,1.6,1,3.3,5,11.8,High,7,4,0,0,0,1,1,Mid Age,High,Very Low
+1449,19,Male,Unemployed,4.9,2.3,1,5.8,9,5.8,Medium,10,1,0,0,1,1,1,Young Adult,Moderate,Low
+1450,27,Female,Unemployed,6.7,3.7,1,5.4,7,2.3,Low,10,0,0,0,1,0,0,Adult,High,Low
+1451,52,Female,Employed,10.6,4.4,0,4.9,4,9.3,Medium,7,3,0,0,1,0,0,Senior,Very High,Very Low
+1452,52,Female,Employed,5.0,3.5,1,5.7,7,10.3,High,10,0,0,0,0,0,0,Senior,Moderate,Low
+1453,58,Female,Unemployed,3.9,3.2,0,5.3,5,3.3,Low,5,0,1,1,0,0,1,Senior,Low,Low
+1454,21,Female,Student,3.3,7.7,1,5.6,2,3.4,Low,10,1,0,0,0,0,0,Young Adult,Low,Low
+1455,54,Male,Unemployed,5.0,5.5,1,8.9,6,10.2,High,6,0,0,0,0,0,0,Senior,Moderate,High
+1456,39,Female,Unemployed,9.8,1.2,1,3.5,7,11.2,Medium,1,0,0,0,1,0,1,Mid Age,Very High,Very Low
+1457,26,Female,Student,6.7,4.0,1,8.5,8,9.9,Medium,4,1,0,1,1,0,1,Adult,High,High
+1458,28,Male,Unemployed,4.3,7.1,0,5.9,6,4.0,High,4,2,0,1,0,1,1,Adult,Moderate,Low
+1459,49,Male,Student,3.7,3.1,1,6.7,8,6.1,Low,8,4,1,0,1,1,1,Mid Age,Low,Ideal
+1460,40,Female,Employed,5.3,1.7,0,8.0,7,8.0,High,2,0,1,1,1,1,1,Mid Age,Moderate,High
+1461,22,Male,Employed,11.4,6.3,1,5.2,2,3.6,Low,1,3,1,1,1,1,0,Young Adult,Very High,Low
+1462,19,Male,Student,5.4,5.2,0,5.6,6,4.1,Low,7,1,0,0,1,0,1,Young Adult,Moderate,Low
+1463,23,Female,Employed,11.9,5.0,1,5.5,9,4.8,Medium,6,0,0,1,0,1,1,Young Adult,Very High,Low
+1464,35,Male,Employed,6.9,1.4,1,5.2,6,7.1,High,5,2,1,1,1,0,1,Adult,High,Low
+1465,44,Male,Student,3.8,2.0,0,8.6,4,7.1,Low,8,2,1,0,0,1,0,Mid Age,Low,High
+1466,25,Female,Employed,10.9,5.4,0,8.0,7,10.1,Medium,2,3,1,0,1,1,0,Young Adult,Very High,High
+1467,58,Female,Unemployed,6.6,2.5,0,3.7,3,9.5,High,2,0,1,1,1,0,1,Senior,High,Very Low
+1468,49,Male,Unemployed,9.1,4.5,0,3.6,5,11.1,High,9,3,0,0,1,1,0,Mid Age,Very High,Very Low
+1469,41,Male,Student,11.8,4.8,1,5.6,1,10.3,Low,1,2,1,0,0,0,1,Mid Age,Very High,Low
+1470,56,Female,Employed,2.5,3.0,0,3.6,10,4.5,Low,6,2,0,0,0,0,1,Senior,Low,Very Low
+1471,18,Male,Unemployed,3.0,7.6,0,6.7,3,5.3,Low,3,4,1,1,0,0,0,Teen,Low,Ideal
+1472,21,Male,Unemployed,9.2,6.9,0,3.9,8,7.0,High,5,2,0,0,1,1,1,Young Adult,Very High,Very Low
+1473,20,Male,Employed,4.8,6.1,1,6.1,9,2.1,Low,8,1,0,1,1,1,1,Young Adult,Moderate,Ideal
+1474,20,Female,Employed,3.8,1.5,1,3.0,9,11.0,High,7,4,0,1,0,1,1,Young Adult,Low,Very Low
+1475,38,Male,Unemployed,2.4,1.7,1,4.9,10,2.4,Medium,4,3,1,0,1,0,1,Mid Age,Low,Very Low
+1476,24,Male,Unemployed,2.2,4.4,1,7.1,2,5.2,High,8,2,0,1,0,0,1,Young Adult,Low,High
+1477,50,Female,Student,9.7,2.1,0,5.9,4,7.7,Low,10,1,0,0,0,1,0,Mid Age,Very High,Low
+1478,35,Male,Student,3.3,7.8,1,8.9,5,7.2,High,2,4,1,0,0,1,1,Adult,Low,High
+1479,57,Male,Unemployed,6.7,2.1,0,8.2,3,8.5,Low,7,1,1,0,0,0,0,Senior,High,High
+1480,50,Female,Student,8.1,4.4,1,5.2,1,7.3,Medium,5,4,1,0,1,0,0,Mid Age,Very High,Low
+1481,33,Female,Unemployed,6.3,3.5,0,3.3,6,4.3,Low,6,4,1,0,0,1,1,Adult,High,Very Low
+1482,32,Female,Unemployed,2.3,5.5,0,8.1,10,4.0,Low,3,4,1,1,0,1,1,Adult,Low,High
+1483,39,Female,Student,9.8,1.9,0,8.5,2,11.1,Low,10,3,1,1,1,1,0,Mid Age,Very High,High
+1484,18,Male,Student,2.1,4.0,0,7.9,9,4.6,Low,7,4,0,0,0,0,1,Teen,Low,High
+1485,47,Male,Employed,9.6,2.9,0,3.8,1,4.8,Low,7,4,0,1,1,0,1,Mid Age,Very High,Very Low
+1486,50,Female,Employed,10.9,7.2,1,9.0,9,6.1,Low,2,1,1,1,1,1,0,Mid Age,Very High,High
+1487,53,Female,Employed,6.3,1.3,0,4.6,7,3.4,Medium,1,4,1,1,0,1,0,Senior,High,Very Low
+1488,28,Male,Unemployed,7.4,7.4,0,7.3,10,7.1,Medium,10,3,0,1,1,1,1,Adult,High,High
+1489,40,Female,Student,6.8,6.8,0,8.4,2,8.7,High,2,1,0,0,1,0,0,Mid Age,High,High
+1490,24,Male,Unemployed,5.9,3.1,0,4.4,6,9.9,Low,8,4,0,0,1,0,1,Young Adult,Moderate,Very Low
+1491,19,Female,Student,10.9,6.5,1,8.4,8,9.1,High,10,1,1,0,1,1,1,Young Adult,Very High,High
+1492,29,Male,Unemployed,10.9,1.2,1,4.9,2,3.5,Medium,3,3,0,1,1,0,0,Adult,Very High,Very Low
+1493,52,Female,Employed,5.4,7.8,0,8.9,5,6.6,Medium,4,1,0,1,1,0,0,Senior,Moderate,High
+1494,49,Female,Employed,8.2,4.7,0,4.7,6,2.4,Low,8,3,1,0,1,1,1,Mid Age,Very High,Very Low
+1495,26,Male,Employed,11.3,3.1,0,8.7,3,2.2,Low,3,2,1,0,0,1,0,Adult,Very High,High
+1496,56,Female,Unemployed,11.6,3.5,0,3.3,2,6.4,High,6,4,1,1,0,1,1,Senior,Very High,Very Low
+1497,18,Male,Student,7.1,1.5,1,7.3,6,4.5,Medium,2,3,0,0,1,1,1,Teen,High,High
+1498,43,Male,Student,6.5,7.9,1,6.2,3,8.8,High,3,4,1,1,1,0,1,Mid Age,High,Ideal
+1499,44,Male,Employed,4.8,1.3,0,5.9,2,9.2,High,1,3,0,0,1,0,1,Mid Age,Moderate,Low
+1500,24,Male,Employed,11.6,5.6,0,4.3,1,11.0,High,9,0,0,0,0,1,0,Young Adult,Very High,Very Low
+1501,18,Male,Employed,3.4,4.1,0,7.2,8,9.6,Low,4,0,1,1,0,0,1,Teen,Low,High
+1502,40,Female,Employed,7.8,7.6,0,4.1,1,2.5,Medium,6,0,0,0,0,0,0,Mid Age,High,Very Low
+1503,49,Female,Student,4.8,2.7,0,6.3,5,5.7,High,7,3,1,0,1,0,1,Mid Age,Moderate,Ideal
+1504,27,Male,Unemployed,4.8,4.7,1,4.5,6,4.7,Medium,2,4,1,0,0,0,0,Adult,Moderate,Very Low
+1505,57,Female,Unemployed,6.0,4.4,1,8.7,3,5.9,Medium,8,0,1,0,0,0,0,Senior,Moderate,High
+1506,24,Male,Unemployed,12.0,5.9,0,3.2,7,3.6,High,9,4,1,0,0,1,0,Young Adult,Very High,Very Low
+1507,30,Female,Unemployed,2.5,1.5,1,4.2,2,3.0,High,10,3,0,0,0,0,0,Adult,Low,Very Low
+1508,55,Female,Employed,7.8,2.4,1,4.5,7,7.2,Low,2,4,1,1,1,1,0,Senior,High,Very Low
+1509,40,Female,Employed,2.8,2.5,1,5.5,2,9.2,Medium,5,4,0,1,0,0,0,Mid Age,Low,Low
+1510,20,Female,Employed,3.5,6.2,0,4.4,5,9.0,High,2,0,0,1,0,1,1,Young Adult,Low,Very Low
+1511,26,Male,Unemployed,6.4,2.3,1,5.9,7,6.5,High,5,1,1,1,1,1,1,Adult,High,Low
+1512,49,Male,Employed,7.1,5.0,1,8.2,3,7.2,Medium,7,2,0,1,1,1,1,Mid Age,High,High
+1513,39,Female,Employed,4.6,2.5,0,7.3,4,7.2,High,6,3,1,0,0,1,1,Mid Age,Moderate,High
+1514,30,Female,Student,5.2,7.0,1,6.5,1,8.9,Medium,4,3,1,0,1,1,1,Adult,Moderate,Ideal
+1515,53,Male,Student,2.9,7.6,0,3.5,3,2.5,High,2,3,1,1,1,0,1,Senior,Low,Very Low
+1516,23,Female,Employed,5.0,4.6,1,7.2,9,9.1,Medium,7,2,0,0,0,1,1,Young Adult,Moderate,High
+1517,20,Male,Student,11.7,3.5,0,4.0,10,7.8,High,10,1,1,0,1,0,1,Young Adult,Very High,Very Low
+1518,41,Male,Student,11.4,2.6,0,7.7,5,4.0,High,9,4,1,0,0,1,0,Mid Age,Very High,High
+1519,33,Male,Employed,5.3,1.3,1,4.5,8,2.5,Low,1,3,0,0,0,1,1,Adult,Moderate,Very Low
+1520,21,Female,Employed,7.7,2.9,1,5.5,2,3.1,Medium,3,4,1,0,0,1,0,Young Adult,High,Low
+1521,52,Male,Employed,11.1,5.6,0,5.1,3,7.2,Low,7,0,1,1,0,1,0,Senior,Very High,Low
+1522,28,Female,Employed,2.1,4.7,0,8.2,7,9.6,High,9,0,1,1,0,1,1,Adult,Low,High
+1523,43,Male,Unemployed,10.1,7.6,1,3.8,10,5.3,Medium,5,0,1,0,1,1,0,Mid Age,Very High,Very Low
+1524,20,Female,Unemployed,11.5,3.8,1,6.4,4,5.8,Medium,7,3,1,1,1,1,1,Young Adult,Very High,Ideal
+1525,28,Female,Employed,2.9,5.9,1,3.9,9,11.3,High,10,2,1,1,1,0,1,Adult,Low,Very Low
+1526,32,Female,Student,3.6,4.4,1,7.2,7,4.1,High,7,3,0,1,1,1,1,Adult,Low,High
+1527,55,Male,Employed,11.6,4.6,0,8.4,1,3.0,High,4,0,1,1,1,0,0,Senior,Very High,High
+1528,47,Male,Employed,7.4,2.9,0,5.6,4,5.4,High,5,0,1,0,0,0,1,Mid Age,High,Low
+1529,44,Female,Student,2.1,4.2,0,5.9,10,9.5,Medium,2,3,1,1,1,0,0,Mid Age,Low,Low
+1530,18,Female,Unemployed,4.6,4.3,1,8.6,6,8.3,Low,8,2,1,0,1,0,1,Teen,Moderate,High
+1531,55,Female,Employed,6.5,5.9,1,6.1,6,6.2,Medium,1,2,0,1,0,1,0,Senior,High,Ideal
+1532,49,Male,Employed,8.9,7.6,0,5.9,10,11.6,Medium,2,4,1,1,1,0,1,Mid Age,Very High,Low
+1533,55,Male,Unemployed,9.3,3.3,0,6.5,6,9.3,Medium,3,1,0,0,1,1,0,Senior,Very High,Ideal
+1534,42,Male,Unemployed,12.0,1.3,0,7.1,5,2.6,Medium,7,0,1,0,0,0,0,Mid Age,Very High,High
+1535,28,Male,Student,4.9,4.5,0,3.6,3,9.4,High,6,2,1,1,0,0,0,Adult,Moderate,Very Low
+1536,48,Female,Unemployed,7.4,4.8,0,7.9,2,2.2,Low,7,0,0,1,0,0,0,Mid Age,High,High
+1537,21,Female,Unemployed,7.3,2.2,0,5.6,3,8.5,Medium,5,1,0,0,0,0,1,Young Adult,High,Low
+1538,39,Male,Unemployed,6.1,6.3,1,3.4,9,4.1,Medium,4,0,1,1,1,1,1,Mid Age,High,Very Low
+1539,34,Male,Student,3.7,7.9,0,7.7,3,9.0,Low,7,2,1,0,0,0,0,Adult,Low,High
+1540,31,Female,Unemployed,11.8,7.6,0,5.3,3,5.1,High,3,4,1,0,1,0,1,Adult,Very High,Low
+1541,55,Male,Unemployed,10.5,2.4,0,3.6,1,10.7,Medium,10,3,1,0,0,0,0,Senior,Very High,Very Low
+1542,43,Male,Student,7.0,7.1,0,6.8,2,5.4,High,7,3,1,1,1,1,1,Mid Age,High,Ideal
+1543,48,Male,Unemployed,8.0,5.9,0,8.3,3,8.2,Medium,2,2,1,0,0,0,0,Mid Age,High,High
+1544,56,Male,Unemployed,4.3,4.2,0,8.3,2,4.9,Medium,8,2,0,0,0,0,0,Senior,Moderate,High
+1545,28,Male,Student,7.4,4.8,0,8.7,8,11.2,Low,6,1,1,1,0,0,1,Adult,High,High
+1546,58,Male,Employed,8.9,6.9,1,8.2,6,9.8,Low,3,0,1,0,0,1,0,Senior,Very High,High
+1547,40,Female,Student,7.2,4.4,0,3.0,7,4.4,High,3,1,1,1,1,0,1,Mid Age,High,Very Low
+1548,57,Male,Unemployed,11.9,3.6,1,5.3,1,11.5,Medium,5,3,0,1,1,0,1,Senior,Very High,Low
+1549,51,Male,Unemployed,8.1,4.5,1,7.9,6,5.6,High,3,0,0,0,0,0,0,Senior,Very High,High
+1550,42,Female,Unemployed,5.7,5.1,1,5.2,2,8.5,Low,6,1,0,1,1,0,1,Mid Age,Moderate,Low
+1551,53,Female,Student,9.7,2.3,0,6.6,6,9.4,Low,2,3,1,1,1,1,0,Senior,Very High,Ideal
+1552,22,Female,Unemployed,3.7,7.3,0,6.6,3,2.2,Low,8,0,0,1,1,0,0,Young Adult,Low,Ideal
+1553,20,Male,Unemployed,5.8,5.7,0,5.2,7,11.6,Low,9,4,1,0,0,1,0,Young Adult,Moderate,Low
+1554,58,Female,Student,5.5,5.4,0,8.4,3,5.4,Low,7,4,1,0,1,0,1,Senior,Moderate,High
+1555,46,Male,Employed,6.3,1.7,0,6.0,9,3.9,High,3,1,1,0,1,0,1,Mid Age,High,Low
+1556,38,Male,Employed,9.8,5.2,0,5.8,3,10.5,High,10,2,1,1,0,0,1,Mid Age,Very High,Low
+1557,57,Male,Unemployed,6.8,1.8,0,9.0,7,9.0,Low,4,0,1,0,1,1,1,Senior,High,High
+1558,25,Female,Student,9.9,1.6,0,6.0,4,2.9,Medium,10,1,1,0,1,0,0,Young Adult,Very High,Low
+1559,47,Female,Unemployed,7.8,4.7,0,4.1,8,3.2,Medium,2,2,1,1,0,0,1,Mid Age,High,Very Low
+1560,58,Female,Student,5.4,3.8,0,6.1,2,9.2,Medium,9,2,0,0,0,0,0,Senior,Moderate,Ideal
+1561,45,Female,Student,10.1,5.1,1,7.9,8,2.7,Medium,5,0,0,1,1,1,1,Mid Age,Very High,High
+1562,54,Female,Employed,4.4,1.6,0,7.7,9,11.2,Medium,2,0,0,0,1,1,1,Senior,Moderate,High
+1563,46,Male,Employed,4.2,4.0,0,7.7,8,9.4,Low,10,2,1,1,0,0,1,Mid Age,Moderate,High
+1564,33,Male,Student,7.0,2.2,0,7.2,6,5.4,High,6,3,0,1,1,1,1,Adult,High,High
+1565,51,Male,Unemployed,4.6,7.9,1,4.5,10,5.6,Low,7,1,1,1,0,0,1,Senior,Moderate,Very Low
+1566,17,Male,Employed,2.1,4.9,0,8.2,1,7.1,Medium,2,0,0,1,0,0,0,Teen,Low,High
+1567,29,Female,Unemployed,8.5,5.8,0,8.4,7,5.6,Medium,1,2,0,0,0,0,0,Adult,Very High,High
+1568,28,Female,Employed,7.1,3.3,1,4.2,1,9.8,High,7,3,1,1,0,0,1,Adult,High,Very Low
+1569,44,Male,Employed,6.5,1.7,0,3.8,7,11.7,Low,1,4,0,1,1,1,1,Mid Age,High,Very Low
+1570,27,Female,Unemployed,11.7,7.8,1,8.9,2,7.8,High,3,2,1,1,0,1,1,Adult,Very High,High
+1571,54,Female,Employed,7.7,3.0,1,8.2,8,6.5,Medium,4,3,0,1,0,1,0,Senior,High,High
+1572,17,Male,Employed,10.6,4.0,1,8.4,2,4.2,Medium,2,4,0,1,0,0,1,Teen,Very High,High
+1573,47,Male,Unemployed,3.4,5.5,1,8.3,3,8.5,High,7,3,0,1,1,0,0,Mid Age,Low,High
+1574,28,Female,Employed,7.7,1.2,0,6.3,3,8.9,Medium,5,0,1,0,0,0,1,Adult,High,Ideal
+1575,42,Female,Employed,10.7,6.7,1,6.9,1,8.9,Low,1,2,1,1,1,1,1,Mid Age,Very High,Ideal
+1576,56,Male,Employed,7.8,4.8,1,6.3,5,2.3,Medium,8,4,0,0,0,0,1,Senior,High,Ideal
+1577,32,Male,Unemployed,9.2,2.9,0,3.3,5,11.0,Medium,10,3,0,1,0,0,1,Adult,Very High,Very Low
+1578,55,Male,Student,5.7,1.4,0,7.5,10,5.4,Low,7,4,1,1,0,1,0,Senior,Moderate,High
+1579,46,Female,Unemployed,2.9,2.1,0,6.0,5,9.4,Medium,4,1,0,0,0,0,1,Mid Age,Low,Low
+1580,49,Male,Student,6.6,7.3,1,6.9,9,9.6,High,2,2,0,1,0,1,1,Mid Age,High,Ideal
+1581,39,Male,Employed,5.9,5.8,0,6.0,6,8.5,High,7,0,1,1,1,0,1,Mid Age,Moderate,Low
+1582,50,Female,Student,10.7,2.7,1,6.0,6,5.9,Medium,2,4,0,0,1,1,1,Mid Age,Very High,Low
+1583,21,Female,Unemployed,4.4,1.5,1,4.0,3,8.1,Low,6,3,0,0,0,0,0,Young Adult,Moderate,Very Low
+1584,34,Female,Unemployed,11.7,5.8,0,4.7,5,2.4,Low,1,4,1,0,0,0,0,Adult,Very High,Very Low
+1585,45,Female,Employed,11.6,5.0,0,4.0,10,9.6,High,7,3,1,0,1,1,1,Mid Age,Very High,Very Low
+1586,22,Female,Student,4.5,3.8,0,4.2,7,3.0,Medium,7,4,1,1,1,1,0,Young Adult,Moderate,Very Low
+1587,25,Male,Employed,5.5,3.5,0,8.8,3,6.0,Low,4,0,1,0,0,0,0,Young Adult,Moderate,High
+1588,56,Male,Employed,11.0,2.5,0,3.9,2,3.0,Low,4,0,0,0,0,1,0,Senior,Very High,Very Low
+1589,47,Female,Unemployed,11.7,5.7,0,4.6,5,10.4,High,10,2,1,0,1,0,0,Mid Age,Very High,Very Low
+1590,49,Female,Student,6.4,7.8,1,6.5,3,7.5,High,5,0,1,1,0,0,0,Mid Age,High,Ideal
+1591,43,Female,Student,5.2,2.2,1,6.7,5,8.9,Low,2,4,0,0,1,1,1,Mid Age,Moderate,Ideal
+1592,30,Female,Student,7.3,5.2,0,3.9,9,8.8,High,9,4,1,1,1,1,0,Adult,High,Very Low
+1593,45,Female,Student,8.9,4.0,1,7.8,10,10.4,Low,10,0,1,1,0,1,1,Mid Age,Very High,High
+1594,52,Male,Employed,4.7,4.1,1,7.7,1,3.3,Medium,4,1,0,1,1,0,0,Senior,Moderate,High
+1595,44,Male,Employed,9.4,2.8,1,4.4,4,8.6,High,9,4,1,1,1,1,1,Mid Age,Very High,Very Low
+1596,37,Male,Unemployed,2.5,6.8,1,4.7,10,7.8,High,3,2,1,0,0,1,1,Mid Age,Low,Very Low
+1597,19,Male,Employed,2.5,4.4,1,8.6,5,2.3,Medium,9,1,0,0,0,0,1,Young Adult,Low,High
+1598,35,Female,Employed,5.9,4.8,1,8.0,2,4.0,Low,1,0,1,1,1,0,0,Adult,Moderate,High
+1599,47,Male,Unemployed,5.5,3.1,0,7.2,2,4.7,Low,7,3,1,0,0,0,0,Mid Age,Moderate,High
+1600,51,Female,Unemployed,5.2,2.3,0,3.5,1,2.7,High,4,4,0,0,1,0,0,Senior,Moderate,Very Low
+1601,19,Female,Unemployed,6.9,1.6,0,5.5,8,5.5,Low,7,3,0,0,0,1,0,Young Adult,High,Low
+1602,42,Female,Employed,5.2,6.0,1,6.4,2,2.3,Low,10,2,1,0,0,0,0,Mid Age,Moderate,Ideal
+1603,32,Male,Employed,3.9,2.4,0,4.1,3,7.5,Medium,6,1,1,1,1,0,0,Adult,Low,Very Low
+1604,27,Female,Unemployed,5.1,5.8,0,5.7,2,4.1,Medium,4,3,1,0,1,0,0,Adult,Moderate,Low
+1605,37,Male,Unemployed,11.7,3.7,0,6.6,4,4.9,Medium,4,2,0,0,1,0,0,Mid Age,Very High,Ideal
+1606,32,Male,Unemployed,6.1,3.9,1,5.0,1,11.1,High,8,3,1,1,1,1,1,Adult,High,Very Low
+1607,25,Female,Employed,6.4,4.3,0,7.7,3,7.0,Medium,7,3,1,0,0,0,0,Young Adult,High,High
+1608,16,Female,Employed,7.8,3.6,1,8.0,5,4.7,Medium,4,2,0,0,1,0,1,Teen,High,High
+1609,37,Female,Student,11.8,1.7,0,4.9,10,8.0,Low,6,4,1,0,1,1,1,Mid Age,Very High,Very Low
+1610,41,Male,Employed,4.4,3.2,0,8.0,1,4.0,Medium,6,3,1,1,0,0,0,Mid Age,Moderate,High
+1611,33,Female,Employed,8.8,5.6,0,3.6,4,2.7,High,1,2,1,0,1,0,1,Adult,Very High,Very Low
+1612,29,Male,Employed,9.2,5.7,1,8.0,6,2.2,Medium,2,3,0,0,0,1,1,Adult,Very High,High
+1613,44,Female,Unemployed,8.1,3.0,1,3.9,4,11.5,High,4,4,0,1,1,0,1,Mid Age,Very High,Very Low
+1614,27,Female,Employed,2.9,4.2,1,3.5,7,9.2,Low,6,2,1,0,0,1,1,Adult,Low,Very Low
+1615,51,Male,Unemployed,8.8,2.4,1,6.9,7,10.0,Low,6,3,1,1,0,1,1,Senior,Very High,Ideal
+1616,50,Male,Student,2.6,2.5,1,5.8,6,11.8,Medium,1,0,0,1,0,0,1,Mid Age,Low,Low
+1617,27,Male,Student,8.0,1.2,0,8.4,9,11.3,Low,8,4,1,1,1,1,1,Adult,High,High
+1618,22,Male,Unemployed,9.4,7.3,0,5.2,2,9.4,Medium,2,3,0,0,1,0,1,Young Adult,Very High,Low
+1619,44,Male,Unemployed,4.1,2.5,1,4.7,10,8.9,Low,5,1,0,0,1,1,1,Mid Age,Moderate,Very Low
+1620,26,Male,Unemployed,10.4,2.6,1,6.0,8,5.4,High,4,2,0,0,1,1,0,Adult,Very High,Low
+1621,48,Female,Employed,2.3,3.0,0,5.7,8,3.0,Low,5,3,0,0,1,0,0,Mid Age,Low,Low
+1622,21,Female,Student,10.4,1.9,1,5.1,10,7.7,Medium,5,4,0,0,1,1,0,Young Adult,Very High,Low
+1623,30,Male,Unemployed,6.6,5.5,0,7.2,4,7.8,Medium,10,4,1,1,0,0,1,Adult,High,High
+1624,47,Female,Employed,4.2,1.5,1,7.6,6,11.5,Medium,8,1,0,1,0,0,1,Mid Age,Moderate,High
+1625,26,Male,Student,3.3,1.9,0,8.1,6,6.4,High,10,1,1,1,0,1,1,Adult,Low,High
+1626,38,Female,Employed,11.5,5.5,1,8.8,5,8.9,Low,7,3,1,1,0,0,0,Mid Age,Very High,High
+1627,41,Female,Student,2.7,3.4,1,4.6,1,7.7,Medium,9,0,1,0,0,0,0,Mid Age,Low,Very Low
+1628,49,Male,Employed,4.0,6.0,0,7.3,3,3.8,High,1,4,0,1,0,1,0,Mid Age,Low,High
+1629,49,Male,Student,5.5,4.9,0,5.4,7,7.9,High,6,0,1,1,0,0,0,Mid Age,Moderate,Low
+1630,44,Male,Student,8.2,2.8,1,7.1,8,7.4,High,6,0,1,0,0,1,1,Mid Age,Very High,High
+1631,19,Female,Employed,7.4,5.6,1,5.9,2,6.9,Low,2,3,1,1,0,1,1,Young Adult,High,Low
+1632,32,Male,Unemployed,3.3,1.8,0,9.0,3,7.1,Low,8,2,0,0,0,1,0,Adult,Low,High
+1633,50,Female,Student,4.9,4.8,1,7.4,4,3.6,Low,6,2,1,0,0,0,0,Mid Age,Moderate,High
+1634,28,Male,Unemployed,4.4,4.1,0,8.7,5,6.6,High,10,2,0,0,0,0,0,Adult,Moderate,High
+1635,56,Female,Employed,4.1,2.9,0,8.0,3,8.1,Low,9,1,0,1,0,0,0,Senior,Moderate,High
+1636,54,Female,Unemployed,6.1,5.2,1,8.4,5,6.9,Medium,10,4,1,1,0,0,0,Senior,High,High
+1637,30,Male,Unemployed,9.0,7.1,0,7.9,8,6.9,High,5,1,1,1,1,0,0,Adult,Very High,High
+1638,44,Female,Unemployed,4.2,8.0,0,5.8,8,2.8,Low,7,4,0,1,0,1,0,Mid Age,Moderate,Low
+1639,44,Female,Unemployed,5.7,5.3,1,4.5,2,3.9,High,6,4,0,1,0,0,1,Mid Age,Moderate,Very Low
+1640,26,Male,Unemployed,5.9,3.8,0,5.2,6,5.2,High,5,4,1,1,1,0,0,Adult,Moderate,Low
+1641,47,Female,Student,11.8,2.6,0,3.1,4,6.2,Low,6,3,1,0,0,0,0,Mid Age,Very High,Very Low
+1642,17,Male,Student,11.5,2.8,0,6.1,9,7.9,High,4,2,1,0,1,1,0,Teen,Very High,Ideal
+1643,29,Male,Student,10.0,4.4,0,6.0,10,10.6,Low,3,1,1,1,1,1,1,Adult,Very High,Low
+1644,35,Male,Employed,4.4,3.6,1,6.2,2,3.6,Low,1,1,1,1,0,1,1,Adult,Moderate,Ideal
+1645,37,Male,Unemployed,2.7,7.4,0,8.8,8,2.2,Low,1,3,0,0,1,1,1,Mid Age,Low,High
+1646,26,Female,Student,5.2,3.6,1,8.5,1,6.5,High,6,4,0,0,0,0,0,Adult,Moderate,High
+1647,42,Female,Employed,4.7,3.6,0,4.0,6,6.3,High,9,2,0,0,0,1,1,Mid Age,Moderate,Very Low
+1648,18,Female,Student,7.1,3.7,1,5.2,10,7.5,Low,8,0,0,1,0,1,1,Teen,High,Low
+1649,32,Male,Student,9.8,6.9,0,5.5,1,10.3,High,2,0,0,1,0,0,0,Adult,Very High,Low
+1650,59,Female,Unemployed,10.6,5.6,1,5.2,2,10.0,Low,9,3,1,1,0,0,0,Senior,Very High,Low
+1651,43,Female,Employed,10.4,5.3,0,7.8,3,3.0,Medium,8,2,0,0,0,0,0,Mid Age,Very High,High
+1652,44,Male,Unemployed,5.6,3.3,0,6.1,9,11.3,High,9,0,1,1,1,0,0,Mid Age,Moderate,Ideal
+1653,36,Male,Unemployed,8.9,6.7,0,6.4,5,3.1,High,4,0,0,1,1,0,0,Mid Age,Very High,Ideal
+1654,31,Female,Student,5.1,1.3,0,8.1,10,8.3,Medium,9,1,0,1,0,1,0,Adult,Moderate,High
+1655,52,Male,Unemployed,2.6,7.1,1,7.8,10,8.7,Medium,2,2,1,1,0,0,1,Senior,Low,High
+1656,35,Male,Employed,9.0,4.6,1,3.8,2,8.8,Medium,1,0,0,1,1,0,1,Adult,Very High,Very Low
+1657,21,Male,Unemployed,2.1,3.8,0,7.3,10,4.7,Low,9,1,0,1,1,0,0,Young Adult,Low,High
+1658,34,Male,Unemployed,6.1,4.5,1,5.6,5,5.3,Low,10,2,0,0,0,0,1,Adult,High,Low
+1659,20,Female,Unemployed,5.3,5.7,0,4.8,5,7.5,Medium,8,4,0,1,0,1,0,Young Adult,Moderate,Very Low
+1660,18,Male,Student,8.9,1.1,0,3.3,1,4.0,Low,7,2,1,0,0,0,0,Teen,Very High,Very Low
+1661,16,Male,Employed,9.7,7.1,1,5.9,3,2.2,High,8,3,0,0,0,1,0,Teen,Very High,Low
+1662,53,Male,Student,5.0,4.1,1,5.1,5,7.6,Medium,1,1,0,0,1,0,1,Senior,Moderate,Low
+1663,30,Male,Student,10.1,3.4,1,4.5,9,6.7,High,9,4,0,1,0,1,1,Adult,Very High,Very Low
+1664,49,Male,Student,4.9,2.0,0,7.2,10,8.6,Low,10,1,0,1,0,1,1,Mid Age,Moderate,High
+1665,50,Male,Student,6.5,4.1,0,7.6,1,3.5,Medium,9,1,0,1,0,1,1,Mid Age,High,High
+1666,40,Male,Student,9.3,4.5,1,4.5,8,10.4,Low,9,0,0,1,1,0,0,Mid Age,Very High,Very Low
+1667,39,Male,Employed,8.9,3.8,0,3.3,1,3.5,High,6,2,0,0,0,0,0,Mid Age,Very High,Very Low
+1668,27,Female,Unemployed,11.9,5.8,1,8.1,9,10.9,Low,4,1,0,1,1,1,1,Adult,Very High,High
+1669,33,Male,Student,4.3,3.9,1,3.1,6,6.5,High,2,1,1,0,0,0,1,Adult,Moderate,Very Low
+1670,30,Female,Student,8.6,7.7,1,8.6,1,7.5,Low,4,3,1,1,0,0,0,Adult,Very High,High
+1671,59,Male,Employed,8.1,5.2,1,6.8,8,11.0,High,7,3,1,1,0,1,1,Senior,Very High,Ideal
+1672,31,Male,Employed,11.2,6.7,1,4.9,5,5.0,Low,1,3,0,0,0,1,0,Adult,Very High,Very Low
+1673,42,Male,Unemployed,3.6,1.8,1,4.5,7,3.8,Medium,9,1,0,0,0,0,1,Mid Age,Low,Very Low
+1674,23,Male,Employed,9.5,3.8,0,3.1,7,6.5,Medium,3,4,1,0,1,1,1,Young Adult,Very High,Very Low
+1675,40,Female,Unemployed,7.7,3.4,0,4.4,7,4.4,Low,4,2,1,1,0,1,0,Mid Age,High,Very Low
+1676,32,Male,Student,4.7,5.0,1,3.8,6,7.3,High,5,1,1,0,1,1,1,Adult,Moderate,Very Low
+1677,44,Male,Student,6.7,7.0,1,6.7,8,4.8,Low,3,0,1,0,1,1,1,Mid Age,High,Ideal
+1678,23,Female,Unemployed,5.3,1.5,1,4.0,9,10.6,Medium,4,4,0,0,1,1,1,Young Adult,Moderate,Very Low
+1679,30,Female,Employed,7.8,1.5,0,6.2,2,8.1,High,5,4,1,1,0,0,0,Adult,High,Ideal
+1680,42,Male,Unemployed,10.9,7.0,1,6.5,7,2.0,Low,1,2,0,0,0,0,0,Mid Age,Very High,Ideal
+1681,22,Female,Employed,7.7,2.5,1,4.8,2,10.1,Low,9,4,1,0,1,0,0,Young Adult,High,Very Low
+1682,18,Female,Student,8.3,5.7,1,3.2,6,5.3,High,10,2,0,1,1,1,0,Teen,Very High,Very Low
+1683,44,Female,Employed,7.2,4.8,0,3.2,2,5.2,Low,10,4,0,0,0,0,1,Mid Age,High,Very Low
+1684,59,Male,Unemployed,2.5,6.8,1,3.2,10,5.8,Medium,4,2,0,0,0,0,1,Senior,Low,Very Low
+1685,39,Male,Unemployed,4.3,1.9,0,7.4,6,8.3,Medium,9,3,0,0,0,0,0,Mid Age,Moderate,High
+1686,18,Male,Student,6.9,1.9,0,4.9,2,6.4,High,4,3,1,1,1,0,0,Teen,High,Very Low
+1687,35,Female,Employed,5.1,4.9,1,7.8,1,8.3,Low,1,4,0,0,0,1,0,Adult,Moderate,High
+1688,30,Male,Employed,3.8,7.6,0,5.6,7,3.5,Low,5,4,0,0,0,0,1,Adult,Low,Low
+1689,40,Female,Employed,7.0,3.9,0,5.7,3,11.7,Medium,9,2,1,0,0,0,0,Mid Age,High,Low
+1690,45,Male,Student,5.2,3.3,0,6.1,4,9.3,High,3,2,1,0,1,0,1,Mid Age,Moderate,Ideal
+1691,29,Male,Employed,4.6,5.2,1,7.3,6,4.5,High,5,1,1,0,0,1,1,Adult,Moderate,High
+1692,22,Female,Unemployed,6.6,7.5,0,4.6,5,9.2,High,3,3,1,0,1,0,1,Young Adult,High,Very Low
+1693,32,Male,Employed,3.3,6.9,1,3.7,4,7.8,Medium,3,1,0,0,1,1,1,Adult,Low,Very Low
+1694,59,Female,Student,11.3,8.0,1,6.3,9,3.1,Medium,1,1,1,1,1,1,1,Senior,Very High,Ideal
+1695,35,Female,Employed,10.7,1.2,1,5.0,6,3.8,High,2,0,0,1,1,1,1,Adult,Very High,Very Low
+1696,51,Male,Employed,9.1,1.8,0,5.7,6,2.4,High,2,2,1,1,0,1,0,Senior,Very High,Low
+1697,24,Female,Unemployed,3.1,5.3,1,6.9,2,10.1,Low,9,0,0,0,1,0,1,Young Adult,Low,Ideal
+1698,53,Male,Employed,9.8,6.7,0,6.0,6,7.5,Low,7,0,1,1,1,1,0,Senior,Very High,Low
+1699,37,Male,Unemployed,10.1,3.0,0,6.7,7,5.2,High,8,1,1,0,1,1,0,Mid Age,Very High,Ideal
+1700,17,Female,Unemployed,9.7,2.7,0,6.3,8,3.3,Medium,2,0,1,0,1,1,1,Teen,Very High,Ideal
+1701,39,Male,Student,3.1,6.5,0,7.4,8,6.8,Medium,9,2,1,0,1,1,1,Mid Age,Low,High
+1702,23,Female,Unemployed,8.4,1.4,1,7.2,9,7.3,Low,3,1,0,1,1,1,0,Young Adult,Very High,High
+1703,26,Male,Unemployed,10.3,3.6,1,6.2,10,9.0,High,10,2,1,1,1,1,1,Adult,Very High,Ideal
+1704,28,Male,Student,7.8,4.5,0,7.1,3,11.7,Medium,2,4,0,0,0,1,1,Adult,High,High
+1705,32,Male,Unemployed,8.5,4.9,1,8.2,10,6.3,Medium,1,0,0,0,0,1,1,Adult,Very High,High
+1706,23,Male,Student,6.6,6.1,1,5.6,7,6.1,Medium,9,1,1,1,0,1,1,Young Adult,High,Low
+1707,36,Male,Employed,7.3,3.5,1,5.5,7,5.7,Medium,8,3,1,1,0,1,0,Mid Age,High,Low
+1708,33,Female,Student,2.3,5.3,0,7.6,1,10.3,Low,4,2,0,1,0,0,0,Adult,Low,High
+1709,45,Female,Unemployed,8.4,5.1,1,6.5,8,3.6,Medium,7,0,0,1,0,1,1,Mid Age,Very High,Ideal
+1710,33,Female,Student,2.8,4.8,0,3.4,4,5.4,Medium,3,2,0,1,1,0,0,Adult,Low,Very Low
+1711,46,Female,Unemployed,6.4,5.5,1,8.4,5,9.2,High,3,2,0,1,1,1,1,Mid Age,High,High
+1712,53,Female,Employed,4.9,2.8,0,3.2,6,2.2,High,4,4,0,1,0,0,0,Senior,Moderate,Very Low
+1713,47,Female,Student,7.5,1.6,0,7.5,3,4.9,Low,2,2,1,0,0,1,0,Mid Age,High,High
+1714,26,Male,Employed,3.3,1.8,0,7.6,5,8.4,Low,10,4,1,0,0,0,0,Adult,Low,High
+1715,40,Male,Unemployed,8.9,2.6,1,8.7,10,3.9,Low,4,4,0,1,1,1,1,Mid Age,Very High,High
+1716,48,Female,Unemployed,10.0,4.5,0,3.3,5,5.0,Low,10,4,1,1,1,0,0,Mid Age,Very High,Very Low
+1717,53,Female,Employed,3.6,6.9,1,6.6,1,6.9,Medium,3,0,0,0,0,0,1,Senior,Low,Ideal
+1718,56,Male,Student,3.0,5.9,0,5.6,3,6.2,High,8,2,1,1,1,0,1,Senior,Low,Low
+1719,23,Male,Student,3.5,6.5,1,5.0,3,3.1,Medium,2,2,0,0,0,0,0,Young Adult,Low,Very Low
+1720,26,Male,Unemployed,10.8,3.5,0,3.5,1,11.4,Medium,9,4,1,0,1,0,0,Adult,Very High,Very Low
+1721,37,Female,Employed,7.3,3.8,1,6.4,7,2.4,Medium,3,2,1,1,1,0,1,Mid Age,High,Ideal
+1722,39,Female,Employed,6.7,3.8,0,5.9,1,9.5,High,4,2,0,0,1,0,1,Mid Age,High,Low
+1723,56,Female,Student,3.1,2.3,0,3.6,7,2.7,Low,10,4,1,1,1,0,1,Senior,Low,Very Low
+1724,32,Male,Student,8.5,1.4,0,6.7,4,6.7,Low,10,3,0,1,1,1,1,Adult,Very High,Ideal
+1725,27,Male,Student,10.7,5.1,1,7.4,9,3.8,High,3,3,0,0,1,1,1,Adult,Very High,High
+1726,47,Female,Employed,10.3,7.9,0,7.6,7,3.4,High,3,4,1,0,1,1,0,Mid Age,Very High,High
+1727,30,Female,Student,8.3,2.2,0,8.4,5,3.3,Low,8,0,0,0,0,1,0,Adult,Very High,High
+1728,31,Male,Student,2.8,1.3,0,5.5,7,6.5,Medium,8,2,1,1,1,1,1,Adult,Low,Low
+1729,37,Male,Unemployed,3.1,6.5,0,8.7,9,7.2,Low,6,2,1,1,0,1,0,Mid Age,Low,High
+1730,43,Male,Student,2.5,2.8,1,8.2,10,3.3,High,4,3,0,1,0,0,0,Mid Age,Low,High
+1731,35,Male,Student,4.6,6.8,0,4.8,6,11.8,Low,1,4,1,1,1,1,0,Adult,Moderate,Very Low
+1732,48,Female,Employed,3.4,5.9,0,4.0,1,4.6,Low,4,0,0,1,0,0,0,Mid Age,Low,Very Low
+1733,25,Male,Employed,4.6,7.6,1,5.6,6,6.6,Low,8,4,0,1,1,1,1,Young Adult,Moderate,Low
+1734,55,Male,Unemployed,5.9,3.9,1,5.4,1,4.2,High,6,3,1,1,0,0,0,Senior,Moderate,Low
+1735,47,Male,Student,11.4,5.6,1,6.5,4,6.9,High,2,3,0,0,1,1,1,Mid Age,Very High,Ideal
+1736,48,Female,Unemployed,8.1,4.3,0,6.5,8,9.6,Low,3,2,1,1,1,1,0,Mid Age,Very High,Ideal
+1737,17,Female,Employed,10.3,5.4,1,7.5,5,7.2,Low,7,1,1,0,0,0,0,Teen,Very High,High
+1738,48,Male,Unemployed,9.1,4.1,1,6.1,5,4.9,Medium,4,0,0,0,1,1,0,Mid Age,Very High,Ideal
+1739,48,Male,Employed,3.1,2.3,1,3.6,10,4.5,Medium,4,0,1,1,0,0,0,Mid Age,Low,Very Low
+1740,56,Male,Unemployed,9.4,4.6,0,8.1,8,9.6,Low,5,1,0,0,0,0,1,Senior,Very High,High
+1741,28,Female,Unemployed,4.8,4.7,0,4.9,8,3.2,High,8,3,0,0,1,1,1,Adult,Moderate,Very Low
+1742,45,Female,Student,8.4,6.7,0,8.8,1,5.7,Medium,7,4,0,0,0,0,0,Mid Age,Very High,High
+1743,48,Female,Unemployed,5.4,6.1,1,3.7,5,3.5,Low,9,0,0,1,0,0,0,Mid Age,Moderate,Very Low
+1744,28,Male,Student,12.0,5.6,0,8.7,5,4.6,Medium,5,1,1,0,0,1,1,Adult,Very High,High
+1745,41,Female,Student,4.6,1.8,1,3.5,8,3.5,Medium,1,2,0,1,0,1,0,Mid Age,Moderate,Very Low
+1746,37,Male,Student,4.8,6.0,1,4.4,1,10.9,Medium,4,2,0,1,1,0,1,Mid Age,Moderate,Very Low
+1747,54,Male,Student,11.3,4.5,1,3.3,7,9.3,High,6,3,0,1,1,0,1,Senior,Very High,Very Low
+1748,17,Male,Unemployed,2.2,7.3,0,7.2,7,7.6,Low,6,0,1,0,1,1,0,Teen,Low,High
+1749,53,Female,Employed,9.0,7.4,1,8.1,9,4.2,High,9,4,1,0,0,1,1,Senior,Very High,High
+1750,54,Male,Employed,9.3,1.4,1,5.6,2,7.1,High,10,0,0,1,1,1,1,Senior,Very High,Low
+1751,41,Female,Employed,10.4,6.7,0,8.6,3,7.2,Medium,5,2,1,1,1,0,1,Mid Age,Very High,High
+1752,30,Female,Unemployed,11.7,1.3,1,6.5,4,7.9,Low,5,0,1,1,1,0,0,Adult,Very High,Ideal
+1753,49,Male,Student,11.8,3.6,1,6.8,1,2.6,Medium,6,2,0,0,1,0,0,Mid Age,Very High,Ideal
+1754,57,Male,Employed,2.7,4.8,1,8.1,7,11.7,High,6,1,0,0,1,0,1,Senior,Low,High
+1755,59,Female,Unemployed,10.2,2.0,0,4.8,10,6.7,High,3,1,1,0,1,0,1,Senior,Very High,Very Low
+1756,55,Male,Student,8.5,6.2,1,5.1,3,11.3,Low,6,2,1,0,1,1,1,Senior,Very High,Low
+1757,26,Female,Employed,8.5,1.1,0,8.4,3,2.1,High,8,4,1,0,0,0,0,Adult,Very High,High
+1758,18,Male,Student,3.3,2.2,0,8.4,3,4.5,High,6,4,0,0,0,1,0,Teen,Low,High
+1759,21,Female,Employed,8.5,5.1,1,8.9,8,3.0,Low,5,0,1,0,0,0,0,Young Adult,Very High,High
+1760,24,Female,Employed,11.8,6.0,1,8.4,9,9.7,Medium,3,2,1,1,1,1,1,Young Adult,Very High,High
+1761,21,Female,Employed,11.1,7.4,1,3.8,10,5.2,Low,1,3,1,0,0,1,1,Young Adult,Very High,Very Low
+1762,24,Female,Student,6.4,5.9,1,7.9,2,10.4,High,5,4,1,1,0,0,1,Young Adult,High,High
+1763,54,Male,Unemployed,2.4,5.7,0,5.5,10,10.3,Low,6,4,0,0,1,1,1,Senior,Low,Low
+1764,46,Male,Student,5.6,3.8,0,8.9,10,8.7,Medium,6,1,0,1,0,0,1,Mid Age,Moderate,High
+1765,47,Female,Employed,10.3,1.0,1,5.8,1,8.7,High,6,4,0,0,0,1,0,Mid Age,Very High,Low
+1766,56,Female,Student,9.0,1.8,0,6.3,9,9.0,Medium,3,4,1,0,1,1,1,Senior,Very High,Ideal
+1767,27,Male,Unemployed,6.6,4.7,1,6.2,6,8.7,Medium,4,4,0,0,1,0,1,Adult,High,Ideal
+1768,23,Male,Student,2.6,5.7,1,4.9,9,5.9,Low,3,2,1,1,1,0,1,Young Adult,Low,Very Low
+1769,23,Male,Unemployed,6.3,3.9,1,3.5,6,8.8,Medium,2,2,1,0,0,1,0,Young Adult,High,Very Low
+1770,43,Male,Unemployed,6.7,6.1,1,8.4,2,11.0,Low,8,1,0,0,0,0,1,Mid Age,High,High
+1771,35,Male,Student,11.3,4.7,0,7.8,1,5.3,Low,7,0,1,1,0,0,0,Adult,Very High,High
+1772,22,Male,Employed,8.4,1.5,0,3.8,8,11.4,Medium,8,4,1,0,1,0,1,Young Adult,Very High,Very Low
+1773,26,Female,Unemployed,5.1,2.3,1,7.7,3,2.1,Low,6,0,1,0,0,0,0,Adult,Moderate,High
+1774,35,Male,Student,7.3,6.9,1,6.8,1,5.5,Low,7,2,0,1,0,1,1,Adult,High,Ideal
+1775,31,Male,Unemployed,2.7,6.1,0,5.5,8,3.3,Medium,1,4,0,0,1,1,0,Adult,Low,Low
+1776,19,Female,Employed,11.7,7.3,0,4.5,1,3.3,High,10,0,0,1,0,0,0,Young Adult,Very High,Very Low
+1777,21,Male,Student,5.6,1.8,0,8.2,8,10.2,Low,5,0,0,1,0,1,0,Young Adult,Moderate,High
+1778,37,Male,Student,6.8,7.9,1,7.2,1,11.2,Low,4,3,0,1,0,0,0,Mid Age,High,High
+1779,41,Male,Student,5.6,2.5,0,6.3,9,9.8,Medium,10,2,0,0,1,0,1,Mid Age,Moderate,Ideal
+1780,18,Male,Employed,8.8,1.1,1,6.7,9,11.8,Low,3,1,0,0,0,1,0,Teen,Very High,Ideal
+1781,56,Male,Unemployed,8.6,8.0,1,3.5,9,4.2,Medium,2,1,0,1,0,1,1,Senior,Very High,Very Low
+1782,57,Female,Student,9.2,3.0,0,5.8,3,3.4,High,9,3,0,1,0,0,0,Senior,Very High,Low
+1783,29,Male,Unemployed,4.7,5.7,1,4.2,4,7.2,High,8,0,0,0,0,0,1,Adult,Moderate,Very Low
+1784,26,Female,Unemployed,5.2,2.2,0,4.3,5,10.3,Medium,10,3,1,0,0,1,1,Adult,Moderate,Very Low
+1785,33,Female,Employed,3.3,5.1,1,7.0,6,2.4,High,2,3,0,0,0,0,1,Adult,Low,Ideal
+1786,27,Male,Student,8.6,7.3,1,8.5,9,12.0,Medium,6,2,1,1,1,1,1,Adult,Very High,High
+1787,38,Female,Unemployed,2.4,3.2,1,5.4,4,8.0,Low,3,4,1,0,0,0,1,Mid Age,Low,Low
+1788,27,Male,Student,8.0,5.7,1,4.2,6,11.8,High,3,0,0,1,1,0,1,Adult,High,Very Low
+1789,28,Female,Student,10.7,2.3,1,6.9,1,5.7,Low,5,1,0,1,0,0,1,Adult,Very High,Ideal
+1790,40,Female,Employed,10.9,5.4,1,8.2,2,6.6,Low,7,1,1,0,1,0,0,Mid Age,Very High,High
+1791,34,Male,Student,6.5,3.4,0,7.5,8,9.5,Medium,7,3,0,0,1,0,1,Adult,High,High
+1792,51,Male,Student,6.6,2.5,0,8.2,4,9.9,High,10,3,0,1,1,1,0,Senior,High,High
+1793,23,Male,Unemployed,2.8,3.2,1,6.2,10,4.3,High,1,3,1,1,1,0,0,Young Adult,Low,Ideal
+1794,44,Male,Employed,8.7,2.3,0,7.5,7,11.3,Low,7,0,0,0,1,1,1,Mid Age,Very High,High
+1795,47,Male,Student,10.2,7.3,1,3.8,4,10.7,Low,7,3,0,1,0,0,1,Mid Age,Very High,Very Low
+1796,59,Female,Unemployed,4.4,3.8,0,5.1,9,2.2,Medium,6,3,1,0,1,0,1,Senior,Moderate,Low
+1797,33,Female,Employed,6.2,2.7,0,5.3,9,3.3,High,6,4,1,0,1,0,0,Adult,High,Low
+1798,21,Female,Employed,10.4,4.1,1,6.1,4,7.0,Medium,2,0,1,1,0,1,0,Young Adult,Very High,Ideal
+1799,33,Female,Unemployed,10.8,3.2,0,8.6,8,6.6,Medium,3,2,0,1,1,1,0,Adult,Very High,High
+1800,34,Female,Unemployed,4.4,6.2,1,8.2,6,9.1,Medium,3,2,1,0,0,0,0,Adult,Moderate,High
+1801,37,Female,Unemployed,7.5,7.8,0,3.8,1,2.9,High,3,4,0,1,1,0,0,Mid Age,High,Very Low
+1802,52,Female,Unemployed,3.9,4.1,1,4.0,7,8.4,Medium,2,1,0,1,1,0,1,Senior,Low,Very Low
+1803,47,Male,Unemployed,3.0,7.0,0,5.1,1,8.2,High,9,2,0,0,0,0,0,Mid Age,Low,Low
+1804,56,Male,Student,11.1,5.0,1,4.7,3,4.3,Medium,6,0,1,1,1,0,0,Senior,Very High,Very Low
+1805,18,Female,Student,10.2,2.1,0,6.7,8,7.4,Low,2,1,0,0,0,1,0,Teen,Very High,Ideal
+1806,43,Female,Employed,9.6,5.8,1,8.4,9,4.2,Medium,3,3,0,1,1,1,0,Mid Age,Very High,High
+1807,25,Male,Student,2.5,4.6,0,8.8,3,3.5,Medium,10,0,1,0,1,0,0,Young Adult,Low,High
+1808,50,Male,Student,10.4,5.6,1,6.9,1,7.7,High,6,1,1,1,0,0,0,Mid Age,Very High,Ideal
+1809,44,Male,Student,6.4,7.2,0,8.0,1,11.8,Low,4,2,0,1,1,0,1,Mid Age,High,High
+1810,30,Male,Unemployed,5.4,4.1,1,6.2,7,4.4,Low,7,3,1,1,0,1,0,Adult,Moderate,Ideal
+1811,48,Female,Employed,7.5,7.3,0,4.2,5,5.6,High,6,3,0,1,1,0,0,Mid Age,High,Very Low
+1812,22,Male,Employed,2.9,6.3,1,6.1,1,4.6,High,6,0,0,1,0,1,1,Young Adult,Low,Ideal
+1813,27,Female,Employed,9.6,4.4,1,6.3,6,4.7,Low,3,3,0,1,1,1,1,Adult,Very High,Ideal
+1814,45,Female,Employed,7.8,5.2,1,7.5,6,6.0,High,8,1,1,1,0,1,0,Mid Age,High,High
+1815,36,Female,Student,3.9,3.3,1,4.3,4,9.0,Low,9,4,1,1,0,0,0,Mid Age,Low,Very Low
+1816,46,Male,Student,3.9,7.9,0,5.2,7,2.4,Medium,6,2,0,0,1,0,1,Mid Age,Low,Low
+1817,39,Male,Unemployed,3.8,5.7,0,5.2,7,11.6,Medium,2,0,0,1,1,0,1,Mid Age,Low,Low
+1818,35,Female,Employed,2.6,1.3,0,8.8,9,2.5,Low,1,4,0,1,1,1,0,Adult,Low,High
+1819,52,Female,Student,7.9,3.3,1,5.7,1,10.8,Low,3,4,0,1,0,0,1,Senior,High,Low
+1820,19,Female,Student,10.4,5.4,1,7.5,5,10.9,Medium,3,0,1,1,1,0,1,Young Adult,Very High,High
+1821,43,Male,Unemployed,2.2,1.4,1,7.5,10,7.2,Medium,8,1,1,1,0,1,1,Mid Age,Low,High
+1822,59,Female,Unemployed,2.5,1.2,1,4.6,3,3.4,Low,5,2,1,0,1,0,0,Senior,Low,Very Low
+1823,35,Male,Unemployed,7.7,4.2,1,6.4,7,7.7,High,1,0,1,0,0,0,0,Adult,High,Ideal
+1824,39,Female,Student,10.2,3.3,0,8.4,4,8.3,High,4,4,1,1,0,1,1,Mid Age,Very High,High
+1825,47,Female,Student,5.3,4.1,0,5.9,4,10.6,Low,7,4,0,1,0,1,1,Mid Age,Moderate,Low
+1826,56,Female,Unemployed,5.5,2.8,0,8.7,1,7.5,High,5,0,1,1,0,0,1,Senior,Moderate,High
+1827,51,Male,Employed,8.0,2.2,1,4.3,1,6.1,Medium,10,4,0,1,1,0,1,Senior,High,Very Low
+1828,49,Male,Unemployed,4.7,5.8,1,3.4,10,10.4,Medium,6,0,0,0,1,0,1,Mid Age,Moderate,Very Low
+1829,51,Female,Unemployed,2.3,4.6,1,8.3,2,11.8,High,10,0,1,1,0,1,0,Senior,Low,High
+1830,17,Male,Unemployed,9.4,2.4,1,8.1,2,8.5,Low,4,2,1,0,0,0,1,Teen,Very High,High
+1831,30,Female,Unemployed,8.3,3.2,1,9.0,1,10.7,Medium,2,0,0,1,1,0,0,Adult,Very High,High
+1832,49,Male,Student,7.8,5.1,1,7.1,8,8.0,Medium,9,4,0,0,0,1,1,Mid Age,High,High
+1833,51,Male,Employed,9.4,1.5,1,8.6,6,8.9,Medium,2,3,0,0,0,1,0,Senior,Very High,High
+1834,21,Male,Unemployed,8.8,2.0,0,8.0,6,8.9,High,2,2,1,0,0,1,0,Young Adult,Very High,High
+1835,54,Female,Employed,4.1,1.5,0,8.1,10,9.0,Low,2,4,1,1,0,1,1,Senior,Moderate,High
+1836,57,Male,Employed,5.5,6.7,1,6.4,10,5.2,High,1,4,1,1,1,1,1,Senior,Moderate,Ideal
+1837,27,Male,Employed,3.3,6.3,1,5.3,9,7.8,Low,3,2,1,1,1,1,1,Adult,Low,Low
+1838,18,Female,Unemployed,3.3,6.3,1,8.6,5,7.9,Low,6,2,0,1,1,0,0,Teen,Low,High
+1839,33,Female,Student,8.8,6.0,0,5.6,4,5.2,High,7,4,1,1,1,1,0,Adult,Very High,Low
+1840,55,Female,Unemployed,10.6,5.7,0,6.2,6,5.5,Medium,1,3,0,0,1,1,1,Senior,Very High,Ideal
+1841,36,Female,Employed,11.6,4.3,1,5.7,8,9.6,Low,5,1,1,0,1,1,1,Mid Age,Very High,Low
+1842,30,Male,Employed,8.3,5.5,0,6.4,1,7.8,High,5,4,1,0,0,1,0,Adult,Very High,Ideal
+1843,48,Male,Student,3.8,1.3,0,5.8,7,3.5,Medium,1,2,1,1,0,0,1,Mid Age,Low,Low
+1844,50,Male,Unemployed,3.1,5.4,0,3.3,8,10.4,Low,4,0,0,0,0,0,0,Mid Age,Low,Very Low
+1845,41,Male,Employed,10.1,6.4,1,8.3,9,10.8,Low,10,0,0,1,1,1,1,Mid Age,Very High,High
+1846,23,Male,Student,7.8,4.5,0,5.7,8,6.7,Medium,1,2,1,0,0,0,1,Young Adult,High,Low
+1847,51,Female,Employed,8.2,3.5,0,6.5,7,4.1,Low,1,2,0,1,1,0,0,Senior,Very High,Ideal
+1848,45,Male,Student,9.8,2.9,1,3.8,3,11.5,High,7,1,0,0,0,1,0,Mid Age,Very High,Very Low
+1849,38,Male,Student,9.0,5.5,1,3.0,2,10.8,Low,7,2,1,1,0,1,1,Mid Age,Very High,Very Low
+1850,57,Male,Unemployed,10.3,5.8,0,4.5,3,4.4,Low,3,0,1,0,1,1,0,Senior,Very High,Very Low
+1851,59,Female,Employed,2.6,7.1,1,7.2,4,3.0,Medium,7,3,0,0,0,0,0,Senior,Low,High
+1852,29,Female,Unemployed,9.5,3.4,0,3.6,4,6.4,High,3,2,1,0,1,1,0,Adult,Very High,Very Low
+1853,29,Male,Employed,10.5,6.4,0,8.5,6,8.8,Medium,2,1,0,1,1,1,0,Adult,Very High,High
+1854,17,Female,Unemployed,4.9,4.9,1,4.3,7,3.8,High,10,3,0,0,1,1,1,Teen,Moderate,Very Low
+1855,52,Female,Employed,8.4,7.2,1,4.2,4,7.1,Medium,4,1,1,0,0,0,1,Senior,Very High,Very Low
+1856,20,Female,Unemployed,5.1,4.7,0,4.1,10,6.3,Low,10,3,0,0,1,0,1,Young Adult,Moderate,Very Low
+1857,53,Female,Student,11.6,4.6,1,3.1,6,10.9,High,3,2,1,1,1,1,1,Senior,Very High,Very Low
+1858,56,Female,Employed,2.3,5.0,1,7.6,9,6.3,High,7,0,0,0,0,1,1,Senior,Low,High
+1859,29,Female,Employed,7.8,6.2,0,8.3,6,7.3,Low,1,3,0,1,0,0,0,Adult,High,High
+1860,54,Female,Student,3.7,7.8,0,6.7,3,11.6,Medium,6,4,0,0,0,1,1,Senior,Low,Ideal
+1861,40,Male,Unemployed,9.1,1.5,0,4.1,1,5.0,High,2,1,0,0,1,0,1,Mid Age,Very High,Very Low
+1862,35,Male,Employed,3.8,1.4,0,4.7,10,4.9,Low,8,3,0,1,1,0,0,Adult,Low,Very Low
+1863,17,Female,Employed,4.4,7.6,0,5.9,10,10.0,Low,5,1,0,1,0,0,1,Teen,Moderate,Low
+1864,54,Male,Unemployed,6.9,4.7,0,8.7,5,4.8,High,3,0,1,0,0,0,0,Senior,High,High
+1865,21,Male,Student,11.1,5.3,1,4.5,10,10.3,High,10,1,0,1,1,1,1,Young Adult,Very High,Very Low
+1866,32,Female,Unemployed,4.1,4.4,1,7.4,10,3.0,High,7,1,0,1,1,0,1,Adult,Moderate,High
+1867,40,Male,Unemployed,3.4,1.7,0,5.6,3,3.1,Low,2,4,0,1,0,0,0,Mid Age,Low,Low
+1868,43,Female,Unemployed,9.6,6.4,1,4.8,8,11.0,Medium,5,1,1,0,0,0,0,Mid Age,Very High,Very Low
+1869,17,Female,Employed,7.0,6.2,1,5.7,10,7.4,Medium,8,3,0,0,1,0,1,Teen,High,Low
+1870,50,Female,Student,11.1,3.2,0,3.4,1,9.2,High,1,1,0,0,0,1,1,Mid Age,Very High,Very Low
+1871,52,Male,Student,3.5,3.1,1,7.8,2,4.3,Low,1,2,0,1,0,0,0,Senior,Low,High
+1872,20,Male,Unemployed,8.5,6.9,1,4.5,3,3.7,Low,3,1,1,1,1,1,1,Young Adult,Very High,Very Low
+1873,16,Male,Employed,4.3,1.5,0,7.4,3,10.3,High,3,2,1,1,1,0,0,Teen,Moderate,High
+1874,55,Male,Unemployed,3.6,7.2,1,3.4,8,5.6,Low,7,1,1,1,0,0,1,Senior,Low,Very Low
+1875,27,Female,Employed,8.8,2.8,1,8.7,5,6.6,Low,6,1,0,0,0,0,0,Adult,Very High,High
+1876,51,Female,Employed,7.9,5.2,0,4.2,8,2.3,Low,7,3,0,1,1,1,1,Senior,High,Very Low
+1877,38,Male,Employed,9.5,7.6,1,8.3,6,5.9,High,4,2,0,0,1,1,0,Mid Age,Very High,High
+1878,46,Female,Employed,5.1,5.7,1,7.9,2,9.7,High,2,2,1,1,0,1,0,Mid Age,Moderate,High
+1879,26,Female,Student,6.5,3.9,1,8.8,4,10.2,High,2,4,0,0,0,1,1,Adult,High,High
+1880,25,Male,Employed,6.1,5.8,0,5.9,9,9.0,Medium,10,1,1,0,1,0,0,Young Adult,High,Low
+1881,18,Female,Employed,11.8,3.4,0,7.4,4,8.9,Medium,1,1,1,1,1,0,1,Teen,Very High,High
+1882,29,Male,Unemployed,4.9,2.9,1,5.2,5,7.1,High,9,3,0,1,0,1,1,Adult,Moderate,Low
+1883,31,Female,Unemployed,4.9,8.0,1,4.1,5,7.4,Low,7,4,0,1,1,0,1,Adult,Moderate,Very Low
+1884,25,Male,Student,5.5,6.3,0,5.7,10,9.4,Low,10,4,1,0,1,1,0,Young Adult,Moderate,Low
+1885,44,Female,Unemployed,7.6,5.5,0,4.0,8,4.5,High,3,3,0,1,1,0,1,Mid Age,High,Very Low
+1886,25,Female,Employed,4.5,3.5,1,8.9,6,4.3,Low,2,2,1,0,0,1,0,Young Adult,Moderate,High
+1887,27,Male,Unemployed,11.2,1.3,0,3.6,10,11.5,Low,3,0,1,1,1,1,1,Adult,Very High,Very Low
+1888,45,Male,Student,4.7,1.2,1,6.5,7,2.3,Medium,7,3,0,0,1,1,1,Mid Age,Moderate,Ideal
+1889,56,Male,Unemployed,11.0,4.9,1,6.8,6,3.4,Low,5,2,0,1,0,0,1,Senior,Very High,Ideal
+1890,16,Male,Unemployed,3.0,6.3,0,6.2,5,7.7,Low,3,4,0,0,0,1,0,Teen,Low,Ideal
+1891,20,Female,Student,8.6,4.8,0,7.0,5,9.4,High,9,3,0,0,0,1,1,Young Adult,Very High,Ideal
+1892,35,Female,Student,11.1,6.9,1,3.7,3,7.4,Medium,2,0,0,0,1,0,1,Adult,Very High,Very Low
+1893,23,Male,Employed,3.7,1.2,1,6.3,7,5.6,Medium,7,1,0,1,1,0,0,Young Adult,Low,Ideal
+1894,58,Female,Unemployed,11.7,3.6,0,4.7,10,11.8,Low,10,3,0,0,0,1,0,Senior,Very High,Very Low
+1895,27,Male,Employed,6.5,2.7,1,8.6,5,9.0,High,6,0,1,1,0,0,1,Adult,High,High
+1896,16,Male,Unemployed,11.5,4.1,0,7.6,7,10.3,Medium,6,0,0,0,0,0,0,Teen,Very High,High
+1897,35,Female,Unemployed,8.8,1.5,0,8.8,2,2.4,Medium,7,3,0,1,0,0,1,Adult,Very High,High
+1898,43,Female,Employed,5.0,7.7,0,3.2,9,4.4,Low,6,2,0,1,1,1,1,Mid Age,Moderate,Very Low
+1899,58,Male,Unemployed,3.9,2.6,0,4.7,8,5.7,Medium,2,3,0,0,0,1,0,Senior,Low,Very Low
+1900,52,Male,Unemployed,5.0,7.5,0,4.2,5,3.8,High,5,4,1,0,1,1,1,Senior,Moderate,Very Low
+1901,52,Male,Unemployed,2.9,4.0,1,3.1,2,2.7,High,3,0,0,1,0,0,0,Senior,Low,Very Low
+1902,27,Female,Student,3.4,7.9,0,4.5,6,4.3,Medium,9,0,1,0,1,1,0,Adult,Low,Very Low
+1903,52,Female,Employed,3.0,4.9,0,7.1,8,7.3,High,8,1,1,1,1,0,0,Senior,Low,High
+1904,59,Female,Student,6.2,7.5,0,4.4,7,9.0,High,10,0,1,1,1,1,1,Senior,High,Very Low
+1905,43,Female,Employed,10.0,1.0,0,6.1,8,9.7,Low,2,1,1,1,1,1,1,Mid Age,Very High,Ideal
+1906,30,Male,Employed,3.4,6.2,0,8.3,4,2.4,Medium,1,0,1,1,0,0,0,Adult,Low,High
+1907,21,Male,Unemployed,3.3,7.3,0,7.2,3,6.3,Medium,4,0,0,1,0,0,1,Young Adult,Low,High
+1908,59,Male,Employed,8.4,2.0,0,5.4,7,3.2,Low,4,3,1,1,0,1,0,Senior,Very High,Low
+1909,35,Male,Student,4.0,1.7,1,5.2,2,6.3,Low,10,3,1,1,0,1,0,Adult,Low,Low
+1910,29,Male,Student,3.0,4.0,1,5.7,5,6.3,Low,2,4,0,1,0,1,0,Adult,Low,Low
+1911,17,Male,Student,3.7,7.5,1,4.1,7,7.0,Low,7,2,1,1,1,0,1,Teen,Low,Very Low
+1912,24,Female,Employed,11.2,4.8,1,6.8,1,10.9,High,3,4,0,0,0,0,1,Young Adult,Very High,Ideal
+1913,52,Female,Student,10.2,4.7,0,5.2,4,10.1,High,7,0,0,1,0,0,0,Senior,Very High,Low
+1914,35,Male,Employed,5.5,2.0,1,8.1,2,8.4,Low,7,4,0,1,1,0,1,Adult,Moderate,High
+1915,41,Male,Student,8.6,1.0,0,7.5,6,10.9,Medium,1,3,0,1,0,0,0,Mid Age,Very High,High
+1916,44,Female,Student,7.4,6.7,1,6.7,1,8.8,Medium,6,0,1,0,1,0,1,Mid Age,High,Ideal
+1917,16,Female,Employed,8.8,1.6,1,5.2,7,10.2,Medium,4,0,1,0,1,1,1,Teen,Very High,Low
+1918,50,Female,Student,8.8,5.4,0,4.3,3,7.6,Low,8,4,1,0,0,0,1,Mid Age,Very High,Very Low
+1919,21,Female,Unemployed,8.3,7.4,0,7.7,1,7.3,High,8,1,0,0,0,1,0,Young Adult,Very High,High
+1920,52,Male,Employed,4.7,2.5,1,5.9,8,9.2,High,3,2,0,0,1,1,0,Senior,Moderate,Low
+1921,20,Male,Employed,2.4,5.7,1,4.3,7,2.2,High,4,4,0,0,0,1,1,Young Adult,Low,Very Low
+1922,48,Male,Employed,6.6,1.6,1,4.2,2,8.9,High,1,4,1,1,0,0,0,Mid Age,High,Very Low
+1923,29,Male,Unemployed,10.9,5.2,1,4.0,7,11.3,Medium,10,2,0,0,1,1,1,Adult,Very High,Very Low
+1924,27,Male,Employed,7.7,2.1,0,7.7,3,9.1,Medium,2,0,1,0,0,0,0,Adult,High,High
+1925,57,Female,Student,10.3,6.2,1,4.4,9,2.4,High,7,0,1,0,1,1,1,Senior,Very High,Very Low
+1926,35,Male,Student,11.9,3.1,1,6.2,8,5.8,Low,7,1,0,0,1,1,0,Adult,Very High,Ideal
+1927,39,Female,Student,3.6,4.2,1,5.7,5,10.1,High,9,4,0,0,1,1,0,Mid Age,Low,Low
+1928,58,Male,Employed,8.9,5.2,1,6.5,7,11.6,High,10,2,0,1,0,0,0,Senior,Very High,Ideal
+1929,49,Male,Student,8.7,2.2,1,8.3,3,5.7,Low,9,4,0,1,1,1,0,Mid Age,Very High,High
+1930,40,Male,Employed,11.8,6.2,0,8.2,1,10.4,High,9,3,0,0,0,1,1,Mid Age,Very High,High
+1931,44,Male,Student,11.9,3.1,0,5.7,1,10.6,Medium,6,4,1,1,1,1,0,Mid Age,Very High,Low
+1932,54,Male,Unemployed,8.9,5.6,0,3.1,2,3.2,Low,8,4,1,0,1,1,0,Senior,Very High,Very Low
+1933,46,Female,Unemployed,4.4,2.1,0,5.6,8,10.5,Low,9,3,0,1,1,1,1,Mid Age,Moderate,Low
+1934,58,Female,Unemployed,10.0,5.8,0,6.6,1,5.2,High,7,3,0,1,0,1,0,Senior,Very High,Ideal
+1935,38,Female,Unemployed,3.1,1.9,1,6.3,5,7.9,Medium,4,2,0,0,1,1,0,Mid Age,Low,Ideal
+1936,59,Male,Employed,9.8,4.0,0,6.9,9,7.4,Medium,4,0,1,0,1,1,0,Senior,Very High,Ideal
+1937,53,Male,Student,11.1,2.7,0,3.9,9,8.6,Medium,6,1,1,0,0,1,0,Senior,Very High,Very Low
+1938,35,Female,Unemployed,5.8,6.2,1,6.9,2,9.4,High,4,3,1,1,0,0,0,Adult,Moderate,Ideal
+1939,38,Male,Employed,8.3,2.8,0,4.1,7,6.4,High,7,0,1,1,1,1,0,Mid Age,Very High,Very Low
+1940,31,Male,Unemployed,6.3,7.2,0,7.5,1,10.9,Medium,8,2,0,0,0,0,1,Adult,High,High
+1941,57,Female,Unemployed,6.4,7.2,0,5.0,3,10.1,High,8,4,1,0,1,0,1,Senior,High,Very Low
+1942,23,Male,Employed,5.1,2.4,0,7.3,6,9.9,Medium,8,2,1,1,0,0,1,Young Adult,Moderate,High
+1943,36,Female,Employed,9.6,5.3,1,3.3,9,6.6,High,2,2,0,0,1,0,1,Mid Age,Very High,Very Low
+1944,16,Male,Student,11.4,1.6,1,5.4,10,2.4,Low,10,3,0,1,1,1,1,Teen,Very High,Low
+1945,23,Female,Student,11.4,3.7,0,7.2,2,6.9,Low,2,1,1,1,1,0,0,Young Adult,Very High,High
+1946,44,Male,Unemployed,3.7,6.0,1,4.4,7,11.0,High,2,3,0,0,1,0,1,Mid Age,Low,Very Low
+1947,47,Male,Unemployed,10.7,5.6,0,7.8,4,3.9,High,2,4,0,1,0,0,0,Mid Age,Very High,High
+1948,53,Female,Student,9.4,5.4,1,6.8,2,11.8,Medium,4,3,0,1,1,0,0,Senior,Very High,Ideal
+1949,20,Male,Student,4.5,3.0,1,6.5,3,10.1,Low,5,4,1,1,1,1,0,Young Adult,Moderate,Ideal
+1950,37,Male,Employed,2.7,3.6,1,5.1,6,9.1,Medium,4,3,1,1,0,1,1,Mid Age,Low,Low
+1951,49,Female,Student,4.7,1.7,1,5.9,10,8.8,High,5,1,0,0,1,1,1,Mid Age,Moderate,Low
+1952,16,Male,Student,11.1,6.0,1,6.6,9,7.9,Medium,4,0,0,1,1,1,1,Teen,Very High,Ideal
+1953,41,Female,Unemployed,8.3,4.5,1,5.8,8,9.2,Medium,7,1,1,0,1,0,1,Mid Age,Very High,Low
+1954,58,Male,Student,9.2,6.0,1,7.2,10,6.2,High,10,3,1,1,1,1,0,Senior,Very High,High
+1955,25,Male,Unemployed,4.6,2.7,1,5.6,9,10.5,Low,1,2,0,0,1,0,1,Young Adult,Moderate,Low
+1956,45,Male,Student,9.2,3.3,1,4.2,4,9.0,Medium,1,0,0,1,1,1,0,Mid Age,Very High,Very Low
+1957,33,Male,Employed,2.3,3.3,1,4.3,4,9.7,High,2,2,1,1,1,1,1,Adult,Low,Very Low
+1958,32,Female,Student,5.8,1.2,1,3.0,9,9.9,Medium,1,1,0,0,1,0,1,Adult,Moderate,Very Low
+1959,41,Male,Student,8.3,3.4,0,4.8,8,2.9,High,10,0,1,1,0,1,0,Mid Age,Very High,Very Low
+1960,23,Female,Student,3.5,6.6,1,7.5,2,2.6,High,10,3,0,0,0,1,1,Young Adult,Low,High
+1961,55,Male,Unemployed,10.2,7.3,0,7.8,8,10.0,High,3,2,1,1,1,1,0,Senior,Very High,High
+1962,27,Male,Employed,4.4,4.6,1,4.2,1,4.6,Low,6,3,0,0,0,0,0,Adult,Moderate,Very Low
+1963,42,Male,Student,8.5,4.2,0,8.8,9,7.8,Low,10,4,1,0,0,1,1,Mid Age,Very High,High
+1964,23,Male,Unemployed,6.1,1.2,0,6.0,9,6.4,High,6,0,0,1,0,0,1,Young Adult,High,Low
+1965,40,Female,Employed,8.0,7.2,0,8.5,8,2.2,Low,1,2,0,1,0,1,0,Mid Age,High,High
+1966,19,Female,Unemployed,3.1,1.1,1,7.2,5,2.4,Medium,6,1,0,1,0,1,0,Young Adult,Low,High
+1967,48,Female,Unemployed,2.2,7.6,1,7.3,5,10.3,Low,5,1,0,1,1,1,1,Mid Age,Low,High
+1968,16,Female,Employed,11.1,4.4,1,3.5,3,8.1,Low,7,1,1,1,1,1,0,Teen,Very High,Very Low
+1969,34,Male,Student,4.7,3.4,1,4.3,5,7.2,Medium,6,1,0,1,1,0,1,Adult,Moderate,Very Low
+1970,46,Female,Unemployed,10.2,7.5,0,3.1,4,11.4,Medium,7,2,1,1,1,0,1,Mid Age,Very High,Very Low
+1971,31,Female,Unemployed,12.0,1.2,1,7.3,1,3.7,Medium,2,4,1,1,1,1,0,Adult,Very High,High
+1972,29,Male,Student,4.1,5.1,1,5.1,9,4.6,High,1,1,0,1,1,1,1,Adult,Moderate,Low
+1973,20,Male,Student,4.7,4.8,1,7.7,10,9.6,Medium,7,1,1,0,0,1,1,Young Adult,Moderate,High
+1974,56,Male,Employed,8.6,2.5,1,5.0,4,9.8,Medium,9,1,0,0,0,1,1,Senior,Very High,Very Low
+1975,41,Male,Employed,11.7,4.0,1,7.9,3,6.0,Medium,2,4,1,0,1,1,0,Mid Age,Very High,High
+1976,43,Female,Employed,11.2,5.6,1,3.8,6,11.5,High,7,0,0,1,1,1,1,Mid Age,Very High,Very Low
+1977,17,Female,Student,7.0,6.1,1,4.0,1,11.4,Low,3,1,0,0,0,1,0,Teen,High,Very Low
+1978,21,Male,Unemployed,10.0,1.0,1,5.0,5,2.1,High,6,1,1,1,0,0,1,Young Adult,Very High,Very Low
+1979,24,Male,Unemployed,3.4,7.6,0,5.5,7,3.7,Low,3,1,1,1,1,1,0,Young Adult,Low,Low
+1980,48,Male,Employed,11.8,2.2,0,5.1,2,10.2,Medium,10,0,0,1,1,0,0,Mid Age,Very High,Low
+1981,56,Female,Student,11.6,2.6,1,7.6,10,5.4,High,5,1,1,1,1,1,1,Senior,Very High,High
+1982,40,Female,Unemployed,3.6,2.8,1,3.6,9,3.0,High,2,0,0,0,1,0,1,Mid Age,Low,Very Low
+1983,28,Male,Employed,5.0,1.3,1,5.1,6,9.8,Low,8,0,0,0,0,1,1,Adult,Moderate,Low
+1984,24,Male,Unemployed,3.0,1.9,1,8.0,2,6.5,High,8,3,1,0,0,0,0,Young Adult,Low,High
+1985,28,Female,Unemployed,4.7,7.9,0,3.4,8,6.9,High,7,3,0,1,1,1,0,Adult,Moderate,Very Low
+1986,46,Male,Student,10.2,3.2,0,8.7,8,3.9,Low,6,1,1,1,0,1,0,Mid Age,Very High,High
+1987,56,Male,Student,5.8,1.8,1,8.9,1,8.6,High,1,2,0,0,0,0,0,Senior,Moderate,High
+1988,26,Female,Unemployed,2.9,1.7,0,3.5,1,7.5,High,8,3,0,1,0,0,0,Adult,Low,Very Low
+1989,19,Male,Employed,5.4,6.0,0,4.7,1,4.1,Medium,1,3,0,0,0,1,0,Young Adult,Moderate,Very Low
+1990,49,Female,Student,11.8,7.0,1,5.2,4,5.4,Medium,8,2,1,0,1,1,0,Mid Age,Very High,Low
+1991,53,Male,Unemployed,8.3,2.8,1,7.7,4,8.0,Medium,2,4,0,0,1,1,1,Senior,Very High,High
+1992,19,Male,Student,6.2,1.1,1,6.6,8,11.2,Medium,8,1,0,1,0,0,1,Young Adult,High,Ideal
+1993,53,Female,Student,3.7,2.6,0,6.9,1,11.2,Medium,10,4,1,0,0,0,0,Senior,Low,Ideal
+1994,34,Female,Student,11.9,1.4,0,7.5,10,4.9,High,4,4,0,1,0,1,0,Adult,Very High,High
+1995,21,Male,Unemployed,10.2,1.7,1,3.7,3,9.4,High,7,0,1,0,0,1,1,Young Adult,Very High,Very Low
+1996,49,Female,Employed,4.8,4.0,1,8.0,1,9.8,Medium,5,0,1,1,1,0,0,Mid Age,Moderate,High
+1997,33,Male,Employed,2.7,2.6,0,7.2,9,10.1,Low,8,1,1,1,1,1,1,Adult,Low,High
+1998,28,Male,Employed,2.6,4.6,0,6.5,10,7.7,Medium,6,2,0,0,0,1,1,Adult,Low,Ideal
+1999,56,Female,Student,3.2,2.8,1,8.3,9,2.1,High,5,0,1,1,0,0,0,Senior,Low,High
+2000,38,Male,Unemployed,7.8,7.6,0,7.2,7,9.6,Low,1,3,0,1,1,0,1,Mid Age,High,High
